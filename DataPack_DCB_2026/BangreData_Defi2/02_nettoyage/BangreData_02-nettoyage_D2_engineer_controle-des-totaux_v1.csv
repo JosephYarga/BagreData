@@ -1,0 +1,22 @@
+﻿controle;objet;ecart_absolu_max;observations;resultat
+somme des 13 regions = ligne nationale;effectif;0.0;30;OK
+G + F = T;effectif;0.0;140;OK
+somme des 13 regions = ligne nationale;nouveaux_inscrits_cp1;0.0;30;OK
+G + F = T;nouveaux_inscrits_cp1;0.0;140;OK
+somme des 13 regions = ligne nationale;effectif_prescolaire;0.0;30;OK
+G + F = T;effectif_prescolaire;0.0;140;OK
+Public + Prive = Total;ecoles primaires;0.0;140;OK
+somme des 13 regions = ligne nationale;ecoles primaires;0.0;10;OK
+Urbain + Rural = Ensemble;effectifs par milieu;0.0;30;OK
+total par milieu = total par region;effectifs nationaux;0.0;30;OK
+IPS publie = taux filles / taux garcons;ips_tba;0.0003;140;OK
+IPS publie = taux filles / taux garcons;ips_tbs;0.0002;140;OK
+IPS publie = taux filles / taux garcons;ips_tap;0.0006;140;OK
+effectif region (fichier DGESS) = Total Region (annuaire);effectif total 2024 et 2025;0.0;26;OK
+effectif region (fichier DGESS) = Total Region (annuaire);effectif filles 2024 et 2025;0.0;26;OK
+somme des provinces = Total Region;annuaires tableau I.2;0.0;26;OK
+urbain + rural = ensemble;provinces tableau I.2;0.0;90;OK
+"valeurs dans [0 ; 200]";tbs;0.0;420;OK
+"valeurs dans [0 ; 200]";tba;0.0;420;OK
+"valeurs dans [0 ; 200]";tap;0.0;420;OK
+"valeurs dans [0 ; 100]";taux_reussite_cep;0.0;420;OK

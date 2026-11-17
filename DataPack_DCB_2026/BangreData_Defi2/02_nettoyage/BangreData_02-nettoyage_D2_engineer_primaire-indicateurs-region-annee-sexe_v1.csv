@@ -1,0 +1,2941 @@
+﻿region_code;region;annee_fin;annee_scolaire;sexe;indicateur;valeur
+BF46;Boucle du Mouhoun;2016;2015-2016;G;effectif;139360.0
+BF46;Boucle du Mouhoun;2017;2016-2017;G;effectif;146616.0
+BF46;Boucle du Mouhoun;2018;2017-2018;G;effectif;155981.0
+BF46;Boucle du Mouhoun;2019;2018-2019;G;effectif;163245.0
+BF46;Boucle du Mouhoun;2020;2019-2020;G;effectif;149852.0
+BF46;Boucle du Mouhoun;2021;2020-2021;G;effectif;156935.0
+BF46;Boucle du Mouhoun;2022;2021-2022;G;effectif;131704.0
+BF46;Boucle du Mouhoun;2023;2022-2023;G;effectif;76063.0
+BF46;Boucle du Mouhoun;2024;2023-2024;G;effectif;98946.0
+BF46;Boucle du Mouhoun;2025;2024-2025;G;effectif;123879.0
+BF46;Boucle du Mouhoun;2016;2015-2016;F;effectif;131137.0
+BF46;Boucle du Mouhoun;2017;2016-2017;F;effectif;138922.0
+BF46;Boucle du Mouhoun;2018;2017-2018;F;effectif;147719.0
+BF46;Boucle du Mouhoun;2019;2018-2019;F;effectif;154821.0
+BF46;Boucle du Mouhoun;2020;2019-2020;F;effectif;143969.0
+BF46;Boucle du Mouhoun;2021;2020-2021;F;effectif;151233.0
+BF46;Boucle du Mouhoun;2022;2021-2022;F;effectif;129036.0
+BF46;Boucle du Mouhoun;2023;2022-2023;F;effectif;76989.0
+BF46;Boucle du Mouhoun;2024;2023-2024;F;effectif;98194.0
+BF46;Boucle du Mouhoun;2025;2024-2025;F;effectif;119532.0
+BF46;Boucle du Mouhoun;2016;2015-2016;T;effectif;270497.0
+BF46;Boucle du Mouhoun;2017;2016-2017;T;effectif;285538.0
+BF46;Boucle du Mouhoun;2018;2017-2018;T;effectif;303700.0
+BF46;Boucle du Mouhoun;2019;2018-2019;T;effectif;318066.0
+BF46;Boucle du Mouhoun;2020;2019-2020;T;effectif;293821.0
+BF46;Boucle du Mouhoun;2021;2020-2021;T;effectif;308168.0
+BF46;Boucle du Mouhoun;2022;2021-2022;T;effectif;260740.0
+BF46;Boucle du Mouhoun;2023;2022-2023;T;effectif;153052.0
+BF46;Boucle du Mouhoun;2024;2023-2024;T;effectif;197140.0
+BF46;Boucle du Mouhoun;2025;2024-2025;T;effectif;243411.0
+BF47;Cascades;2016;2015-2016;G;effectif;54887.0
+BF47;Cascades;2017;2016-2017;G;effectif;58578.0
+BF47;Cascades;2018;2017-2018;G;effectif;62108.0
+BF47;Cascades;2019;2018-2019;G;effectif;65390.0
+BF47;Cascades;2020;2019-2020;G;effectif;68529.0
+BF47;Cascades;2021;2020-2021;G;effectif;70430.0
+BF47;Cascades;2022;2021-2022;G;effectif;65810.0
+BF47;Cascades;2023;2022-2023;G;effectif;63447.0
+BF47;Cascades;2024;2023-2024;G;effectif;61988.0
+BF47;Cascades;2025;2024-2025;G;effectif;69755.0
+BF47;Cascades;2016;2015-2016;F;effectif;51711.0
+BF47;Cascades;2017;2016-2017;F;effectif;55501.0
+BF47;Cascades;2018;2017-2018;F;effectif;58483.0
+BF47;Cascades;2019;2018-2019;F;effectif;62013.0
+BF47;Cascades;2020;2019-2020;F;effectif;65591.0
+BF47;Cascades;2021;2020-2021;F;effectif;67828.0
+BF47;Cascades;2022;2021-2022;F;effectif;63331.0
+BF47;Cascades;2023;2022-2023;F;effectif;60804.0
+BF47;Cascades;2024;2023-2024;F;effectif;59990.0
+BF47;Cascades;2025;2024-2025;F;effectif;65795.0
+BF47;Cascades;2016;2015-2016;T;effectif;106598.0
+BF47;Cascades;2017;2016-2017;T;effectif;114079.0
+BF47;Cascades;2018;2017-2018;T;effectif;120591.0
+BF47;Cascades;2019;2018-2019;T;effectif;127403.0
+BF47;Cascades;2020;2019-2020;T;effectif;134120.0
+BF47;Cascades;2021;2020-2021;T;effectif;138258.0
+BF47;Cascades;2022;2021-2022;T;effectif;129141.0
+BF47;Cascades;2023;2022-2023;T;effectif;124251.0
+BF47;Cascades;2024;2023-2024;T;effectif;121978.0
+BF47;Cascades;2025;2024-2025;T;effectif;135550.0
+BF13;Centre;2016;2015-2016;G;effectif;202978.0
+BF13;Centre;2017;2016-2017;G;effectif;213696.0
+BF13;Centre;2018;2017-2018;G;effectif;217144.0
+BF13;Centre;2019;2018-2019;G;effectif;231829.0
+BF13;Centre;2020;2019-2020;G;effectif;243804.0
+BF13;Centre;2021;2020-2021;G;effectif;251713.0
+BF13;Centre;2022;2021-2022;G;effectif;259330.0
+BF13;Centre;2023;2022-2023;G;effectif;271582.0
+BF13;Centre;2024;2023-2024;G;effectif;284254.0
+BF13;Centre;2025;2024-2025;G;effectif;299604.0
+BF13;Centre;2016;2015-2016;F;effectif;207980.0
+BF13;Centre;2017;2016-2017;F;effectif;220449.0
+BF13;Centre;2018;2017-2018;F;effectif;223990.0
+BF13;Centre;2019;2018-2019;F;effectif;239919.0
+BF13;Centre;2020;2019-2020;F;effectif;253456.0
+BF13;Centre;2021;2020-2021;F;effectif;262213.0
+BF13;Centre;2022;2021-2022;F;effectif;272151.0
+BF13;Centre;2023;2022-2023;F;effectif;283841.0
+BF13;Centre;2024;2023-2024;F;effectif;294830.0
+BF13;Centre;2025;2024-2025;F;effectif;307951.0
+BF13;Centre;2016;2015-2016;T;effectif;410958.0
+BF13;Centre;2017;2016-2017;T;effectif;434145.0
+BF13;Centre;2018;2017-2018;T;effectif;441134.0
+BF13;Centre;2019;2018-2019;T;effectif;471748.0
+BF13;Centre;2020;2019-2020;T;effectif;497260.0
+BF13;Centre;2021;2020-2021;T;effectif;513926.0
+BF13;Centre;2022;2021-2022;T;effectif;531481.0
+BF13;Centre;2023;2022-2023;T;effectif;555423.0
+BF13;Centre;2024;2023-2024;T;effectif;579084.0
+BF13;Centre;2025;2024-2025;T;effectif;607555.0
+BF48;Centre-Est;2016;2015-2016;G;effectif;127125.0
+BF48;Centre-Est;2017;2016-2017;G;effectif;132470.0
+BF48;Centre-Est;2018;2017-2018;G;effectif;140184.0
+BF48;Centre-Est;2019;2018-2019;G;effectif;137386.0
+BF48;Centre-Est;2020;2019-2020;G;effectif;136401.0
+BF48;Centre-Est;2021;2020-2021;G;effectif;135512.0
+BF48;Centre-Est;2022;2021-2022;G;effectif;135827.0
+BF48;Centre-Est;2023;2022-2023;G;effectif;121442.0
+BF48;Centre-Est;2024;2023-2024;G;effectif;126370.0
+BF48;Centre-Est;2025;2024-2025;G;effectif;139801.0
+BF48;Centre-Est;2016;2015-2016;F;effectif;114084.0
+BF48;Centre-Est;2017;2016-2017;F;effectif;119357.0
+BF48;Centre-Est;2018;2017-2018;F;effectif;125568.0
+BF48;Centre-Est;2019;2018-2019;F;effectif;124751.0
+BF48;Centre-Est;2020;2019-2020;F;effectif;126439.0
+BF48;Centre-Est;2021;2020-2021;F;effectif;126265.0
+BF48;Centre-Est;2022;2021-2022;F;effectif;126979.0
+BF48;Centre-Est;2023;2022-2023;F;effectif;116111.0
+BF48;Centre-Est;2024;2023-2024;F;effectif;120645.0
+BF48;Centre-Est;2025;2024-2025;F;effectif;130864.0
+BF48;Centre-Est;2016;2015-2016;T;effectif;241209.0
+BF48;Centre-Est;2017;2016-2017;T;effectif;251827.0
+BF48;Centre-Est;2018;2017-2018;T;effectif;265752.0
+BF48;Centre-Est;2019;2018-2019;T;effectif;262137.0
+BF48;Centre-Est;2020;2019-2020;T;effectif;262840.0
+BF48;Centre-Est;2021;2020-2021;T;effectif;261777.0
+BF48;Centre-Est;2022;2021-2022;T;effectif;262806.0
+BF48;Centre-Est;2023;2022-2023;T;effectif;237553.0
+BF48;Centre-Est;2024;2023-2024;T;effectif;247015.0
+BF48;Centre-Est;2025;2024-2025;T;effectif;270665.0
+BF49;Centre-Nord;2016;2015-2016;G;effectif;118276.0
+BF49;Centre-Nord;2017;2016-2017;G;effectif;126545.0
+BF49;Centre-Nord;2018;2017-2018;G;effectif;136895.0
+BF49;Centre-Nord;2019;2018-2019;G;effectif;138920.0
+BF49;Centre-Nord;2020;2019-2020;G;effectif;115865.0
+BF49;Centre-Nord;2021;2020-2021;G;effectif;131433.0
+BF49;Centre-Nord;2022;2021-2022;G;effectif;128893.0
+BF49;Centre-Nord;2023;2022-2023;G;effectif;93387.0
+BF49;Centre-Nord;2024;2023-2024;G;effectif;104125.0
+BF49;Centre-Nord;2025;2024-2025;G;effectif;117805.0
+BF49;Centre-Nord;2016;2015-2016;F;effectif;107274.0
+BF49;Centre-Nord;2017;2016-2017;F;effectif;115733.0
+BF49;Centre-Nord;2018;2017-2018;F;effectif;124570.0
+BF49;Centre-Nord;2019;2018-2019;F;effectif;128687.0
+BF49;Centre-Nord;2020;2019-2020;F;effectif;111618.0
+BF49;Centre-Nord;2021;2020-2021;F;effectif;127174.0
+BF49;Centre-Nord;2022;2021-2022;F;effectif;126389.0
+BF49;Centre-Nord;2023;2022-2023;F;effectif;94271.0
+BF49;Centre-Nord;2024;2023-2024;F;effectif;104026.0
+BF49;Centre-Nord;2025;2024-2025;F;effectif;117949.0
+BF49;Centre-Nord;2016;2015-2016;T;effectif;225550.0
+BF49;Centre-Nord;2017;2016-2017;T;effectif;242278.0
+BF49;Centre-Nord;2018;2017-2018;T;effectif;261465.0
+BF49;Centre-Nord;2019;2018-2019;T;effectif;267607.0
+BF49;Centre-Nord;2020;2019-2020;T;effectif;227483.0
+BF49;Centre-Nord;2021;2020-2021;T;effectif;258607.0
+BF49;Centre-Nord;2022;2021-2022;T;effectif;255282.0
+BF49;Centre-Nord;2023;2022-2023;T;effectif;187658.0
+BF49;Centre-Nord;2024;2023-2024;T;effectif;208151.0
+BF49;Centre-Nord;2025;2024-2025;T;effectif;235754.0
+BF50;Centre-Ouest;2016;2015-2016;G;effectif;142796.0
+BF50;Centre-Ouest;2017;2016-2017;G;effectif;150006.0
+BF50;Centre-Ouest;2018;2017-2018;G;effectif;155366.0
+BF50;Centre-Ouest;2019;2018-2019;G;effectif;159554.0
+BF50;Centre-Ouest;2020;2019-2020;G;effectif;164595.0
+BF50;Centre-Ouest;2021;2020-2021;G;effectif;165630.0
+BF50;Centre-Ouest;2022;2021-2022;G;effectif;162600.0
+BF50;Centre-Ouest;2023;2022-2023;G;effectif;156335.0
+BF50;Centre-Ouest;2024;2023-2024;G;effectif;163933.0
+BF50;Centre-Ouest;2025;2024-2025;G;effectif;169963.0
+BF50;Centre-Ouest;2016;2015-2016;F;effectif;138925.0
+BF50;Centre-Ouest;2017;2016-2017;F;effectif;148777.0
+BF50;Centre-Ouest;2018;2017-2018;F;effectif;155426.0
+BF50;Centre-Ouest;2019;2018-2019;F;effectif;161180.0
+BF50;Centre-Ouest;2020;2019-2020;F;effectif;167846.0
+BF50;Centre-Ouest;2021;2020-2021;F;effectif;169679.0
+BF50;Centre-Ouest;2022;2021-2022;F;effectif;168030.0
+BF50;Centre-Ouest;2023;2022-2023;F;effectif;161621.0
+BF50;Centre-Ouest;2024;2023-2024;F;effectif;169922.0
+BF50;Centre-Ouest;2025;2024-2025;F;effectif;174716.0
+BF50;Centre-Ouest;2016;2015-2016;T;effectif;281721.0
+BF50;Centre-Ouest;2017;2016-2017;T;effectif;298783.0
+BF50;Centre-Ouest;2018;2017-2018;T;effectif;310792.0
+BF50;Centre-Ouest;2019;2018-2019;T;effectif;320734.0
+BF50;Centre-Ouest;2020;2019-2020;T;effectif;332441.0
+BF50;Centre-Ouest;2021;2020-2021;T;effectif;335309.0
+BF50;Centre-Ouest;2022;2021-2022;T;effectif;330630.0
+BF50;Centre-Ouest;2023;2022-2023;T;effectif;317956.0
+BF50;Centre-Ouest;2024;2023-2024;T;effectif;333855.0
+BF50;Centre-Ouest;2025;2024-2025;T;effectif;344679.0
+BF51;Centre-Sud;2016;2015-2016;G;effectif;73601.0
+BF51;Centre-Sud;2017;2016-2017;G;effectif;76033.0
+BF51;Centre-Sud;2018;2017-2018;G;effectif;78911.0
+BF51;Centre-Sud;2019;2018-2019;G;effectif;80543.0
+BF51;Centre-Sud;2020;2019-2020;G;effectif;82342.0
+BF51;Centre-Sud;2021;2020-2021;G;effectif;81152.0
+BF51;Centre-Sud;2022;2021-2022;G;effectif;78944.0
+BF51;Centre-Sud;2023;2022-2023;G;effectif;76798.0
+BF51;Centre-Sud;2024;2023-2024;G;effectif;77236.0
+BF51;Centre-Sud;2025;2024-2025;G;effectif;79074.0
+BF51;Centre-Sud;2016;2015-2016;F;effectif;68272.0
+BF51;Centre-Sud;2017;2016-2017;F;effectif;71297.0
+BF51;Centre-Sud;2018;2017-2018;F;effectif;74508.0
+BF51;Centre-Sud;2019;2018-2019;F;effectif;76183.0
+BF51;Centre-Sud;2020;2019-2020;F;effectif;77578.0
+BF51;Centre-Sud;2021;2020-2021;F;effectif;77151.0
+BF51;Centre-Sud;2022;2021-2022;F;effectif;75418.0
+BF51;Centre-Sud;2023;2022-2023;F;effectif;74132.0
+BF51;Centre-Sud;2024;2023-2024;F;effectif;73923.0
+BF51;Centre-Sud;2025;2024-2025;F;effectif;75738.0
+BF51;Centre-Sud;2016;2015-2016;T;effectif;141873.0
+BF51;Centre-Sud;2017;2016-2017;T;effectif;147330.0
+BF51;Centre-Sud;2018;2017-2018;T;effectif;153419.0
+BF51;Centre-Sud;2019;2018-2019;T;effectif;156726.0
+BF51;Centre-Sud;2020;2019-2020;T;effectif;159920.0
+BF51;Centre-Sud;2021;2020-2021;T;effectif;158303.0
+BF51;Centre-Sud;2022;2021-2022;T;effectif;154362.0
+BF51;Centre-Sud;2023;2022-2023;T;effectif;150930.0
+BF51;Centre-Sud;2024;2023-2024;T;effectif;151159.0
+BF51;Centre-Sud;2025;2024-2025;T;effectif;154812.0
+BF52;Est;2016;2015-2016;G;effectif;94170.0
+BF52;Est;2017;2016-2017;G;effectif;102430.0
+BF52;Est;2018;2017-2018;G;effectif;111747.0
+BF52;Est;2019;2018-2019;G;effectif;108545.0
+BF52;Est;2020;2019-2020;G;effectif;101470.0
+BF52;Est;2021;2020-2021;G;effectif;91369.0
+BF52;Est;2022;2021-2022;G;effectif;66516.0
+BF52;Est;2023;2022-2023;G;effectif;45995.0
+BF52;Est;2024;2023-2024;G;effectif;60056.0
+BF52;Est;2025;2024-2025;G;effectif;68307.0
+BF52;Est;2016;2015-2016;F;effectif;86050.0
+BF52;Est;2017;2016-2017;F;effectif;93356.0
+BF52;Est;2018;2017-2018;F;effectif;100806.0
+BF52;Est;2019;2018-2019;F;effectif;99392.0
+BF52;Est;2020;2019-2020;F;effectif;94517.0
+BF52;Est;2021;2020-2021;F;effectif;87619.0
+BF52;Est;2022;2021-2022;F;effectif;65246.0
+BF52;Est;2023;2022-2023;F;effectif;45287.0
+BF52;Est;2024;2023-2024;F;effectif;58211.0
+BF52;Est;2025;2024-2025;F;effectif;64433.0
+BF52;Est;2016;2015-2016;T;effectif;180220.0
+BF52;Est;2017;2016-2017;T;effectif;195786.0
+BF52;Est;2018;2017-2018;T;effectif;212553.0
+BF52;Est;2019;2018-2019;T;effectif;207937.0
+BF52;Est;2020;2019-2020;T;effectif;195987.0
+BF52;Est;2021;2020-2021;T;effectif;178988.0
+BF52;Est;2022;2021-2022;T;effectif;131762.0
+BF52;Est;2023;2022-2023;T;effectif;91282.0
+BF52;Est;2024;2023-2024;T;effectif;118267.0
+BF52;Est;2025;2024-2025;T;effectif;132740.0
+BF53;Hauts-Bassins;2016;2015-2016;G;effectif;166110.0
+BF53;Hauts-Bassins;2017;2016-2017;G;effectif;175836.0
+BF53;Hauts-Bassins;2018;2017-2018;G;effectif;187456.0
+BF53;Hauts-Bassins;2019;2018-2019;G;effectif;196976.0
+BF53;Hauts-Bassins;2020;2019-2020;G;effectif;205775.0
+BF53;Hauts-Bassins;2021;2020-2021;G;effectif;210173.0
+BF53;Hauts-Bassins;2022;2021-2022;G;effectif;215178.0
+BF53;Hauts-Bassins;2023;2022-2023;G;effectif;190105.0
+BF53;Hauts-Bassins;2024;2023-2024;G;effectif;202498.0
+BF53;Hauts-Bassins;2025;2024-2025;G;effectif;211522.0
+BF53;Hauts-Bassins;2016;2015-2016;F;effectif;159338.0
+BF53;Hauts-Bassins;2017;2016-2017;F;effectif;169429.0
+BF53;Hauts-Bassins;2018;2017-2018;F;effectif;180600.0
+BF53;Hauts-Bassins;2019;2018-2019;F;effectif;190468.0
+BF53;Hauts-Bassins;2020;2019-2020;F;effectif;201619.0
+BF53;Hauts-Bassins;2021;2020-2021;F;effectif;206716.0
+BF53;Hauts-Bassins;2022;2021-2022;F;effectif;213800.0
+BF53;Hauts-Bassins;2023;2022-2023;F;effectif;191749.0
+BF53;Hauts-Bassins;2024;2023-2024;F;effectif;202998.0
+BF53;Hauts-Bassins;2025;2024-2025;F;effectif;209339.0
+BF53;Hauts-Bassins;2016;2015-2016;T;effectif;325448.0
+BF53;Hauts-Bassins;2017;2016-2017;T;effectif;345265.0
+BF53;Hauts-Bassins;2018;2017-2018;T;effectif;368056.0
+BF53;Hauts-Bassins;2019;2018-2019;T;effectif;387444.0
+BF53;Hauts-Bassins;2020;2019-2020;T;effectif;407394.0
+BF53;Hauts-Bassins;2021;2020-2021;T;effectif;416889.0
+BF53;Hauts-Bassins;2022;2021-2022;T;effectif;428978.0
+BF53;Hauts-Bassins;2023;2022-2023;T;effectif;381854.0
+BF53;Hauts-Bassins;2024;2023-2024;T;effectif;405496.0
+BF53;Hauts-Bassins;2025;2024-2025;T;effectif;420861.0
+BF54;Nord;2016;2015-2016;G;effectif;150521.0
+BF54;Nord;2017;2016-2017;G;effectif;161730.0
+BF54;Nord;2018;2017-2018;G;effectif;172014.0
+BF54;Nord;2019;2018-2019;G;effectif;170459.0
+BF54;Nord;2020;2019-2020;G;effectif;171168.0
+BF54;Nord;2021;2020-2021;G;effectif;170272.0
+BF54;Nord;2022;2021-2022;G;effectif;158980.0
+BF54;Nord;2023;2022-2023;G;effectif;138922.0
+BF54;Nord;2024;2023-2024;G;effectif;158029.0
+BF54;Nord;2025;2024-2025;G;effectif;175687.0
+BF54;Nord;2016;2015-2016;F;effectif;140620.0
+BF54;Nord;2017;2016-2017;F;effectif;152529.0
+BF54;Nord;2018;2017-2018;F;effectif;162261.0
+BF54;Nord;2019;2018-2019;F;effectif;163852.0
+BF54;Nord;2020;2019-2020;F;effectif;167180.0
+BF54;Nord;2021;2020-2021;F;effectif;168571.0
+BF54;Nord;2022;2021-2022;F;effectif;159603.0
+BF54;Nord;2023;2022-2023;F;effectif;139993.0
+BF54;Nord;2024;2023-2024;F;effectif;160203.0
+BF54;Nord;2025;2024-2025;F;effectif;177221.0
+BF54;Nord;2016;2015-2016;T;effectif;291141.0
+BF54;Nord;2017;2016-2017;T;effectif;314259.0
+BF54;Nord;2018;2017-2018;T;effectif;334275.0
+BF54;Nord;2019;2018-2019;T;effectif;334311.0
+BF54;Nord;2020;2019-2020;T;effectif;338348.0
+BF54;Nord;2021;2020-2021;T;effectif;338843.0
+BF54;Nord;2022;2021-2022;T;effectif;318583.0
+BF54;Nord;2023;2022-2023;T;effectif;278915.0
+BF54;Nord;2024;2023-2024;T;effectif;318232.0
+BF54;Nord;2025;2024-2025;T;effectif;352908.0
+BF55;Plateau-Central;2016;2015-2016;G;effectif;83040.0
+BF55;Plateau-Central;2017;2016-2017;G;effectif;87550.0
+BF55;Plateau-Central;2018;2017-2018;G;effectif;92481.0
+BF55;Plateau-Central;2019;2018-2019;G;effectif;94607.0
+BF55;Plateau-Central;2020;2019-2020;G;effectif;98451.0
+BF55;Plateau-Central;2021;2020-2021;G;effectif;95918.0
+BF55;Plateau-Central;2022;2021-2022;G;effectif;97180.0
+BF55;Plateau-Central;2023;2022-2023;G;effectif;97395.0
+BF55;Plateau-Central;2024;2023-2024;G;effectif;99799.0
+BF55;Plateau-Central;2025;2024-2025;G;effectif;103173.0
+BF55;Plateau-Central;2016;2015-2016;F;effectif;76351.0
+BF55;Plateau-Central;2017;2016-2017;F;effectif;80492.0
+BF55;Plateau-Central;2018;2017-2018;F;effectif;84919.0
+BF55;Plateau-Central;2019;2018-2019;F;effectif;87468.0
+BF55;Plateau-Central;2020;2019-2020;F;effectif;92587.0
+BF55;Plateau-Central;2021;2020-2021;F;effectif;91379.0
+BF55;Plateau-Central;2022;2021-2022;F;effectif;93515.0
+BF55;Plateau-Central;2023;2022-2023;F;effectif;94506.0
+BF55;Plateau-Central;2024;2023-2024;F;effectif;97031.0
+BF55;Plateau-Central;2025;2024-2025;F;effectif;99393.0
+BF55;Plateau-Central;2016;2015-2016;T;effectif;159391.0
+BF55;Plateau-Central;2017;2016-2017;T;effectif;168042.0
+BF55;Plateau-Central;2018;2017-2018;T;effectif;177400.0
+BF55;Plateau-Central;2019;2018-2019;T;effectif;182075.0
+BF55;Plateau-Central;2020;2019-2020;T;effectif;191038.0
+BF55;Plateau-Central;2021;2020-2021;T;effectif;187297.0
+BF55;Plateau-Central;2022;2021-2022;T;effectif;190695.0
+BF55;Plateau-Central;2023;2022-2023;T;effectif;191901.0
+BF55;Plateau-Central;2024;2023-2024;T;effectif;196830.0
+BF55;Plateau-Central;2025;2024-2025;T;effectif;202566.0
+BF56;Sahel;2016;2015-2016;G;effectif;66384.0
+BF56;Sahel;2017;2016-2017;G;effectif;66618.0
+BF56;Sahel;2018;2017-2018;G;effectif;69754.0
+BF56;Sahel;2019;2018-2019;G;effectif;36170.0
+BF56;Sahel;2020;2019-2020;G;effectif;33340.0
+BF56;Sahel;2021;2020-2021;G;effectif;28174.0
+BF56;Sahel;2022;2021-2022;G;effectif;24147.0
+BF56;Sahel;2023;2022-2023;G;effectif;18876.0
+BF56;Sahel;2024;2023-2024;G;effectif;29573.0
+BF56;Sahel;2025;2024-2025;G;effectif;32954.0
+BF56;Sahel;2016;2015-2016;F;effectif;58450.0
+BF56;Sahel;2017;2016-2017;F;effectif;59474.0
+BF56;Sahel;2018;2017-2018;F;effectif;62583.0
+BF56;Sahel;2019;2018-2019;F;effectif;33491.0
+BF56;Sahel;2020;2019-2020;F;effectif;30860.0
+BF56;Sahel;2021;2020-2021;F;effectif;26140.0
+BF56;Sahel;2022;2021-2022;F;effectif;22506.0
+BF56;Sahel;2023;2022-2023;F;effectif;17166.0
+BF56;Sahel;2024;2023-2024;F;effectif;26877.0
+BF56;Sahel;2025;2024-2025;F;effectif;29445.0
+BF56;Sahel;2016;2015-2016;T;effectif;124834.0
+BF56;Sahel;2017;2016-2017;T;effectif;126092.0
+BF56;Sahel;2018;2017-2018;T;effectif;132337.0
+BF56;Sahel;2019;2018-2019;T;effectif;69661.0
+BF56;Sahel;2020;2019-2020;T;effectif;64200.0
+BF56;Sahel;2021;2020-2021;T;effectif;54314.0
+BF56;Sahel;2022;2021-2022;T;effectif;46653.0
+BF56;Sahel;2023;2022-2023;T;effectif;36042.0
+BF56;Sahel;2024;2023-2024;T;effectif;56450.0
+BF56;Sahel;2025;2024-2025;T;effectif;62399.0
+BF57;Sud-Ouest;2016;2015-2016;G;effectif;58558.0
+BF57;Sud-Ouest;2017;2016-2017;G;effectif;60419.0
+BF57;Sud-Ouest;2018;2017-2018;G;effectif;64161.0
+BF57;Sud-Ouest;2019;2018-2019;G;effectif;65705.0
+BF57;Sud-Ouest;2020;2019-2020;G;effectif;69624.0
+BF57;Sud-Ouest;2021;2020-2021;G;effectif;71128.0
+BF57;Sud-Ouest;2022;2021-2022;G;effectif;68352.0
+BF57;Sud-Ouest;2023;2022-2023;G;effectif;65915.0
+BF57;Sud-Ouest;2024;2023-2024;G;effectif;68689.0
+BF57;Sud-Ouest;2025;2024-2025;G;effectif;74035.0
+BF57;Sud-Ouest;2016;2015-2016;F;effectif;55051.0
+BF57;Sud-Ouest;2017;2016-2017;F;effectif;56959.0
+BF57;Sud-Ouest;2018;2017-2018;F;effectif;60384.0
+BF57;Sud-Ouest;2019;2018-2019;F;effectif;62230.0
+BF57;Sud-Ouest;2020;2019-2020;F;effectif;65871.0
+BF57;Sud-Ouest;2021;2020-2021;F;effectif;67929.0
+BF57;Sud-Ouest;2022;2021-2022;F;effectif;65481.0
+BF57;Sud-Ouest;2023;2022-2023;F;effectif;62812.0
+BF57;Sud-Ouest;2024;2023-2024;F;effectif;65594.0
+BF57;Sud-Ouest;2025;2024-2025;F;effectif;70161.0
+BF57;Sud-Ouest;2016;2015-2016;T;effectif;113609.0
+BF57;Sud-Ouest;2017;2016-2017;T;effectif;117378.0
+BF57;Sud-Ouest;2018;2017-2018;T;effectif;124545.0
+BF57;Sud-Ouest;2019;2018-2019;T;effectif;127935.0
+BF57;Sud-Ouest;2020;2019-2020;T;effectif;135495.0
+BF57;Sud-Ouest;2021;2020-2021;T;effectif;139057.0
+BF57;Sud-Ouest;2022;2021-2022;T;effectif;133833.0
+BF57;Sud-Ouest;2023;2022-2023;T;effectif;128727.0
+BF57;Sud-Ouest;2024;2023-2024;T;effectif;134283.0
+BF57;Sud-Ouest;2025;2024-2025;T;effectif;144196.0
+BF;Burkina Faso;2016;2015-2016;G;effectif;1477806.0
+BF;Burkina Faso;2017;2016-2017;G;effectif;1558527.0
+BF;Burkina Faso;2018;2017-2018;G;effectif;1644202.0
+BF;Burkina Faso;2019;2018-2019;G;effectif;1649329.0
+BF;Burkina Faso;2020;2019-2020;G;effectif;1641216.0
+BF;Burkina Faso;2021;2020-2021;G;effectif;1659839.0
+BF;Burkina Faso;2022;2021-2022;G;effectif;1593461.0
+BF;Burkina Faso;2023;2022-2023;G;effectif;1416262.0
+BF;Burkina Faso;2024;2023-2024;G;effectif;1535496.0
+BF;Burkina Faso;2025;2024-2025;G;effectif;1665559.0
+BF;Burkina Faso;2016;2015-2016;F;effectif;1395243.0
+BF;Burkina Faso;2017;2016-2017;F;effectif;1482275.0
+BF;Burkina Faso;2018;2017-2018;F;effectif;1561817.0
+BF;Burkina Faso;2019;2018-2019;F;effectif;1584455.0
+BF;Burkina Faso;2020;2019-2020;F;effectif;1599131.0
+BF;Burkina Faso;2021;2020-2021;F;effectif;1629897.0
+BF;Burkina Faso;2022;2021-2022;F;effectif;1581485.0
+BF;Burkina Faso;2023;2022-2023;F;effectif;1419282.0
+BF;Burkina Faso;2024;2023-2024;F;effectif;1532444.0
+BF;Burkina Faso;2025;2024-2025;F;effectif;1642537.0
+BF;Burkina Faso;2016;2015-2016;T;effectif;2873049.0
+BF;Burkina Faso;2017;2016-2017;T;effectif;3040802.0
+BF;Burkina Faso;2018;2017-2018;T;effectif;3206019.0
+BF;Burkina Faso;2019;2018-2019;T;effectif;3233784.0
+BF;Burkina Faso;2020;2019-2020;T;effectif;3240347.0
+BF;Burkina Faso;2021;2020-2021;T;effectif;3289736.0
+BF;Burkina Faso;2022;2021-2022;T;effectif;3174946.0
+BF;Burkina Faso;2023;2022-2023;T;effectif;2835544.0
+BF;Burkina Faso;2024;2023-2024;T;effectif;3067940.0
+BF;Burkina Faso;2025;2024-2025;T;effectif;3308096.0
+BF46;Boucle du Mouhoun;2016;2015-2016;G;nouveaux_inscrits_cp1;29391.0
+BF46;Boucle du Mouhoun;2017;2016-2017;G;nouveaux_inscrits_cp1;29775.0
+BF46;Boucle du Mouhoun;2018;2017-2018;G;nouveaux_inscrits_cp1;32345.0
+BF46;Boucle du Mouhoun;2019;2018-2019;G;nouveaux_inscrits_cp1;32411.0
+BF46;Boucle du Mouhoun;2020;2019-2020;G;nouveaux_inscrits_cp1;29110.0
+BF46;Boucle du Mouhoun;2021;2020-2021;G;nouveaux_inscrits_cp1;31066.0
+BF46;Boucle du Mouhoun;2022;2021-2022;G;nouveaux_inscrits_cp1;26273.0
+BF46;Boucle du Mouhoun;2023;2022-2023;G;nouveaux_inscrits_cp1;15199.0
+BF46;Boucle du Mouhoun;2024;2023-2024;G;nouveaux_inscrits_cp1;25302.0
+BF46;Boucle du Mouhoun;2025;2024-2025;G;nouveaux_inscrits_cp1;34376.0
+BF46;Boucle du Mouhoun;2016;2015-2016;F;nouveaux_inscrits_cp1;26729.0
+BF46;Boucle du Mouhoun;2017;2016-2017;F;nouveaux_inscrits_cp1;27565.0
+BF46;Boucle du Mouhoun;2018;2017-2018;F;nouveaux_inscrits_cp1;29738.0
+BF46;Boucle du Mouhoun;2019;2018-2019;F;nouveaux_inscrits_cp1;29240.0
+BF46;Boucle du Mouhoun;2020;2019-2020;F;nouveaux_inscrits_cp1;26699.0
+BF46;Boucle du Mouhoun;2021;2020-2021;F;nouveaux_inscrits_cp1;28521.0
+BF46;Boucle du Mouhoun;2022;2021-2022;F;nouveaux_inscrits_cp1;24161.0
+BF46;Boucle du Mouhoun;2023;2022-2023;F;nouveaux_inscrits_cp1;14204.0
+BF46;Boucle du Mouhoun;2024;2023-2024;F;nouveaux_inscrits_cp1;23462.0
+BF46;Boucle du Mouhoun;2025;2024-2025;F;nouveaux_inscrits_cp1;31393.0
+BF46;Boucle du Mouhoun;2016;2015-2016;T;nouveaux_inscrits_cp1;56120.0
+BF46;Boucle du Mouhoun;2017;2016-2017;T;nouveaux_inscrits_cp1;57340.0
+BF46;Boucle du Mouhoun;2018;2017-2018;T;nouveaux_inscrits_cp1;62083.0
+BF46;Boucle du Mouhoun;2019;2018-2019;T;nouveaux_inscrits_cp1;61651.0
+BF46;Boucle du Mouhoun;2020;2019-2020;T;nouveaux_inscrits_cp1;55809.0
+BF46;Boucle du Mouhoun;2021;2020-2021;T;nouveaux_inscrits_cp1;59587.0
+BF46;Boucle du Mouhoun;2022;2021-2022;T;nouveaux_inscrits_cp1;50434.0
+BF46;Boucle du Mouhoun;2023;2022-2023;T;nouveaux_inscrits_cp1;29403.0
+BF46;Boucle du Mouhoun;2024;2023-2024;T;nouveaux_inscrits_cp1;48764.0
+BF46;Boucle du Mouhoun;2025;2024-2025;T;nouveaux_inscrits_cp1;65769.0
+BF47;Cascades;2016;2015-2016;G;nouveaux_inscrits_cp1;11413.0
+BF47;Cascades;2017;2016-2017;G;nouveaux_inscrits_cp1;12316.0
+BF47;Cascades;2018;2017-2018;G;nouveaux_inscrits_cp1;12416.0
+BF47;Cascades;2019;2018-2019;G;nouveaux_inscrits_cp1;13059.0
+BF47;Cascades;2020;2019-2020;G;nouveaux_inscrits_cp1;13048.0
+BF47;Cascades;2021;2020-2021;G;nouveaux_inscrits_cp1;13803.0
+BF47;Cascades;2022;2021-2022;G;nouveaux_inscrits_cp1;12851.0
+BF47;Cascades;2023;2022-2023;G;nouveaux_inscrits_cp1;12810.0
+BF47;Cascades;2024;2023-2024;G;nouveaux_inscrits_cp1;14299.0
+BF47;Cascades;2025;2024-2025;G;nouveaux_inscrits_cp1;18210.0
+BF47;Cascades;2016;2015-2016;F;nouveaux_inscrits_cp1;10326.0
+BF47;Cascades;2017;2016-2017;F;nouveaux_inscrits_cp1;11422.0
+BF47;Cascades;2018;2017-2018;F;nouveaux_inscrits_cp1;11335.0
+BF47;Cascades;2019;2018-2019;F;nouveaux_inscrits_cp1;11703.0
+BF47;Cascades;2020;2019-2020;F;nouveaux_inscrits_cp1;11930.0
+BF47;Cascades;2021;2020-2021;F;nouveaux_inscrits_cp1;12408.0
+BF47;Cascades;2022;2021-2022;F;nouveaux_inscrits_cp1;11317.0
+BF47;Cascades;2023;2022-2023;F;nouveaux_inscrits_cp1;11551.0
+BF47;Cascades;2024;2023-2024;F;nouveaux_inscrits_cp1;13116.0
+BF47;Cascades;2025;2024-2025;F;nouveaux_inscrits_cp1;16023.0
+BF47;Cascades;2016;2015-2016;T;nouveaux_inscrits_cp1;21739.0
+BF47;Cascades;2017;2016-2017;T;nouveaux_inscrits_cp1;23738.0
+BF47;Cascades;2018;2017-2018;T;nouveaux_inscrits_cp1;23751.0
+BF47;Cascades;2019;2018-2019;T;nouveaux_inscrits_cp1;24762.0
+BF47;Cascades;2020;2019-2020;T;nouveaux_inscrits_cp1;24978.0
+BF47;Cascades;2021;2020-2021;T;nouveaux_inscrits_cp1;26211.0
+BF47;Cascades;2022;2021-2022;T;nouveaux_inscrits_cp1;24168.0
+BF47;Cascades;2023;2022-2023;T;nouveaux_inscrits_cp1;24361.0
+BF47;Cascades;2024;2023-2024;T;nouveaux_inscrits_cp1;27415.0
+BF47;Cascades;2025;2024-2025;T;nouveaux_inscrits_cp1;34233.0
+BF13;Centre;2016;2015-2016;G;nouveaux_inscrits_cp1;38697.0
+BF13;Centre;2017;2016-2017;G;nouveaux_inscrits_cp1;40620.0
+BF13;Centre;2018;2017-2018;G;nouveaux_inscrits_cp1;42208.0
+BF13;Centre;2019;2018-2019;G;nouveaux_inscrits_cp1;44089.0
+BF13;Centre;2020;2019-2020;G;nouveaux_inscrits_cp1;45737.0
+BF13;Centre;2021;2020-2021;G;nouveaux_inscrits_cp1;47829.0
+BF13;Centre;2022;2021-2022;G;nouveaux_inscrits_cp1;50676.0
+BF13;Centre;2023;2022-2023;G;nouveaux_inscrits_cp1;52928.0
+BF13;Centre;2024;2023-2024;G;nouveaux_inscrits_cp1;57204.0
+BF13;Centre;2025;2024-2025;G;nouveaux_inscrits_cp1;59350.0
+BF13;Centre;2016;2015-2016;F;nouveaux_inscrits_cp1;38789.0
+BF13;Centre;2017;2016-2017;F;nouveaux_inscrits_cp1;40479.0
+BF13;Centre;2018;2017-2018;F;nouveaux_inscrits_cp1;42280.0
+BF13;Centre;2019;2018-2019;F;nouveaux_inscrits_cp1;43664.0
+BF13;Centre;2020;2019-2020;F;nouveaux_inscrits_cp1;45530.0
+BF13;Centre;2021;2020-2021;F;nouveaux_inscrits_cp1;47996.0
+BF13;Centre;2022;2021-2022;F;nouveaux_inscrits_cp1;50617.0
+BF13;Centre;2023;2022-2023;F;nouveaux_inscrits_cp1;51662.0
+BF13;Centre;2024;2023-2024;F;nouveaux_inscrits_cp1;55299.0
+BF13;Centre;2025;2024-2025;F;nouveaux_inscrits_cp1;58310.0
+BF13;Centre;2016;2015-2016;T;nouveaux_inscrits_cp1;77486.0
+BF13;Centre;2017;2016-2017;T;nouveaux_inscrits_cp1;81099.0
+BF13;Centre;2018;2017-2018;T;nouveaux_inscrits_cp1;84488.0
+BF13;Centre;2019;2018-2019;T;nouveaux_inscrits_cp1;87753.0
+BF13;Centre;2020;2019-2020;T;nouveaux_inscrits_cp1;91267.0
+BF13;Centre;2021;2020-2021;T;nouveaux_inscrits_cp1;95825.0
+BF13;Centre;2022;2021-2022;T;nouveaux_inscrits_cp1;101293.0
+BF13;Centre;2023;2022-2023;T;nouveaux_inscrits_cp1;104590.0
+BF13;Centre;2024;2023-2024;T;nouveaux_inscrits_cp1;112503.0
+BF13;Centre;2025;2024-2025;T;nouveaux_inscrits_cp1;117660.0
+BF48;Centre-Est;2016;2015-2016;G;nouveaux_inscrits_cp1;27163.0
+BF48;Centre-Est;2017;2016-2017;G;nouveaux_inscrits_cp1;27422.0
+BF48;Centre-Est;2018;2017-2018;G;nouveaux_inscrits_cp1;29516.0
+BF48;Centre-Est;2019;2018-2019;G;nouveaux_inscrits_cp1;26970.0
+BF48;Centre-Est;2020;2019-2020;G;nouveaux_inscrits_cp1;26281.0
+BF48;Centre-Est;2021;2020-2021;G;nouveaux_inscrits_cp1;28110.0
+BF48;Centre-Est;2022;2021-2022;G;nouveaux_inscrits_cp1;29758.0
+BF48;Centre-Est;2023;2022-2023;G;nouveaux_inscrits_cp1;26841.0
+BF48;Centre-Est;2024;2023-2024;G;nouveaux_inscrits_cp1;31978.0
+BF48;Centre-Est;2025;2024-2025;G;nouveaux_inscrits_cp1;35052.0
+BF48;Centre-Est;2016;2015-2016;F;nouveaux_inscrits_cp1;23635.0
+BF48;Centre-Est;2017;2016-2017;F;nouveaux_inscrits_cp1;23887.0
+BF48;Centre-Est;2018;2017-2018;F;nouveaux_inscrits_cp1;25795.0
+BF48;Centre-Est;2019;2018-2019;F;nouveaux_inscrits_cp1;23476.0
+BF48;Centre-Est;2020;2019-2020;F;nouveaux_inscrits_cp1;23202.0
+BF48;Centre-Est;2021;2020-2021;F;nouveaux_inscrits_cp1;24760.0
+BF48;Centre-Est;2022;2021-2022;F;nouveaux_inscrits_cp1;26008.0
+BF48;Centre-Est;2023;2022-2023;F;nouveaux_inscrits_cp1;24309.0
+BF48;Centre-Est;2024;2023-2024;F;nouveaux_inscrits_cp1;28473.0
+BF48;Centre-Est;2025;2024-2025;F;nouveaux_inscrits_cp1;30288.0
+BF48;Centre-Est;2016;2015-2016;T;nouveaux_inscrits_cp1;50798.0
+BF48;Centre-Est;2017;2016-2017;T;nouveaux_inscrits_cp1;51309.0
+BF48;Centre-Est;2018;2017-2018;T;nouveaux_inscrits_cp1;55311.0
+BF48;Centre-Est;2019;2018-2019;T;nouveaux_inscrits_cp1;50446.0
+BF48;Centre-Est;2020;2019-2020;T;nouveaux_inscrits_cp1;49483.0
+BF48;Centre-Est;2021;2020-2021;T;nouveaux_inscrits_cp1;52870.0
+BF48;Centre-Est;2022;2021-2022;T;nouveaux_inscrits_cp1;55766.0
+BF48;Centre-Est;2023;2022-2023;T;nouveaux_inscrits_cp1;51150.0
+BF48;Centre-Est;2024;2023-2024;T;nouveaux_inscrits_cp1;60451.0
+BF48;Centre-Est;2025;2024-2025;T;nouveaux_inscrits_cp1;65340.0
+BF49;Centre-Nord;2016;2015-2016;G;nouveaux_inscrits_cp1;26518.0
+BF49;Centre-Nord;2017;2016-2017;G;nouveaux_inscrits_cp1;29959.0
+BF49;Centre-Nord;2018;2017-2018;G;nouveaux_inscrits_cp1;30837.0
+BF49;Centre-Nord;2019;2018-2019;G;nouveaux_inscrits_cp1;30055.0
+BF49;Centre-Nord;2020;2019-2020;G;nouveaux_inscrits_cp1;24692.0
+BF49;Centre-Nord;2021;2020-2021;G;nouveaux_inscrits_cp1;31493.0
+BF49;Centre-Nord;2022;2021-2022;G;nouveaux_inscrits_cp1;30415.0
+BF49;Centre-Nord;2023;2022-2023;G;nouveaux_inscrits_cp1;22963.0
+BF49;Centre-Nord;2024;2023-2024;G;nouveaux_inscrits_cp1;29863.0
+BF49;Centre-Nord;2025;2024-2025;G;nouveaux_inscrits_cp1;31356.0
+BF49;Centre-Nord;2016;2015-2016;F;nouveaux_inscrits_cp1;22592.0
+BF49;Centre-Nord;2017;2016-2017;F;nouveaux_inscrits_cp1;26030.0
+BF49;Centre-Nord;2018;2017-2018;F;nouveaux_inscrits_cp1;26449.0
+BF49;Centre-Nord;2019;2018-2019;F;nouveaux_inscrits_cp1;25621.0
+BF49;Centre-Nord;2020;2019-2020;F;nouveaux_inscrits_cp1;21631.0
+BF49;Centre-Nord;2021;2020-2021;F;nouveaux_inscrits_cp1;27797.0
+BF49;Centre-Nord;2022;2021-2022;F;nouveaux_inscrits_cp1;27215.0
+BF49;Centre-Nord;2023;2022-2023;F;nouveaux_inscrits_cp1;20841.0
+BF49;Centre-Nord;2024;2023-2024;F;nouveaux_inscrits_cp1;26814.0
+BF49;Centre-Nord;2025;2024-2025;F;nouveaux_inscrits_cp1;29589.0
+BF49;Centre-Nord;2016;2015-2016;T;nouveaux_inscrits_cp1;49110.0
+BF49;Centre-Nord;2017;2016-2017;T;nouveaux_inscrits_cp1;55989.0
+BF49;Centre-Nord;2018;2017-2018;T;nouveaux_inscrits_cp1;57286.0
+BF49;Centre-Nord;2019;2018-2019;T;nouveaux_inscrits_cp1;55676.0
+BF49;Centre-Nord;2020;2019-2020;T;nouveaux_inscrits_cp1;46323.0
+BF49;Centre-Nord;2021;2020-2021;T;nouveaux_inscrits_cp1;59290.0
+BF49;Centre-Nord;2022;2021-2022;T;nouveaux_inscrits_cp1;57630.0
+BF49;Centre-Nord;2023;2022-2023;T;nouveaux_inscrits_cp1;43804.0
+BF49;Centre-Nord;2024;2023-2024;T;nouveaux_inscrits_cp1;56677.0
+BF49;Centre-Nord;2025;2024-2025;T;nouveaux_inscrits_cp1;60945.0
+BF50;Centre-Ouest;2016;2015-2016;G;nouveaux_inscrits_cp1;29544.0
+BF50;Centre-Ouest;2017;2016-2017;G;nouveaux_inscrits_cp1;30652.0
+BF50;Centre-Ouest;2018;2017-2018;G;nouveaux_inscrits_cp1;30894.0
+BF50;Centre-Ouest;2019;2018-2019;G;nouveaux_inscrits_cp1;30365.0
+BF50;Centre-Ouest;2020;2019-2020;G;nouveaux_inscrits_cp1;30037.0
+BF50;Centre-Ouest;2021;2020-2021;G;nouveaux_inscrits_cp1;30983.0
+BF50;Centre-Ouest;2022;2021-2022;G;nouveaux_inscrits_cp1;31156.0
+BF50;Centre-Ouest;2023;2022-2023;G;nouveaux_inscrits_cp1;31621.0
+BF50;Centre-Ouest;2024;2023-2024;G;nouveaux_inscrits_cp1;34754.0
+BF50;Centre-Ouest;2025;2024-2025;G;nouveaux_inscrits_cp1;36285.0
+BF50;Centre-Ouest;2016;2015-2016;F;nouveaux_inscrits_cp1;27633.0
+BF50;Centre-Ouest;2017;2016-2017;F;nouveaux_inscrits_cp1;29596.0
+BF50;Centre-Ouest;2018;2017-2018;F;nouveaux_inscrits_cp1;29769.0
+BF50;Centre-Ouest;2019;2018-2019;F;nouveaux_inscrits_cp1;28794.0
+BF50;Centre-Ouest;2020;2019-2020;F;nouveaux_inscrits_cp1;28492.0
+BF50;Centre-Ouest;2021;2020-2021;F;nouveaux_inscrits_cp1;29876.0
+BF50;Centre-Ouest;2022;2021-2022;F;nouveaux_inscrits_cp1;29117.0
+BF50;Centre-Ouest;2023;2022-2023;F;nouveaux_inscrits_cp1;29745.0
+BF50;Centre-Ouest;2024;2023-2024;F;nouveaux_inscrits_cp1;33507.0
+BF50;Centre-Ouest;2025;2024-2025;F;nouveaux_inscrits_cp1;35134.0
+BF50;Centre-Ouest;2016;2015-2016;T;nouveaux_inscrits_cp1;57177.0
+BF50;Centre-Ouest;2017;2016-2017;T;nouveaux_inscrits_cp1;60248.0
+BF50;Centre-Ouest;2018;2017-2018;T;nouveaux_inscrits_cp1;60663.0
+BF50;Centre-Ouest;2019;2018-2019;T;nouveaux_inscrits_cp1;59159.0
+BF50;Centre-Ouest;2020;2019-2020;T;nouveaux_inscrits_cp1;58529.0
+BF50;Centre-Ouest;2021;2020-2021;T;nouveaux_inscrits_cp1;60859.0
+BF50;Centre-Ouest;2022;2021-2022;T;nouveaux_inscrits_cp1;60273.0
+BF50;Centre-Ouest;2023;2022-2023;T;nouveaux_inscrits_cp1;61366.0
+BF50;Centre-Ouest;2024;2023-2024;T;nouveaux_inscrits_cp1;68261.0
+BF50;Centre-Ouest;2025;2024-2025;T;nouveaux_inscrits_cp1;71419.0
+BF51;Centre-Sud;2016;2015-2016;G;nouveaux_inscrits_cp1;13316.0
+BF51;Centre-Sud;2017;2016-2017;G;nouveaux_inscrits_cp1;14904.0
+BF51;Centre-Sud;2018;2017-2018;G;nouveaux_inscrits_cp1;14444.0
+BF51;Centre-Sud;2019;2018-2019;G;nouveaux_inscrits_cp1;14488.0
+BF51;Centre-Sud;2020;2019-2020;G;nouveaux_inscrits_cp1;14683.0
+BF51;Centre-Sud;2021;2020-2021;G;nouveaux_inscrits_cp1;14903.0
+BF51;Centre-Sud;2022;2021-2022;G;nouveaux_inscrits_cp1;15048.0
+BF51;Centre-Sud;2023;2022-2023;G;nouveaux_inscrits_cp1;15641.0
+BF51;Centre-Sud;2024;2023-2024;G;nouveaux_inscrits_cp1;15973.0
+BF51;Centre-Sud;2025;2024-2025;G;nouveaux_inscrits_cp1;16350.0
+BF51;Centre-Sud;2016;2015-2016;F;nouveaux_inscrits_cp1;11935.0
+BF51;Centre-Sud;2017;2016-2017;F;nouveaux_inscrits_cp1;13271.0
+BF51;Centre-Sud;2018;2017-2018;F;nouveaux_inscrits_cp1;13259.0
+BF51;Centre-Sud;2019;2018-2019;F;nouveaux_inscrits_cp1;12785.0
+BF51;Centre-Sud;2020;2019-2020;F;nouveaux_inscrits_cp1;12924.0
+BF51;Centre-Sud;2021;2020-2021;F;nouveaux_inscrits_cp1;13488.0
+BF51;Centre-Sud;2022;2021-2022;F;nouveaux_inscrits_cp1;13060.0
+BF51;Centre-Sud;2023;2022-2023;F;nouveaux_inscrits_cp1;13828.0
+BF51;Centre-Sud;2024;2023-2024;F;nouveaux_inscrits_cp1;14246.0
+BF51;Centre-Sud;2025;2024-2025;F;nouveaux_inscrits_cp1;15193.0
+BF51;Centre-Sud;2016;2015-2016;T;nouveaux_inscrits_cp1;25251.0
+BF51;Centre-Sud;2017;2016-2017;T;nouveaux_inscrits_cp1;28175.0
+BF51;Centre-Sud;2018;2017-2018;T;nouveaux_inscrits_cp1;27703.0
+BF51;Centre-Sud;2019;2018-2019;T;nouveaux_inscrits_cp1;27273.0
+BF51;Centre-Sud;2020;2019-2020;T;nouveaux_inscrits_cp1;27607.0
+BF51;Centre-Sud;2021;2020-2021;T;nouveaux_inscrits_cp1;28391.0
+BF51;Centre-Sud;2022;2021-2022;T;nouveaux_inscrits_cp1;28108.0
+BF51;Centre-Sud;2023;2022-2023;T;nouveaux_inscrits_cp1;29469.0
+BF51;Centre-Sud;2024;2023-2024;T;nouveaux_inscrits_cp1;30219.0
+BF51;Centre-Sud;2025;2024-2025;T;nouveaux_inscrits_cp1;31543.0
+BF52;Est;2016;2015-2016;G;nouveaux_inscrits_cp1;22166.0
+BF52;Est;2017;2016-2017;G;nouveaux_inscrits_cp1;25365.0
+BF52;Est;2018;2017-2018;G;nouveaux_inscrits_cp1;24967.0
+BF52;Est;2019;2018-2019;G;nouveaux_inscrits_cp1;23031.0
+BF52;Est;2020;2019-2020;G;nouveaux_inscrits_cp1;19984.0
+BF52;Est;2021;2020-2021;G;nouveaux_inscrits_cp1;20189.0
+BF52;Est;2022;2021-2022;G;nouveaux_inscrits_cp1;14244.0
+BF52;Est;2023;2022-2023;G;nouveaux_inscrits_cp1;9931.0
+BF52;Est;2024;2023-2024;G;nouveaux_inscrits_cp1;18705.0
+BF52;Est;2025;2024-2025;G;nouveaux_inscrits_cp1;20495.0
+BF52;Est;2016;2015-2016;F;nouveaux_inscrits_cp1;19651.0
+BF52;Est;2017;2016-2017;F;nouveaux_inscrits_cp1;22689.0
+BF52;Est;2018;2017-2018;F;nouveaux_inscrits_cp1;22025.0
+BF52;Est;2019;2018-2019;F;nouveaux_inscrits_cp1;20853.0
+BF52;Est;2020;2019-2020;F;nouveaux_inscrits_cp1;18192.0
+BF52;Est;2021;2020-2021;F;nouveaux_inscrits_cp1;18398.0
+BF52;Est;2022;2021-2022;F;nouveaux_inscrits_cp1;13115.0
+BF52;Est;2023;2022-2023;F;nouveaux_inscrits_cp1;9284.0
+BF52;Est;2024;2023-2024;F;nouveaux_inscrits_cp1;16973.0
+BF52;Est;2025;2024-2025;F;nouveaux_inscrits_cp1;18163.0
+BF52;Est;2016;2015-2016;T;nouveaux_inscrits_cp1;41817.0
+BF52;Est;2017;2016-2017;T;nouveaux_inscrits_cp1;48054.0
+BF52;Est;2018;2017-2018;T;nouveaux_inscrits_cp1;46992.0
+BF52;Est;2019;2018-2019;T;nouveaux_inscrits_cp1;43884.0
+BF52;Est;2020;2019-2020;T;nouveaux_inscrits_cp1;38176.0
+BF52;Est;2021;2020-2021;T;nouveaux_inscrits_cp1;38587.0
+BF52;Est;2022;2021-2022;T;nouveaux_inscrits_cp1;27359.0
+BF52;Est;2023;2022-2023;T;nouveaux_inscrits_cp1;19215.0
+BF52;Est;2024;2023-2024;T;nouveaux_inscrits_cp1;35678.0
+BF52;Est;2025;2024-2025;T;nouveaux_inscrits_cp1;38658.0
+BF53;Hauts-Bassins;2016;2015-2016;G;nouveaux_inscrits_cp1;34600.0
+BF53;Hauts-Bassins;2017;2016-2017;G;nouveaux_inscrits_cp1;35169.0
+BF53;Hauts-Bassins;2018;2017-2018;G;nouveaux_inscrits_cp1;38039.0
+BF53;Hauts-Bassins;2019;2018-2019;G;nouveaux_inscrits_cp1;38687.0
+BF53;Hauts-Bassins;2020;2019-2020;G;nouveaux_inscrits_cp1;40324.0
+BF53;Hauts-Bassins;2021;2020-2021;G;nouveaux_inscrits_cp1;40378.0
+BF53;Hauts-Bassins;2022;2021-2022;G;nouveaux_inscrits_cp1;41772.0
+BF53;Hauts-Bassins;2023;2022-2023;G;nouveaux_inscrits_cp1;36801.0
+BF53;Hauts-Bassins;2024;2023-2024;G;nouveaux_inscrits_cp1;43103.0
+BF53;Hauts-Bassins;2025;2024-2025;G;nouveaux_inscrits_cp1;46797.0
+BF53;Hauts-Bassins;2016;2015-2016;F;nouveaux_inscrits_cp1;32456.0
+BF53;Hauts-Bassins;2017;2016-2017;F;nouveaux_inscrits_cp1;32780.0
+BF53;Hauts-Bassins;2018;2017-2018;F;nouveaux_inscrits_cp1;34921.0
+BF53;Hauts-Bassins;2019;2018-2019;F;nouveaux_inscrits_cp1;35688.0
+BF53;Hauts-Bassins;2020;2019-2020;F;nouveaux_inscrits_cp1;38555.0
+BF53;Hauts-Bassins;2021;2020-2021;F;nouveaux_inscrits_cp1;38445.0
+BF53;Hauts-Bassins;2022;2021-2022;F;nouveaux_inscrits_cp1;39649.0
+BF53;Hauts-Bassins;2023;2022-2023;F;nouveaux_inscrits_cp1;35063.0
+BF53;Hauts-Bassins;2024;2023-2024;F;nouveaux_inscrits_cp1;40358.0
+BF53;Hauts-Bassins;2025;2024-2025;F;nouveaux_inscrits_cp1;43608.0
+BF53;Hauts-Bassins;2016;2015-2016;T;nouveaux_inscrits_cp1;67056.0
+BF53;Hauts-Bassins;2017;2016-2017;T;nouveaux_inscrits_cp1;67949.0
+BF53;Hauts-Bassins;2018;2017-2018;T;nouveaux_inscrits_cp1;72960.0
+BF53;Hauts-Bassins;2019;2018-2019;T;nouveaux_inscrits_cp1;74375.0
+BF53;Hauts-Bassins;2020;2019-2020;T;nouveaux_inscrits_cp1;78879.0
+BF53;Hauts-Bassins;2021;2020-2021;T;nouveaux_inscrits_cp1;78823.0
+BF53;Hauts-Bassins;2022;2021-2022;T;nouveaux_inscrits_cp1;81421.0
+BF53;Hauts-Bassins;2023;2022-2023;T;nouveaux_inscrits_cp1;71864.0
+BF53;Hauts-Bassins;2024;2023-2024;T;nouveaux_inscrits_cp1;83461.0
+BF53;Hauts-Bassins;2025;2024-2025;T;nouveaux_inscrits_cp1;90405.0
+BF54;Nord;2016;2015-2016;G;nouveaux_inscrits_cp1;33363.0
+BF54;Nord;2017;2016-2017;G;nouveaux_inscrits_cp1;36003.0
+BF54;Nord;2018;2017-2018;G;nouveaux_inscrits_cp1;36943.0
+BF54;Nord;2019;2018-2019;G;nouveaux_inscrits_cp1;35630.0
+BF54;Nord;2020;2019-2020;G;nouveaux_inscrits_cp1;36581.0
+BF54;Nord;2021;2020-2021;G;nouveaux_inscrits_cp1;36799.0
+BF54;Nord;2022;2021-2022;G;nouveaux_inscrits_cp1;35056.0
+BF54;Nord;2023;2022-2023;G;nouveaux_inscrits_cp1;33677.0
+BF54;Nord;2024;2023-2024;G;nouveaux_inscrits_cp1;44604.0
+BF54;Nord;2025;2024-2025;G;nouveaux_inscrits_cp1;47527.0
+BF54;Nord;2016;2015-2016;F;nouveaux_inscrits_cp1;29933.0
+BF54;Nord;2017;2016-2017;F;nouveaux_inscrits_cp1;32666.0
+BF54;Nord;2018;2017-2018;F;nouveaux_inscrits_cp1;33700.0
+BF54;Nord;2019;2018-2019;F;nouveaux_inscrits_cp1;32419.0
+BF54;Nord;2020;2019-2020;F;nouveaux_inscrits_cp1;33504.0
+BF54;Nord;2021;2020-2021;F;nouveaux_inscrits_cp1;34394.0
+BF54;Nord;2022;2021-2022;F;nouveaux_inscrits_cp1;32776.0
+BF54;Nord;2023;2022-2023;F;nouveaux_inscrits_cp1;31591.0
+BF54;Nord;2024;2023-2024;F;nouveaux_inscrits_cp1;42447.0
+BF54;Nord;2025;2024-2025;F;nouveaux_inscrits_cp1;45758.0
+BF54;Nord;2016;2015-2016;T;nouveaux_inscrits_cp1;63296.0
+BF54;Nord;2017;2016-2017;T;nouveaux_inscrits_cp1;68669.0
+BF54;Nord;2018;2017-2018;T;nouveaux_inscrits_cp1;70643.0
+BF54;Nord;2019;2018-2019;T;nouveaux_inscrits_cp1;68049.0
+BF54;Nord;2020;2019-2020;T;nouveaux_inscrits_cp1;70085.0
+BF54;Nord;2021;2020-2021;T;nouveaux_inscrits_cp1;71193.0
+BF54;Nord;2022;2021-2022;T;nouveaux_inscrits_cp1;67832.0
+BF54;Nord;2023;2022-2023;T;nouveaux_inscrits_cp1;65268.0
+BF54;Nord;2024;2023-2024;T;nouveaux_inscrits_cp1;87051.0
+BF54;Nord;2025;2024-2025;T;nouveaux_inscrits_cp1;93285.0
+BF55;Plateau-Central;2016;2015-2016;G;nouveaux_inscrits_cp1;17736.0
+BF55;Plateau-Central;2017;2016-2017;G;nouveaux_inscrits_cp1;18109.0
+BF55;Plateau-Central;2018;2017-2018;G;nouveaux_inscrits_cp1;19619.0
+BF55;Plateau-Central;2019;2018-2019;G;nouveaux_inscrits_cp1;19464.0
+BF55;Plateau-Central;2020;2019-2020;G;nouveaux_inscrits_cp1;20080.0
+BF55;Plateau-Central;2021;2020-2021;G;nouveaux_inscrits_cp1;19191.0
+BF55;Plateau-Central;2022;2021-2022;G;nouveaux_inscrits_cp1;21106.0
+BF55;Plateau-Central;2023;2022-2023;G;nouveaux_inscrits_cp1;21757.0
+BF55;Plateau-Central;2024;2023-2024;G;nouveaux_inscrits_cp1;23514.0
+BF55;Plateau-Central;2025;2024-2025;G;nouveaux_inscrits_cp1;23932.0
+BF55;Plateau-Central;2016;2015-2016;F;nouveaux_inscrits_cp1;15372.0
+BF55;Plateau-Central;2017;2016-2017;F;nouveaux_inscrits_cp1;15752.0
+BF55;Plateau-Central;2018;2017-2018;F;nouveaux_inscrits_cp1;17430.0
+BF55;Plateau-Central;2019;2018-2019;F;nouveaux_inscrits_cp1;16685.0
+BF55;Plateau-Central;2020;2019-2020;F;nouveaux_inscrits_cp1;17991.0
+BF55;Plateau-Central;2021;2020-2021;F;nouveaux_inscrits_cp1;16865.0
+BF55;Plateau-Central;2022;2021-2022;F;nouveaux_inscrits_cp1;18694.0
+BF55;Plateau-Central;2023;2022-2023;F;nouveaux_inscrits_cp1;19355.0
+BF55;Plateau-Central;2024;2023-2024;F;nouveaux_inscrits_cp1;21357.0
+BF55;Plateau-Central;2025;2024-2025;F;nouveaux_inscrits_cp1;21431.0
+BF55;Plateau-Central;2016;2015-2016;T;nouveaux_inscrits_cp1;33108.0
+BF55;Plateau-Central;2017;2016-2017;T;nouveaux_inscrits_cp1;33861.0
+BF55;Plateau-Central;2018;2017-2018;T;nouveaux_inscrits_cp1;37049.0
+BF55;Plateau-Central;2019;2018-2019;T;nouveaux_inscrits_cp1;36149.0
+BF55;Plateau-Central;2020;2019-2020;T;nouveaux_inscrits_cp1;38071.0
+BF55;Plateau-Central;2021;2020-2021;T;nouveaux_inscrits_cp1;36056.0
+BF55;Plateau-Central;2022;2021-2022;T;nouveaux_inscrits_cp1;39800.0
+BF55;Plateau-Central;2023;2022-2023;T;nouveaux_inscrits_cp1;41112.0
+BF55;Plateau-Central;2024;2023-2024;T;nouveaux_inscrits_cp1;44871.0
+BF55;Plateau-Central;2025;2024-2025;T;nouveaux_inscrits_cp1;45363.0
+BF56;Sahel;2016;2015-2016;G;nouveaux_inscrits_cp1;18926.0
+BF56;Sahel;2017;2016-2017;G;nouveaux_inscrits_cp1;16760.0
+BF56;Sahel;2018;2017-2018;G;nouveaux_inscrits_cp1;18008.0
+BF56;Sahel;2019;2018-2019;G;nouveaux_inscrits_cp1;8545.0
+BF56;Sahel;2020;2019-2020;G;nouveaux_inscrits_cp1;8734.0
+BF56;Sahel;2021;2020-2021;G;nouveaux_inscrits_cp1;9263.0
+BF56;Sahel;2022;2021-2022;G;nouveaux_inscrits_cp1;7295.0
+BF56;Sahel;2023;2022-2023;G;nouveaux_inscrits_cp1;6043.0
+BF56;Sahel;2024;2023-2024;G;nouveaux_inscrits_cp1;10772.0
+BF56;Sahel;2025;2024-2025;G;nouveaux_inscrits_cp1;10416.0
+BF56;Sahel;2016;2015-2016;F;nouveaux_inscrits_cp1;17068.0
+BF56;Sahel;2017;2016-2017;F;nouveaux_inscrits_cp1;15394.0
+BF56;Sahel;2018;2017-2018;F;nouveaux_inscrits_cp1;16465.0
+BF56;Sahel;2019;2018-2019;F;nouveaux_inscrits_cp1;8057.0
+BF56;Sahel;2020;2019-2020;F;nouveaux_inscrits_cp1;8157.0
+BF56;Sahel;2021;2020-2021;F;nouveaux_inscrits_cp1;8331.0
+BF56;Sahel;2022;2021-2022;F;nouveaux_inscrits_cp1;6959.0
+BF56;Sahel;2023;2022-2023;F;nouveaux_inscrits_cp1;5634.0
+BF56;Sahel;2024;2023-2024;F;nouveaux_inscrits_cp1;9838.0
+BF56;Sahel;2025;2024-2025;F;nouveaux_inscrits_cp1;9298.0
+BF56;Sahel;2016;2015-2016;T;nouveaux_inscrits_cp1;35994.0
+BF56;Sahel;2017;2016-2017;T;nouveaux_inscrits_cp1;32154.0
+BF56;Sahel;2018;2017-2018;T;nouveaux_inscrits_cp1;34473.0
+BF56;Sahel;2019;2018-2019;T;nouveaux_inscrits_cp1;16602.0
+BF56;Sahel;2020;2019-2020;T;nouveaux_inscrits_cp1;16891.0
+BF56;Sahel;2021;2020-2021;T;nouveaux_inscrits_cp1;17594.0
+BF56;Sahel;2022;2021-2022;T;nouveaux_inscrits_cp1;14254.0
+BF56;Sahel;2023;2022-2023;T;nouveaux_inscrits_cp1;11677.0
+BF56;Sahel;2024;2023-2024;T;nouveaux_inscrits_cp1;20610.0
+BF56;Sahel;2025;2024-2025;T;nouveaux_inscrits_cp1;19714.0
+BF57;Sud-Ouest;2016;2015-2016;G;nouveaux_inscrits_cp1;13477.0
+BF57;Sud-Ouest;2017;2016-2017;G;nouveaux_inscrits_cp1;13645.0
+BF57;Sud-Ouest;2018;2017-2018;G;nouveaux_inscrits_cp1;14811.0
+BF57;Sud-Ouest;2019;2018-2019;G;nouveaux_inscrits_cp1;13805.0
+BF57;Sud-Ouest;2020;2019-2020;G;nouveaux_inscrits_cp1;15508.0
+BF57;Sud-Ouest;2021;2020-2021;G;nouveaux_inscrits_cp1;15618.0
+BF57;Sud-Ouest;2022;2021-2022;G;nouveaux_inscrits_cp1;14266.0
+BF57;Sud-Ouest;2023;2022-2023;G;nouveaux_inscrits_cp1;14681.0
+BF57;Sud-Ouest;2024;2023-2024;G;nouveaux_inscrits_cp1;16316.0
+BF57;Sud-Ouest;2025;2024-2025;G;nouveaux_inscrits_cp1;17957.0
+BF57;Sud-Ouest;2016;2015-2016;F;nouveaux_inscrits_cp1;12656.0
+BF57;Sud-Ouest;2017;2016-2017;F;nouveaux_inscrits_cp1;12318.0
+BF57;Sud-Ouest;2018;2017-2018;F;nouveaux_inscrits_cp1;13365.0
+BF57;Sud-Ouest;2019;2018-2019;F;nouveaux_inscrits_cp1;12533.0
+BF57;Sud-Ouest;2020;2019-2020;F;nouveaux_inscrits_cp1;13983.0
+BF57;Sud-Ouest;2021;2020-2021;F;nouveaux_inscrits_cp1;14545.0
+BF57;Sud-Ouest;2022;2021-2022;F;nouveaux_inscrits_cp1;13153.0
+BF57;Sud-Ouest;2023;2022-2023;F;nouveaux_inscrits_cp1;13561.0
+BF57;Sud-Ouest;2024;2023-2024;F;nouveaux_inscrits_cp1;14980.0
+BF57;Sud-Ouest;2025;2024-2025;F;nouveaux_inscrits_cp1;16649.0
+BF57;Sud-Ouest;2016;2015-2016;T;nouveaux_inscrits_cp1;26133.0
+BF57;Sud-Ouest;2017;2016-2017;T;nouveaux_inscrits_cp1;25963.0
+BF57;Sud-Ouest;2018;2017-2018;T;nouveaux_inscrits_cp1;28176.0
+BF57;Sud-Ouest;2019;2018-2019;T;nouveaux_inscrits_cp1;26338.0
+BF57;Sud-Ouest;2020;2019-2020;T;nouveaux_inscrits_cp1;29491.0
+BF57;Sud-Ouest;2021;2020-2021;T;nouveaux_inscrits_cp1;30163.0
+BF57;Sud-Ouest;2022;2021-2022;T;nouveaux_inscrits_cp1;27419.0
+BF57;Sud-Ouest;2023;2022-2023;T;nouveaux_inscrits_cp1;28242.0
+BF57;Sud-Ouest;2024;2023-2024;T;nouveaux_inscrits_cp1;31296.0
+BF57;Sud-Ouest;2025;2024-2025;T;nouveaux_inscrits_cp1;34606.0
+BF;Burkina Faso;2016;2015-2016;G;nouveaux_inscrits_cp1;316310.0
+BF;Burkina Faso;2017;2016-2017;G;nouveaux_inscrits_cp1;330699.0
+BF;Burkina Faso;2018;2017-2018;G;nouveaux_inscrits_cp1;345047.0
+BF;Burkina Faso;2019;2018-2019;G;nouveaux_inscrits_cp1;330599.0
+BF;Burkina Faso;2020;2019-2020;G;nouveaux_inscrits_cp1;324799.0
+BF;Burkina Faso;2021;2020-2021;G;nouveaux_inscrits_cp1;339625.0
+BF;Burkina Faso;2022;2021-2022;G;nouveaux_inscrits_cp1;329916.0
+BF;Burkina Faso;2023;2022-2023;G;nouveaux_inscrits_cp1;300893.0
+BF;Burkina Faso;2024;2023-2024;G;nouveaux_inscrits_cp1;366387.0
+BF;Burkina Faso;2025;2024-2025;G;nouveaux_inscrits_cp1;398103.0
+BF;Burkina Faso;2016;2015-2016;F;nouveaux_inscrits_cp1;288775.0
+BF;Burkina Faso;2017;2016-2017;F;nouveaux_inscrits_cp1;303849.0
+BF;Burkina Faso;2018;2017-2018;F;nouveaux_inscrits_cp1;316531.0
+BF;Burkina Faso;2019;2018-2019;F;nouveaux_inscrits_cp1;301518.0
+BF;Burkina Faso;2020;2019-2020;F;nouveaux_inscrits_cp1;300790.0
+BF;Burkina Faso;2021;2020-2021;F;nouveaux_inscrits_cp1;315824.0
+BF;Burkina Faso;2022;2021-2022;F;nouveaux_inscrits_cp1;305841.0
+BF;Burkina Faso;2023;2022-2023;F;nouveaux_inscrits_cp1;280628.0
+BF;Burkina Faso;2024;2023-2024;F;nouveaux_inscrits_cp1;340870.0
+BF;Burkina Faso;2025;2024-2025;F;nouveaux_inscrits_cp1;370837.0
+BF;Burkina Faso;2016;2015-2016;T;nouveaux_inscrits_cp1;605085.0
+BF;Burkina Faso;2017;2016-2017;T;nouveaux_inscrits_cp1;634548.0
+BF;Burkina Faso;2018;2017-2018;T;nouveaux_inscrits_cp1;661578.0
+BF;Burkina Faso;2019;2018-2019;T;nouveaux_inscrits_cp1;632117.0
+BF;Burkina Faso;2020;2019-2020;T;nouveaux_inscrits_cp1;625589.0
+BF;Burkina Faso;2021;2020-2021;T;nouveaux_inscrits_cp1;655449.0
+BF;Burkina Faso;2022;2021-2022;T;nouveaux_inscrits_cp1;635757.0
+BF;Burkina Faso;2023;2022-2023;T;nouveaux_inscrits_cp1;581521.0
+BF;Burkina Faso;2024;2023-2024;T;nouveaux_inscrits_cp1;707257.0
+BF;Burkina Faso;2025;2024-2025;T;nouveaux_inscrits_cp1;768940.0
+BF46;Boucle du Mouhoun;2016;2015-2016;G;tba;92.2
+BF46;Boucle du Mouhoun;2016;2015-2016;F;tba;89.5
+BF46;Boucle du Mouhoun;2016;2015-2016;T;tba;90.9
+BF46;Boucle du Mouhoun;2017;2016-2017;G;tba;91.7
+BF46;Boucle du Mouhoun;2017;2016-2017;F;tba;90.5
+BF46;Boucle du Mouhoun;2017;2016-2017;T;tba;91.1
+BF46;Boucle du Mouhoun;2018;2017-2018;G;tba;97.9
+BF46;Boucle du Mouhoun;2018;2017-2018;F;tba;96.1
+BF46;Boucle du Mouhoun;2018;2017-2018;T;tba;97.0
+BF46;Boucle du Mouhoun;2019;2018-2019;G;tba;96.3
+BF46;Boucle du Mouhoun;2019;2018-2019;F;tba;92.7
+BF46;Boucle du Mouhoun;2019;2018-2019;T;tba;94.6
+BF46;Boucle du Mouhoun;2020;2019-2020;G;tba;84.9
+BF46;Boucle du Mouhoun;2020;2019-2020;F;tba;83.1
+BF46;Boucle du Mouhoun;2020;2019-2020;T;tba;84.1
+BF46;Boucle du Mouhoun;2021;2020-2021;G;tba;88.8
+BF46;Boucle du Mouhoun;2021;2020-2021;F;tba;87.1
+BF46;Boucle du Mouhoun;2021;2020-2021;T;tba;88.0
+BF46;Boucle du Mouhoun;2022;2021-2022;G;tba;81.3
+BF46;Boucle du Mouhoun;2022;2021-2022;F;tba;80.2
+BF46;Boucle du Mouhoun;2022;2021-2022;T;tba;80.7
+BF46;Boucle du Mouhoun;2023;2022-2023;G;tba;45.68
+BF46;Boucle du Mouhoun;2023;2022-2023;F;tba;46.28
+BF46;Boucle du Mouhoun;2023;2022-2023;T;tba;45.97
+BF46;Boucle du Mouhoun;2024;2023-2024;G;tba;74.16
+BF46;Boucle du Mouhoun;2024;2023-2024;F;tba;75.18
+BF46;Boucle du Mouhoun;2024;2023-2024;T;tba;74.65
+BF46;Boucle du Mouhoun;2025;2024-2025;G;tba;95.79
+BF46;Boucle du Mouhoun;2025;2024-2025;F;tba;92.0
+BF46;Boucle du Mouhoun;2025;2024-2025;T;tba;93.94
+BF47;Cascades;2016;2015-2016;G;tba;93.4
+BF47;Cascades;2016;2015-2016;F;tba;86.5
+BF47;Cascades;2016;2015-2016;T;tba;90.0
+BF47;Cascades;2017;2016-2017;G;tba;98.1
+BF47;Cascades;2017;2016-2017;F;tba;93.0
+BF47;Cascades;2017;2016-2017;T;tba;95.6
+BF47;Cascades;2018;2017-2018;G;tba;96.5
+BF47;Cascades;2018;2017-2018;F;tba;90.1
+BF47;Cascades;2018;2017-2018;T;tba;93.3
+BF47;Cascades;2019;2018-2019;G;tba;98.9
+BF47;Cascades;2019;2018-2019;F;tba;90.6
+BF47;Cascades;2019;2018-2019;T;tba;94.8
+BF47;Cascades;2020;2019-2020;G;tba;96.3
+BF47;Cascades;2020;2019-2020;F;tba;90.1
+BF47;Cascades;2020;2019-2020;T;tba;93.2
+BF47;Cascades;2021;2020-2021;G;tba;99.3
+BF47;Cascades;2021;2020-2021;F;tba;91.2
+BF47;Cascades;2021;2020-2021;T;tba;95.3
+BF47;Cascades;2022;2021-2022;G;tba;91.6
+BF47;Cascades;2022;2021-2022;F;tba;84.0
+BF47;Cascades;2022;2021-2022;T;tba;87.9
+BF47;Cascades;2023;2022-2023;G;tba;88.0
+BF47;Cascades;2023;2022-2023;F;tba;83.49
+BF47;Cascades;2023;2022-2023;T;tba;85.81
+BF47;Cascades;2024;2023-2024;G;tba;95.02
+BF47;Cascades;2024;2023-2024;F;tba;92.46
+BF47;Cascades;2024;2023-2024;T;tba;93.78
+BF47;Cascades;2025;2024-2025;G;tba;114.19
+BF47;Cascades;2025;2024-2025;F;tba;102.38
+BF47;Cascades;2025;2024-2025;T;tba;108.34
+BF13;Centre;2016;2015-2016;G;tba;114.9
+BF13;Centre;2016;2015-2016;F;tba;112.8
+BF13;Centre;2016;2015-2016;T;tba;113.9
+BF13;Centre;2017;2016-2017;G;tba;116.9
+BF13;Centre;2017;2016-2017;F;tba;114.0
+BF13;Centre;2017;2016-2017;T;tba;115.4
+BF13;Centre;2018;2017-2018;G;tba;118.2
+BF13;Centre;2018;2017-2018;F;tba;115.7
+BF13;Centre;2018;2017-2018;T;tba;116.9
+BF13;Centre;2019;2018-2019;G;tba;119.9
+BF13;Centre;2019;2018-2019;F;tba;116.0
+BF13;Centre;2019;2018-2019;T;tba;117.9
+BF13;Centre;2020;2019-2020;G;tba;121.1
+BF13;Centre;2020;2019-2020;F;tba;117.5
+BF13;Centre;2020;2019-2020;T;tba;119.3
+BF13;Centre;2021;2020-2021;G;tba;123.1
+BF13;Centre;2021;2020-2021;F;tba;120.3
+BF13;Centre;2021;2020-2021;T;tba;121.7
+BF13;Centre;2022;2021-2022;G;tba;124.0
+BF13;Centre;2022;2021-2022;F;tba;129.3
+BF13;Centre;2022;2021-2022;T;tba;126.6
+BF13;Centre;2023;2022-2023;G;tba;124.18
+BF13;Centre;2023;2022-2023;F;tba;127.79
+BF13;Centre;2023;2022-2023;T;tba;125.94
+BF13;Centre;2024;2023-2024;G;tba;129.23
+BF13;Centre;2024;2023-2024;F;tba;132.75
+BF13;Centre;2024;2023-2024;T;tba;130.94
+BF13;Centre;2025;2024-2025;G;tba;125.56
+BF13;Centre;2025;2024-2025;F;tba;125.82
+BF13;Centre;2025;2024-2025;T;tba;125.69
+BF48;Centre-Est;2016;2015-2016;G;tba;104.4
+BF48;Centre-Est;2016;2015-2016;F;tba;97.4
+BF48;Centre-Est;2016;2015-2016;T;tba;101.0
+BF48;Centre-Est;2017;2016-2017;G;tba;103.1
+BF48;Centre-Est;2017;2016-2017;F;tba;96.3
+BF48;Centre-Est;2017;2016-2017;T;tba;99.8
+BF48;Centre-Est;2018;2017-2018;G;tba;108.8
+BF48;Centre-Est;2018;2017-2018;F;tba;102.0
+BF48;Centre-Est;2018;2017-2018;T;tba;105.5
+BF48;Centre-Est;2019;2018-2019;G;tba;97.2
+BF48;Centre-Est;2019;2018-2019;F;tba;90.9
+BF48;Centre-Est;2019;2018-2019;T;tba;94.2
+BF48;Centre-Est;2020;2019-2020;G;tba;92.7
+BF48;Centre-Est;2020;2019-2020;F;tba;88.1
+BF48;Centre-Est;2020;2019-2020;T;tba;90.5
+BF48;Centre-Est;2021;2020-2021;G;tba;96.9
+BF48;Centre-Est;2021;2020-2021;F;tba;92.0
+BF48;Centre-Est;2021;2020-2021;T;tba;94.6
+BF48;Centre-Est;2022;2021-2022;G;tba;105.9
+BF48;Centre-Est;2022;2021-2022;F;tba;97.9
+BF48;Centre-Est;2022;2021-2022;T;tba;102.0
+BF48;Centre-Est;2023;2022-2023;G;tba;92.59
+BF48;Centre-Est;2023;2022-2023;F;tba;89.58
+BF48;Centre-Est;2023;2022-2023;T;tba;91.14
+BF48;Centre-Est;2024;2023-2024;G;tba;107.24
+BF48;Centre-Est;2024;2023-2024;F;tba;102.89
+BF48;Centre-Est;2024;2023-2024;T;tba;105.14
+BF48;Centre-Est;2025;2024-2025;G;tba;111.62
+BF48;Centre-Est;2025;2024-2025;F;tba;99.88
+BF48;Centre-Est;2025;2024-2025;T;tba;105.85
+BF49;Centre-Nord;2016;2015-2016;G;tba;96.6
+BF49;Centre-Nord;2016;2015-2016;F;tba;86.0
+BF49;Centre-Nord;2016;2015-2016;T;tba;91.4
+BF49;Centre-Nord;2017;2016-2017;G;tba;106.8
+BF49;Centre-Nord;2017;2016-2017;F;tba;97.1
+BF49;Centre-Nord;2017;2016-2017;T;tba;102.1
+BF49;Centre-Nord;2018;2017-2018;G;tba;107.9
+BF49;Centre-Nord;2018;2017-2018;F;tba;96.8
+BF49;Centre-Nord;2018;2017-2018;T;tba;102.5
+BF49;Centre-Nord;2019;2018-2019;G;tba;103.0
+BF49;Centre-Nord;2019;2018-2019;F;tba;91.9
+BF49;Centre-Nord;2019;2018-2019;T;tba;97.6
+BF49;Centre-Nord;2020;2019-2020;G;tba;82.9
+BF49;Centre-Nord;2020;2019-2020;F;tba;76.1
+BF49;Centre-Nord;2020;2019-2020;T;tba;79.6
+BF49;Centre-Nord;2021;2020-2021;G;tba;103.4
+BF49;Centre-Nord;2021;2020-2021;F;tba;95.8
+BF49;Centre-Nord;2021;2020-2021;T;tba;99.7
+BF49;Centre-Nord;2022;2021-2022;G;tba;92.2
+BF49;Centre-Nord;2022;2021-2022;F;tba;84.8
+BF49;Centre-Nord;2022;2021-2022;T;tba;88.5
+BF49;Centre-Nord;2023;2022-2023;G;tba;67.34
+BF49;Centre-Nord;2023;2022-2023;F;tba;63.47
+BF49;Centre-Nord;2023;2022-2023;T;tba;65.44
+BF49;Centre-Nord;2024;2023-2024;G;tba;85.02
+BF49;Centre-Nord;2024;2023-2024;F;tba;79.96
+BF49;Centre-Nord;2024;2023-2024;T;tba;82.55
+BF49;Centre-Nord;2025;2024-2025;G;tba;84.46
+BF49;Centre-Nord;2025;2024-2025;F;tba;80.35
+BF49;Centre-Nord;2025;2024-2025;T;tba;82.41
+BF50;Centre-Ouest;2016;2015-2016;G;tba;112.2
+BF50;Centre-Ouest;2016;2015-2016;F;tba;112.2
+BF50;Centre-Ouest;2016;2015-2016;T;tba;112.2
+BF50;Centre-Ouest;2017;2016-2017;G;tba;114.0
+BF50;Centre-Ouest;2017;2016-2017;F;tba;117.9
+BF50;Centre-Ouest;2017;2016-2017;T;tba;115.9
+BF50;Centre-Ouest;2018;2017-2018;G;tba;112.9
+BF50;Centre-Ouest;2018;2017-2018;F;tba;116.6
+BF50;Centre-Ouest;2018;2017-2018;T;tba;114.7
+BF50;Centre-Ouest;2019;2018-2019;G;tba;108.7
+BF50;Centre-Ouest;2019;2018-2019;F;tba;110.6
+BF50;Centre-Ouest;2019;2018-2019;T;tba;109.6
+BF50;Centre-Ouest;2020;2019-2020;G;tba;105.4
+BF50;Centre-Ouest;2020;2019-2020;F;tba;107.5
+BF50;Centre-Ouest;2020;2019-2020;T;tba;106.4
+BF50;Centre-Ouest;2021;2020-2021;G;tba;106.5
+BF50;Centre-Ouest;2021;2020-2021;F;tba;110.5
+BF50;Centre-Ouest;2021;2020-2021;T;tba;108.4
+BF50;Centre-Ouest;2022;2021-2022;G;tba;111.2
+BF50;Centre-Ouest;2022;2021-2022;F;tba;108.6
+BF50;Centre-Ouest;2022;2021-2022;T;tba;109.9
+BF50;Centre-Ouest;2023;2022-2023;G;tba;109.45
+BF50;Centre-Ouest;2023;2022-2023;F;tba;108.8
+BF50;Centre-Ouest;2023;2022-2023;T;tba;109.13
+BF50;Centre-Ouest;2024;2023-2024;G;tba;117.07
+BF50;Centre-Ouest;2024;2023-2024;F;tba;120.36
+BF50;Centre-Ouest;2024;2023-2024;T;tba;118.66
+BF50;Centre-Ouest;2025;2024-2025;G;tba;116.03
+BF50;Centre-Ouest;2025;2024-2025;F;tba;115.41
+BF50;Centre-Ouest;2025;2024-2025;T;tba;115.72
+BF51;Centre-Sud;2016;2015-2016;G;tba;97.2
+BF51;Centre-Sud;2016;2015-2016;F;tba;93.2
+BF51;Centre-Sud;2016;2015-2016;T;tba;95.3
+BF51;Centre-Sud;2017;2016-2017;G;tba;106.8
+BF51;Centre-Sud;2017;2016-2017;F;tba;101.8
+BF51;Centre-Sud;2017;2016-2017;T;tba;104.3
+BF51;Centre-Sud;2018;2017-2018;G;tba;101.7
+BF51;Centre-Sud;2018;2017-2018;F;tba;100.1
+BF51;Centre-Sud;2018;2017-2018;T;tba;100.9
+BF51;Centre-Sud;2019;2018-2019;G;tba;100.1
+BF51;Centre-Sud;2019;2018-2019;F;tba;94.8
+BF51;Centre-Sud;2019;2018-2019;T;tba;97.5
+BF51;Centre-Sud;2020;2019-2020;G;tba;99.6
+BF51;Centre-Sud;2020;2019-2020;F;tba;94.2
+BF51;Centre-Sud;2020;2019-2020;T;tba;97.0
+BF51;Centre-Sud;2021;2020-2021;G;tba;99.1
+BF51;Centre-Sud;2021;2020-2021;F;tba;96.4
+BF51;Centre-Sud;2021;2020-2021;T;tba;97.8
+BF51;Centre-Sud;2022;2021-2022;G;tba;117.9
+BF51;Centre-Sud;2022;2021-2022;F;tba;109.6
+BF51;Centre-Sud;2022;2021-2022;T;tba;113.9
+BF51;Centre-Sud;2023;2022-2023;G;tba;119.19
+BF51;Centre-Sud;2023;2022-2023;F;tba;114.18
+BF51;Centre-Sud;2023;2022-2023;T;tba;116.78
+BF51;Centre-Sud;2024;2023-2024;G;tba;118.8
+BF51;Centre-Sud;2024;2023-2024;F;tba;115.9
+BF51;Centre-Sud;2024;2023-2024;T;tba;117.41
+BF51;Centre-Sud;2025;2024-2025;G;tba;116.03
+BF51;Centre-Sud;2025;2024-2025;F;tba;113.44
+BF51;Centre-Sud;2025;2024-2025;T;tba;114.77
+BF52;Est;2016;2015-2016;G;tba;74.7
+BF52;Est;2016;2015-2016;F;tba;69.7
+BF52;Est;2016;2015-2016;T;tba;72.2
+BF52;Est;2017;2016-2017;G;tba;83.4
+BF52;Est;2017;2016-2017;F;tba;78.5
+BF52;Est;2017;2016-2017;T;tba;81.0
+BF52;Est;2018;2017-2018;G;tba;80.3
+BF52;Est;2018;2017-2018;F;tba;74.6
+BF52;Est;2018;2017-2018;T;tba;77.5
+BF52;Est;2019;2018-2019;G;tba;72.3
+BF52;Est;2019;2018-2019;F;tba;69.0
+BF52;Est;2019;2018-2019;T;tba;70.7
+BF52;Est;2020;2019-2020;G;tba;61.3
+BF52;Est;2020;2019-2020;F;tba;58.8
+BF52;Est;2020;2019-2020;T;tba;60.1
+BF52;Est;2021;2020-2021;G;tba;60.5
+BF52;Est;2021;2020-2021;F;tba;58.1
+BF52;Est;2021;2020-2021;T;tba;59.3
+BF52;Est;2022;2021-2022;G;tba;38.7
+BF52;Est;2022;2021-2022;F;tba;37.3
+BF52;Est;2022;2021-2022;T;tba;38.0
+BF52;Est;2023;2022-2023;G;tba;26.01
+BF52;Est;2023;2022-2023;F;tba;25.73
+BF52;Est;2023;2022-2023;T;tba;25.88
+BF52;Est;2024;2023-2024;G;tba;47.46
+BF52;Est;2024;2023-2024;F;tba;45.92
+BF52;Est;2024;2023-2024;T;tba;46.71
+BF52;Est;2025;2024-2025;G;tba;49.03
+BF52;Est;2025;2024-2025;F;tba;44.61
+BF52;Est;2025;2024-2025;T;tba;46.85
+BF53;Hauts-Bassins;2016;2015-2016;G;tba;112.5
+BF53;Hauts-Bassins;2016;2015-2016;F;tba;109.1
+BF53;Hauts-Bassins;2016;2015-2016;T;tba;110.8
+BF53;Hauts-Bassins;2017;2016-2017;G;tba;111.7
+BF53;Hauts-Bassins;2017;2016-2017;F;tba;107.6
+BF53;Hauts-Bassins;2017;2016-2017;T;tba;109.7
+BF53;Hauts-Bassins;2018;2017-2018;G;tba;118.3
+BF53;Hauts-Bassins;2018;2017-2018;F;tba;112.3
+BF53;Hauts-Bassins;2018;2017-2018;T;tba;115.4
+BF53;Hauts-Bassins;2019;2018-2019;G;tba;117.7
+BF53;Hauts-Bassins;2019;2018-2019;F;tba;112.2
+BF53;Hauts-Bassins;2019;2018-2019;T;tba;115.0
+BF53;Hauts-Bassins;2020;2019-2020;G;tba;120.0
+BF53;Hauts-Bassins;2020;2019-2020;F;tba;118.6
+BF53;Hauts-Bassins;2020;2019-2020;T;tba;119.3
+BF53;Hauts-Bassins;2021;2020-2021;G;tba;117.5
+BF53;Hauts-Bassins;2021;2020-2021;F;tba;115.5
+BF53;Hauts-Bassins;2021;2020-2021;T;tba;116.5
+BF53;Hauts-Bassins;2022;2021-2022;G;tba;115.3
+BF53;Hauts-Bassins;2022;2021-2022;F;tba;113.8
+BF53;Hauts-Bassins;2022;2021-2022;T;tba;114.6
+BF53;Hauts-Bassins;2023;2022-2023;G;tba;98.15
+BF53;Hauts-Bassins;2023;2022-2023;F;tba;98.29
+BF53;Hauts-Bassins;2023;2022-2023;T;tba;98.22
+BF53;Hauts-Bassins;2024;2023-2024;G;tba;111.51
+BF53;Hauts-Bassins;2024;2023-2024;F;tba;110.62
+BF53;Hauts-Bassins;2024;2023-2024;T;tba;111.08
+BF53;Hauts-Bassins;2025;2024-2025;G;tba;114.45
+BF53;Hauts-Bassins;2025;2024-2025;F;tba;108.53
+BF53;Hauts-Bassins;2025;2024-2025;T;tba;111.51
+BF54;Nord;2016;2015-2016;G;tba;126.5
+BF54;Nord;2016;2015-2016;F;tba;117.2
+BF54;Nord;2016;2015-2016;T;tba;121.9
+BF54;Nord;2017;2016-2017;G;tba;133.8
+BF54;Nord;2017;2016-2017;F;tba;125.4
+BF54;Nord;2017;2016-2017;T;tba;129.7
+BF54;Nord;2018;2017-2018;G;tba;134.9
+BF54;Nord;2018;2017-2018;F;tba;127.2
+BF54;Nord;2018;2017-2018;T;tba;131.1
+BF54;Nord;2019;2018-2019;G;tba;127.5
+BF54;Nord;2019;2018-2019;F;tba;120.0
+BF54;Nord;2019;2018-2019;T;tba;123.8
+BF54;Nord;2020;2019-2020;G;tba;128.4
+BF54;Nord;2020;2019-2020;F;tba;121.8
+BF54;Nord;2020;2019-2020;T;tba;125.2
+BF54;Nord;2021;2020-2021;G;tba;126.5
+BF54;Nord;2021;2020-2021;F;tba;122.6
+BF54;Nord;2021;2020-2021;T;tba;124.6
+BF54;Nord;2022;2021-2022;G;tba;120.4
+BF54;Nord;2022;2021-2022;F;tba;112.3
+BF54;Nord;2022;2021-2022;T;tba;116.3
+BF54;Nord;2023;2022-2023;G;tba;112.14
+BF54;Nord;2023;2022-2023;F;tba;106.07
+BF54;Nord;2023;2022-2023;T;tba;109.12
+BF54;Nord;2024;2023-2024;G;tba;144.52
+BF54;Nord;2024;2023-2024;F;tba;139.86
+BF54;Nord;2024;2023-2024;T;tba;142.21
+BF54;Nord;2025;2024-2025;G;tba;145.99
+BF54;Nord;2025;2024-2025;F;tba;137.7
+BF54;Nord;2025;2024-2025;T;tba;141.8
+BF55;Plateau-Central;2016;2015-2016;G;tba;115.7
+BF55;Plateau-Central;2016;2015-2016;F;tba;106.6
+BF55;Plateau-Central;2016;2015-2016;T;tba;111.3
+BF55;Plateau-Central;2017;2016-2017;G;tba;115.9
+BF55;Plateau-Central;2017;2016-2017;F;tba;107.2
+BF55;Plateau-Central;2017;2016-2017;T;tba;111.7
+BF55;Plateau-Central;2018;2017-2018;G;tba;123.4
+BF55;Plateau-Central;2018;2017-2018;F;tba;116.7
+BF55;Plateau-Central;2018;2017-2018;T;tba;120.2
+BF55;Plateau-Central;2019;2018-2019;G;tba;120.1
+BF55;Plateau-Central;2019;2018-2019;F;tba;109.7
+BF55;Plateau-Central;2019;2018-2019;T;tba;115.1
+BF55;Plateau-Central;2020;2019-2020;G;tba;121.5
+BF55;Plateau-Central;2020;2019-2020;F;tba;116.2
+BF55;Plateau-Central;2020;2019-2020;T;tba;119.0
+BF55;Plateau-Central;2021;2020-2021;G;tba;113.8
+BF55;Plateau-Central;2021;2020-2021;F;tba;106.9
+BF55;Plateau-Central;2021;2020-2021;T;tba;110.4
+BF55;Plateau-Central;2022;2021-2022;G;tba;127.6
+BF55;Plateau-Central;2022;2021-2022;F;tba;118.0
+BF55;Plateau-Central;2022;2021-2022;T;tba;122.9
+BF55;Plateau-Central;2023;2022-2023;G;tba;127.69
+BF55;Plateau-Central;2023;2022-2023;F;tba;119.92
+BF55;Plateau-Central;2023;2022-2023;T;tba;123.91
+BF55;Plateau-Central;2024;2023-2024;G;tba;134.37
+BF55;Plateau-Central;2024;2023-2024;F;tba;130.02
+BF55;Plateau-Central;2024;2023-2024;T;tba;132.27
+BF55;Plateau-Central;2025;2024-2025;G;tba;129.95
+BF55;Plateau-Central;2025;2024-2025;F;tba;119.35
+BF55;Plateau-Central;2025;2024-2025;T;tba;124.72
+BF56;Sahel;2016;2015-2016;G;tba;85.9
+BF56;Sahel;2016;2015-2016;F;tba;82.1
+BF56;Sahel;2016;2015-2016;T;tba;84.1
+BF56;Sahel;2017;2016-2017;G;tba;74.4
+BF56;Sahel;2017;2016-2017;F;tba;72.4
+BF56;Sahel;2017;2016-2017;T;tba;73.4
+BF56;Sahel;2018;2017-2018;G;tba;78.3
+BF56;Sahel;2018;2017-2018;F;tba;75.9
+BF56;Sahel;2018;2017-2018;T;tba;77.1
+BF56;Sahel;2019;2018-2019;G;tba;36.3
+BF56;Sahel;2019;2018-2019;F;tba;36.3
+BF56;Sahel;2019;2018-2019;T;tba;36.3
+BF56;Sahel;2020;2019-2020;G;tba;36.3
+BF56;Sahel;2020;2019-2020;F;tba;36.0
+BF56;Sahel;2020;2019-2020;T;tba;36.2
+BF56;Sahel;2021;2020-2021;G;tba;37.7
+BF56;Sahel;2021;2020-2021;F;tba;36.0
+BF56;Sahel;2021;2020-2021;T;tba;36.8
+BF56;Sahel;2022;2021-2022;G;tba;38.8
+BF56;Sahel;2022;2021-2022;F;tba;39.3
+BF56;Sahel;2022;2021-2022;T;tba;39.0
+BF56;Sahel;2023;2022-2023;G;tba;31.25
+BF56;Sahel;2023;2022-2023;F;tba;31.22
+BF56;Sahel;2023;2022-2023;T;tba;31.24
+BF56;Sahel;2024;2023-2024;G;tba;54.32
+BF56;Sahel;2024;2023-2024;F;tba;53.6
+BF56;Sahel;2024;2023-2024;T;tba;53.97
+BF56;Sahel;2025;2024-2025;G;tba;49.85
+BF56;Sahel;2025;2024-2025;F;tba;46.26
+BF56;Sahel;2025;2024-2025;T;tba;48.09
+BF57;Sud-Ouest;2016;2015-2016;G;tba;97.7
+BF57;Sud-Ouest;2016;2015-2016;F;tba;100.8
+BF57;Sud-Ouest;2016;2015-2016;T;tba;99.2
+BF57;Sud-Ouest;2017;2016-2017;G;tba;96.9
+BF57;Sud-Ouest;2017;2016-2017;F;tba;96.1
+BF57;Sud-Ouest;2017;2016-2017;T;tba;96.5
+BF57;Sud-Ouest;2018;2017-2018;G;tba;103.2
+BF57;Sud-Ouest;2018;2017-2018;F;tba;102.5
+BF57;Sud-Ouest;2018;2017-2018;T;tba;102.9
+BF57;Sud-Ouest;2019;2018-2019;G;tba;94.3
+BF57;Sud-Ouest;2019;2018-2019;F;tba;94.2
+BF57;Sud-Ouest;2019;2018-2019;T;tba;94.2
+BF57;Sud-Ouest;2020;2019-2020;G;tba;103.8
+BF57;Sud-Ouest;2020;2019-2020;F;tba;103.2
+BF57;Sud-Ouest;2020;2019-2020;T;tba;103.5
+BF57;Sud-Ouest;2021;2020-2021;G;tba;102.3
+BF57;Sud-Ouest;2021;2020-2021;F;tba;105.2
+BF57;Sud-Ouest;2021;2020-2021;T;tba;103.7
+BF57;Sud-Ouest;2022;2021-2022;G;tba;99.2
+BF57;Sud-Ouest;2022;2021-2022;F;tba;96.9
+BF57;Sud-Ouest;2022;2021-2022;T;tba;98.1
+BF57;Sud-Ouest;2023;2022-2023;G;tba;99.0
+BF57;Sud-Ouest;2023;2022-2023;F;tba;98.01
+BF57;Sud-Ouest;2023;2022-2023;T;tba;98.52
+BF57;Sud-Ouest;2024;2023-2024;G;tba;107.07
+BF57;Sud-Ouest;2024;2023-2024;F;tba;106.29
+BF57;Sud-Ouest;2024;2023-2024;T;tba;106.7
+BF57;Sud-Ouest;2025;2024-2025;G;tba;111.79
+BF57;Sud-Ouest;2025;2024-2025;F;tba;107.78
+BF57;Sud-Ouest;2025;2024-2025;T;tba;109.83
+BF;Burkina Faso;2016;2015-2016;G;tba;102.3
+BF;Burkina Faso;2016;2015-2016;F;tba;97.8
+BF;Burkina Faso;2016;2015-2016;T;tba;100.1
+BF;Burkina Faso;2017;2016-2017;G;tba;104.5
+BF;Burkina Faso;2017;2016-2017;F;tba;100.6
+BF;Burkina Faso;2017;2016-2017;T;tba;102.6
+BF;Burkina Faso;2018;2017-2018;G;tba;106.9
+BF;Burkina Faso;2018;2017-2018;F;tba;102.7
+BF;Burkina Faso;2018;2017-2018;T;tba;104.8
+BF;Burkina Faso;2019;2018-2019;G;tba;100.2
+BF;Burkina Faso;2019;2018-2019;F;tba;95.7
+BF;Burkina Faso;2019;2018-2019;T;tba;98.0
+BF;Burkina Faso;2020;2019-2020;G;tba;96.3
+BF;Burkina Faso;2020;2019-2020;F;tba;93.5
+BF;Burkina Faso;2020;2019-2020;T;tba;94.9
+BF;Burkina Faso;2021;2020-2021;G;tba;98.5
+BF;Burkina Faso;2021;2020-2021;F;tba;96.0
+BF;Burkina Faso;2021;2020-2021;T;tba;97.3
+BF;Burkina Faso;2022;2021-2022;G;tba;96.7
+BF;Burkina Faso;2022;2021-2022;F;tba;93.7
+BF;Burkina Faso;2022;2021-2022;T;tba;95.2
+BF;Burkina Faso;2023;2022-2023;G;tba;85.37
+BF;Burkina Faso;2023;2022-2023;F;tba;84.04
+BF;Burkina Faso;2023;2022-2023;T;tba;84.72
+BF;Burkina Faso;2024;2023-2024;G;tba;100.93
+BF;Burkina Faso;2024;2023-2024;F;tba;99.95
+BF;Burkina Faso;2024;2023-2024;T;tba;100.45
+BF;Burkina Faso;2025;2024-2025;G;tba;103.78
+BF;Burkina Faso;2025;2024-2025;F;tba;98.96
+BF;Burkina Faso;2025;2024-2025;T;tba;101.4
+BF46;Boucle du Mouhoun;2016;2015-2016;G;tbs;78.5
+BF46;Boucle du Mouhoun;2016;2015-2016;F;tbs;81.4
+BF46;Boucle du Mouhoun;2016;2015-2016;T;tbs;79.9
+BF46;Boucle du Mouhoun;2017;2016-2017;G;tbs;80.6
+BF46;Boucle du Mouhoun;2017;2016-2017;F;tbs;83.9
+BF46;Boucle du Mouhoun;2017;2016-2017;T;tbs;82.1
+BF46;Boucle du Mouhoun;2018;2017-2018;G;tbs;83.84
+BF46;Boucle du Mouhoun;2018;2017-2018;F;tbs;86.78
+BF46;Boucle du Mouhoun;2018;2017-2018;T;tbs;85.24
+BF46;Boucle du Mouhoun;2019;2018-2019;G;tbs;85.7
+BF46;Boucle du Mouhoun;2019;2018-2019;F;tbs;88.3
+BF46;Boucle du Mouhoun;2019;2018-2019;T;tbs;86.9
+BF46;Boucle du Mouhoun;2020;2019-2020;G;tbs;76.9
+BF46;Boucle du Mouhoun;2020;2019-2020;F;tbs;80.1
+BF46;Boucle du Mouhoun;2020;2019-2020;T;tbs;78.4
+BF46;Boucle du Mouhoun;2021;2020-2021;G;tbs;79.0
+BF46;Boucle du Mouhoun;2021;2020-2021;F;tbs;82.5
+BF46;Boucle du Mouhoun;2021;2020-2021;T;tbs;80.7
+BF46;Boucle du Mouhoun;2022;2021-2022;G;tbs;74.2
+BF46;Boucle du Mouhoun;2022;2021-2022;F;tbs;76.4
+BF46;Boucle du Mouhoun;2022;2021-2022;T;tbs;75.3
+BF46;Boucle du Mouhoun;2023;2022-2023;G;tbs;41.51
+BF46;Boucle du Mouhoun;2023;2022-2023;F;tbs;44.75
+BF46;Boucle du Mouhoun;2023;2022-2023;T;tbs;43.08
+BF46;Boucle du Mouhoun;2024;2023-2024;G;tbs;52.46
+BF46;Boucle du Mouhoun;2024;2023-2024;F;tbs;56.08
+BF46;Boucle du Mouhoun;2024;2023-2024;T;tbs;54.2
+BF46;Boucle du Mouhoun;2025;2024-2025;G;tbs;62.65
+BF46;Boucle du Mouhoun;2025;2024-2025;F;tbs;62.82
+BF46;Boucle du Mouhoun;2025;2024-2025;T;tbs;62.73
+BF47;Cascades;2016;2015-2016;G;tbs;79.5
+BF47;Cascades;2016;2015-2016;F;tbs;78.5
+BF47;Cascades;2016;2015-2016;T;tbs;79.0
+BF47;Cascades;2017;2016-2017;G;tbs;82.1
+BF47;Cascades;2017;2016-2017;F;tbs;81.2
+BF47;Cascades;2017;2016-2017;T;tbs;81.7
+BF47;Cascades;2018;2017-2018;G;tbs;84.51
+BF47;Cascades;2018;2017-2018;F;tbs;82.61
+BF47;Cascades;2018;2017-2018;T;tbs;83.58
+BF47;Cascades;2019;2018-2019;G;tbs;86.3
+BF47;Cascades;2019;2018-2019;F;tbs;84.4
+BF47;Cascades;2019;2018-2019;T;tbs;85.3
+BF47;Cascades;2020;2019-2020;G;tbs;87.8
+BF47;Cascades;2020;2019-2020;F;tbs;86.4
+BF47;Cascades;2020;2019-2020;T;tbs;87.1
+BF47;Cascades;2021;2020-2021;G;tbs;87.9
+BF47;Cascades;2021;2020-2021;F;tbs;87.1
+BF47;Cascades;2021;2020-2021;T;tbs;87.5
+BF47;Cascades;2022;2021-2022;G;tbs;85.8
+BF47;Cascades;2022;2021-2022;F;tbs;83.8
+BF47;Cascades;2022;2021-2022;T;tbs;84.8
+BF47;Cascades;2023;2022-2023;G;tbs;79.49
+BF47;Cascades;2023;2022-2023;F;tbs;78.3
+BF47;Cascades;2023;2022-2023;T;tbs;78.9
+BF47;Cascades;2024;2023-2024;G;tbs;74.85
+BF47;Cascades;2024;2023-2024;F;tbs;75.27
+BF47;Cascades;2024;2023-2024;T;tbs;75.06
+BF47;Cascades;2025;2024-2025;G;tbs;79.73
+BF47;Cascades;2025;2024-2025;F;tbs;75.29
+BF47;Cascades;2025;2024-2025;T;tbs;77.51
+BF13;Centre;2016;2015-2016;G;tbs;102.1
+BF13;Centre;2016;2015-2016;F;tbs;107.2
+BF13;Centre;2016;2015-2016;T;tbs;104.6
+BF13;Centre;2017;2016-2017;G;tbs;103.7
+BF13;Centre;2017;2016-2017;F;tbs;109.1
+BF13;Centre;2017;2016-2017;T;tbs;106.4
+BF13;Centre;2018;2017-2018;G;tbs;101.91
+BF13;Centre;2018;2017-2018;F;tbs;106.57
+BF13;Centre;2018;2017-2018;T;tbs;104.22
+BF13;Centre;2019;2018-2019;G;tbs;105.2
+BF13;Centre;2019;2018-2019;F;tbs;109.6
+BF13;Centre;2019;2018-2019;T;tbs;107.4
+BF13;Centre;2020;2019-2020;G;tbs;107.2
+BF13;Centre;2020;2019-2020;F;tbs;111.6
+BF13;Centre;2020;2019-2020;T;tbs;109.4
+BF13;Centre;2021;2020-2021;G;tbs;107.7
+BF13;Centre;2021;2020-2021;F;tbs;112.2
+BF13;Centre;2021;2020-2021;T;tbs;109.9
+BF13;Centre;2022;2021-2022;G;tbs;115.2
+BF13;Centre;2022;2021-2022;F;tbs;120.9
+BF13;Centre;2022;2021-2022;T;tbs;118.1
+BF13;Centre;2023;2022-2023;G;tbs;115.32
+BF13;Centre;2023;2022-2023;F;tbs;122.06
+BF13;Centre;2023;2022-2023;T;tbs;118.67
+BF13;Centre;2024;2023-2024;G;tbs;115.78
+BF13;Centre;2024;2023-2024;F;tbs;122.93
+BF13;Centre;2024;2023-2024;T;tbs;119.31
+BF13;Centre;2025;2024-2025;G;tbs;114.67
+BF13;Centre;2025;2024-2025;F;tbs;116.18
+BF13;Centre;2025;2024-2025;T;tbs;115.43
+BF48;Centre-Est;2016;2015-2016;G;tbs;89.7
+BF48;Centre-Est;2016;2015-2016;F;tbs;86.3
+BF48;Centre-Est;2016;2015-2016;T;tbs;88.1
+BF48;Centre-Est;2017;2016-2017;G;tbs;91.0
+BF48;Centre-Est;2017;2016-2017;F;tbs;87.6
+BF48;Centre-Est;2017;2016-2017;T;tbs;89.4
+BF48;Centre-Est;2018;2017-2018;G;tbs;93.83
+BF48;Centre-Est;2018;2017-2018;F;tbs;89.49
+BF48;Centre-Est;2018;2017-2018;T;tbs;91.73
+BF48;Centre-Est;2019;2018-2019;G;tbs;89.5
+BF48;Centre-Est;2019;2018-2019;F;tbs;86.1
+BF48;Centre-Est;2019;2018-2019;T;tbs;87.9
+BF48;Centre-Est;2020;2019-2020;G;tbs;86.6
+BF48;Centre-Est;2020;2019-2020;F;tbs;84.9
+BF48;Centre-Est;2020;2019-2020;T;tbs;85.8
+BF48;Centre-Est;2021;2020-2021;G;tbs;84.2
+BF48;Centre-Est;2021;2020-2021;F;tbs;83.0
+BF48;Centre-Est;2021;2020-2021;T;tbs;83.6
+BF48;Centre-Est;2022;2021-2022;G;tbs;86.9
+BF48;Centre-Est;2022;2021-2022;F;tbs;85.8
+BF48;Centre-Est;2022;2021-2022;T;tbs;86.4
+BF48;Centre-Est;2023;2022-2023;G;tbs;75.04
+BF48;Centre-Est;2023;2022-2023;F;tbs;76.83
+BF48;Centre-Est;2023;2022-2023;T;tbs;75.91
+BF48;Centre-Est;2024;2023-2024;G;tbs;75.63
+BF48;Centre-Est;2024;2023-2024;F;tbs;78.22
+BF48;Centre-Est;2024;2023-2024;T;tbs;76.87
+BF48;Centre-Est;2025;2024-2025;G;tbs;79.71
+BF48;Centre-Est;2025;2024-2025;F;tbs;77.89
+BF48;Centre-Est;2025;2024-2025;T;tbs;78.82
+BF49;Centre-Nord;2016;2015-2016;G;tbs;79.3
+BF49;Centre-Nord;2016;2015-2016;F;tbs;75.2
+BF49;Centre-Nord;2016;2015-2016;T;tbs;77.3
+BF49;Centre-Nord;2017;2016-2017;G;tbs;82.6
+BF49;Centre-Nord;2017;2016-2017;F;tbs;78.8
+BF49;Centre-Nord;2017;2016-2017;T;tbs;80.7
+BF49;Centre-Nord;2018;2017-2018;G;tbs;87.18
+BF49;Centre-Nord;2018;2017-2018;F;tbs;82.38
+BF49;Centre-Nord;2018;2017-2018;T;tbs;84.82
+BF49;Centre-Nord;2019;2018-2019;G;tbs;86.2
+BF49;Centre-Nord;2019;2018-2019;F;tbs;82.5
+BF49;Centre-Nord;2019;2018-2019;T;tbs;84.4
+BF49;Centre-Nord;2020;2019-2020;G;tbs;70.1
+BF49;Centre-Nord;2020;2019-2020;F;tbs;69.6
+BF49;Centre-Nord;2020;2019-2020;T;tbs;69.9
+BF49;Centre-Nord;2021;2020-2021;G;tbs;77.9
+BF49;Centre-Nord;2021;2020-2021;F;tbs;77.8
+BF49;Centre-Nord;2021;2020-2021;T;tbs;77.8
+BF49;Centre-Nord;2022;2021-2022;G;tbs;72.3
+BF49;Centre-Nord;2022;2021-2022;F;tbs;70.4
+BF49;Centre-Nord;2022;2021-2022;T;tbs;71.4
+BF49;Centre-Nord;2023;2022-2023;G;tbs;50.51
+BF49;Centre-Nord;2023;2022-2023;F;tbs;51.36
+BF49;Centre-Nord;2023;2022-2023;T;tbs;50.93
+BF49;Centre-Nord;2024;2023-2024;G;tbs;54.47
+BF49;Centre-Nord;2024;2023-2024;F;tbs;55.44
+BF49;Centre-Nord;2024;2023-2024;T;tbs;54.95
+BF49;Centre-Nord;2025;2024-2025;G;tbs;58.5
+BF49;Centre-Nord;2025;2024-2025;F;tbs;57.59
+BF49;Centre-Nord;2025;2024-2025;T;tbs;58.04
+BF50;Centre-Ouest;2016;2015-2016;G;tbs;98.7
+BF50;Centre-Ouest;2016;2015-2016;F;tbs;103.1
+BF50;Centre-Ouest;2016;2015-2016;T;tbs;100.8
+BF50;Centre-Ouest;2017;2016-2017;G;tbs;101.1
+BF50;Centre-Ouest;2017;2016-2017;F;tbs;107.3
+BF50;Centre-Ouest;2017;2016-2017;T;tbs;104.1
+BF50;Centre-Ouest;2018;2017-2018;G;tbs;102.23
+BF50;Centre-Ouest;2018;2017-2018;F;tbs;109.05
+BF50;Centre-Ouest;2018;2017-2018;T;tbs;105.53
+BF50;Centre-Ouest;2019;2018-2019;G;tbs;102.4
+BF50;Centre-Ouest;2019;2018-2019;F;tbs;109.8
+BF50;Centre-Ouest;2019;2018-2019;T;tbs;106.0
+BF50;Centre-Ouest;2020;2019-2020;G;tbs;103.1
+BF50;Centre-Ouest;2020;2019-2020;F;tbs;111.4
+BF50;Centre-Ouest;2020;2019-2020;T;tbs;107.1
+BF50;Centre-Ouest;2021;2020-2021;G;tbs;101.7
+BF50;Centre-Ouest;2021;2020-2021;F;tbs;110.5
+BF50;Centre-Ouest;2021;2020-2021;T;tbs;105.9
+BF50;Centre-Ouest;2022;2021-2022;G;tbs;106.7
+BF50;Centre-Ouest;2022;2021-2022;F;tbs;111.2
+BF50;Centre-Ouest;2022;2021-2022;T;tbs;108.9
+BF50;Centre-Ouest;2023;2022-2023;G;tbs;99.16
+BF50;Centre-Ouest;2023;2022-2023;F;tbs;104.82
+BF50;Centre-Ouest;2023;2022-2023;T;tbs;101.96
+BF50;Centre-Ouest;2024;2023-2024;G;tbs;100.83
+BF50;Centre-Ouest;2024;2023-2024;F;tbs;108.13
+BF50;Centre-Ouest;2024;2023-2024;T;tbs;104.42
+BF50;Centre-Ouest;2025;2024-2025;G;tbs;99.55
+BF50;Centre-Ouest;2025;2024-2025;F;tbs;102.3
+BF50;Centre-Ouest;2025;2024-2025;T;tbs;100.93
+BF51;Centre-Sud;2016;2015-2016;G;tbs;97.8
+BF51;Centre-Sud;2016;2015-2016;F;tbs;98.2
+BF51;Centre-Sud;2016;2015-2016;T;tbs;98.0
+BF51;Centre-Sud;2017;2016-2017;G;tbs;98.6
+BF51;Centre-Sud;2017;2016-2017;F;tbs;99.8
+BF51;Centre-Sud;2017;2016-2017;T;tbs;99.2
+BF51;Centre-Sud;2018;2017-2018;G;tbs;100.09
+BF51;Centre-Sud;2018;2017-2018;F;tbs;101.57
+BF51;Centre-Sud;2018;2017-2018;T;tbs;100.8
+BF51;Centre-Sud;2019;2018-2019;G;tbs;99.8
+BF51;Centre-Sud;2019;2018-2019;F;tbs;100.9
+BF51;Centre-Sud;2019;2018-2019;T;tbs;100.3
+BF51;Centre-Sud;2020;2019-2020;G;tbs;99.7
+BF51;Centre-Sud;2020;2019-2020;F;tbs;100.2
+BF51;Centre-Sud;2020;2019-2020;T;tbs;100.0
+BF51;Centre-Sud;2021;2020-2021;G;tbs;96.4
+BF51;Centre-Sud;2021;2020-2021;F;tbs;97.9
+BF51;Centre-Sud;2021;2020-2021;T;tbs;97.1
+BF51;Centre-Sud;2022;2021-2022;G;tbs;112.4
+BF51;Centre-Sud;2022;2021-2022;F;tbs;111.5
+BF51;Centre-Sud;2022;2021-2022;T;tbs;112.0
+BF51;Centre-Sud;2023;2022-2023;G;tbs;105.98
+BF51;Centre-Sud;2023;2022-2023;F;tbs;107.84
+BF51;Centre-Sud;2023;2022-2023;T;tbs;106.89
+BF51;Centre-Sud;2024;2023-2024;G;tbs;103.65
+BF51;Centre-Sud;2024;2023-2024;F;tbs;105.86
+BF51;Centre-Sud;2024;2023-2024;T;tbs;104.72
+BF51;Centre-Sud;2025;2024-2025;G;tbs;101.59
+BF51;Centre-Sud;2025;2024-2025;F;tbs;100.16
+BF51;Centre-Sud;2025;2024-2025;T;tbs;100.88
+BF52;Est;2016;2015-2016;G;tbs;58.1
+BF52;Est;2016;2015-2016;F;tbs;56.8
+BF52;Est;2016;2015-2016;T;tbs;57.5
+BF52;Est;2017;2016-2017;G;tbs;61.4
+BF52;Est;2017;2016-2017;F;tbs;59.7
+BF52;Est;2017;2016-2017;T;tbs;60.5
+BF52;Est;2018;2017-2018;G;tbs;65.16
+BF52;Est;2018;2017-2018;F;tbs;62.36
+BF52;Est;2018;2017-2018;T;tbs;63.8
+BF52;Est;2019;2018-2019;G;tbs;61.5
+BF52;Est;2019;2018-2019;F;tbs;59.4
+BF52;Est;2019;2018-2019;T;tbs;60.5
+BF52;Est;2020;2019-2020;G;tbs;56.0
+BF52;Est;2020;2019-2020;F;tbs;54.8
+BF52;Est;2020;2019-2020;T;tbs;55.4
+BF52;Est;2021;2020-2021;G;tbs;49.2
+BF52;Est;2021;2020-2021;F;tbs;49.6
+BF52;Est;2021;2020-2021;T;tbs;49.4
+BF52;Est;2022;2021-2022;G;tbs;33.4
+BF52;Est;2022;2021-2022;F;tbs;34.0
+BF52;Est;2022;2021-2022;T;tbs;33.7
+BF52;Est;2023;2022-2023;G;tbs;22.19
+BF52;Est;2023;2022-2023;F;tbs;23.03
+BF52;Est;2023;2022-2023;T;tbs;22.6
+BF52;Est;2024;2023-2024;G;tbs;27.96
+BF52;Est;2024;2023-2024;F;tbs;28.88
+BF52;Est;2024;2023-2024;T;tbs;28.4
+BF52;Est;2025;2024-2025;G;tbs;30.08
+BF52;Est;2025;2024-2025;F;tbs;29.18
+BF52;Est;2025;2024-2025;T;tbs;29.64
+BF53;Hauts-Bassins;2016;2015-2016;G;tbs;93.8
+BF53;Hauts-Bassins;2016;2015-2016;F;tbs;95.5
+BF53;Hauts-Bassins;2016;2015-2016;T;tbs;94.6
+BF53;Hauts-Bassins;2017;2016-2017;G;tbs;96.5
+BF53;Hauts-Bassins;2017;2016-2017;F;tbs;98.3
+BF53;Hauts-Bassins;2017;2016-2017;T;tbs;97.4
+BF53;Hauts-Bassins;2018;2017-2018;G;tbs;100.22
+BF53;Hauts-Bassins;2018;2017-2018;F;tbs;101.53
+BF53;Hauts-Bassins;2018;2017-2018;T;tbs;100.86
+BF53;Hauts-Bassins;2019;2018-2019;G;tbs;102.5
+BF53;Hauts-Bassins;2019;2018-2019;F;tbs;103.5
+BF53;Hauts-Bassins;2019;2018-2019;T;tbs;103.0
+BF53;Hauts-Bassins;2020;2019-2020;G;tbs;104.3
+BF53;Hauts-Bassins;2020;2019-2020;F;tbs;106.4
+BF53;Hauts-Bassins;2020;2019-2020;T;tbs;105.3
+BF53;Hauts-Bassins;2021;2020-2021;G;tbs;104.2
+BF53;Hauts-Bassins;2021;2020-2021;F;tbs;106.7
+BF53;Hauts-Bassins;2021;2020-2021;T;tbs;105.4
+BF53;Hauts-Bassins;2022;2021-2022;G;tbs;106.6
+BF53;Hauts-Bassins;2022;2021-2022;F;tbs;109.9
+BF53;Hauts-Bassins;2022;2021-2022;T;tbs;108.2
+BF53;Hauts-Bassins;2023;2022-2023;G;tbs;90.73
+BF53;Hauts-Bassins;2023;2022-2023;F;tbs;96.16
+BF53;Hauts-Bassins;2023;2022-2023;T;tbs;93.38
+BF53;Hauts-Bassins;2024;2023-2024;G;tbs;93.4
+BF53;Hauts-Bassins;2024;2023-2024;F;tbs;99.46
+BF53;Hauts-Bassins;2024;2023-2024;T;tbs;96.34
+BF53;Hauts-Bassins;2025;2024-2025;G;tbs;92.54
+BF53;Hauts-Bassins;2025;2024-2025;F;tbs;93.7
+BF53;Hauts-Bassins;2025;2024-2025;T;tbs;93.11
+BF54;Nord;2016;2015-2016;G;tbs;104.4
+BF54;Nord;2016;2015-2016;F;tbs;101.7
+BF54;Nord;2016;2015-2016;T;tbs;103.1
+BF54;Nord;2017;2016-2017;G;tbs;109.4
+BF54;Nord;2017;2016-2017;F;tbs;107.3
+BF54;Nord;2017;2016-2017;T;tbs;108.3
+BF54;Nord;2018;2017-2018;G;tbs;113.62
+BF54;Nord;2018;2017-2018;F;tbs;111.01
+BF54;Nord;2018;2017-2018;T;tbs;112.34
+BF54;Nord;2019;2018-2019;G;tbs;109.9
+BF54;Nord;2019;2018-2019;F;tbs;108.8
+BF54;Nord;2019;2018-2019;T;tbs;109.3
+BF54;Nord;2020;2019-2020;G;tbs;107.7
+BF54;Nord;2020;2019-2020;F;tbs;108.2
+BF54;Nord;2020;2019-2020;T;tbs;108.0
+BF54;Nord;2021;2020-2021;G;tbs;105.0
+BF54;Nord;2021;2020-2021;F;tbs;107.0
+BF54;Nord;2021;2020-2021;T;tbs;106.0
+BF54;Nord;2022;2021-2022;G;tbs;98.0
+BF54;Nord;2022;2021-2022;F;tbs;97.2
+BF54;Nord;2022;2021-2022;T;tbs;97.6
+BF54;Nord;2023;2022-2023;G;tbs;82.76
+BF54;Nord;2023;2022-2023;F;tbs;83.52
+BF54;Nord;2023;2022-2023;T;tbs;83.14
+BF54;Nord;2024;2023-2024;G;tbs;91.26
+BF54;Nord;2024;2023-2024;F;tbs;93.71
+BF54;Nord;2024;2023-2024;T;tbs;92.48
+BF54;Nord;2025;2024-2025;G;tbs;96.51
+BF54;Nord;2025;2024-2025;F;tbs;95.28
+BF54;Nord;2025;2024-2025;T;tbs;95.89
+BF55;Plateau-Central;2016;2015-2016;G;tbs;99.4
+BF55;Plateau-Central;2016;2015-2016;F;tbs;97.4
+BF55;Plateau-Central;2016;2015-2016;T;tbs;98.4
+BF55;Plateau-Central;2017;2016-2017;G;tbs;102.3
+BF55;Plateau-Central;2017;2016-2017;F;tbs;99.9
+BF55;Plateau-Central;2017;2016-2017;T;tbs;101.1
+BF55;Plateau-Central;2018;2017-2018;G;tbs;105.59
+BF55;Plateau-Central;2018;2017-2018;F;tbs;102.59
+BF55;Plateau-Central;2018;2017-2018;T;tbs;104.13
+BF55;Plateau-Central;2019;2018-2019;G;tbs;105.4
+BF55;Plateau-Central;2019;2018-2019;F;tbs;102.6
+BF55;Plateau-Central;2019;2018-2019;T;tbs;104.1
+BF55;Plateau-Central;2020;2019-2020;G;tbs;107.2
+BF55;Plateau-Central;2020;2019-2020;F;tbs;105.9
+BF55;Plateau-Central;2020;2019-2020;T;tbs;106.6
+BF55;Plateau-Central;2021;2020-2021;G;tbs;102.4
+BF55;Plateau-Central;2021;2020-2021;F;tbs;102.7
+BF55;Plateau-Central;2021;2020-2021;T;tbs;102.5
+BF55;Plateau-Central;2022;2021-2022;G;tbs;108.4
+BF55;Plateau-Central;2022;2021-2022;F;tbs;105.1
+BF55;Plateau-Central;2022;2021-2022;T;tbs;106.7
+BF55;Plateau-Central;2023;2022-2023;G;tbs;105.03
+BF55;Plateau-Central;2023;2022-2023;F;tbs;104.15
+BF55;Plateau-Central;2023;2022-2023;T;tbs;104.6
+BF55;Plateau-Central;2024;2023-2024;G;tbs;104.41
+BF55;Plateau-Central;2024;2023-2024;F;tbs;104.98
+BF55;Plateau-Central;2024;2023-2024;T;tbs;104.69
+BF55;Plateau-Central;2025;2024-2025;G;tbs;102.9
+BF55;Plateau-Central;2025;2024-2025;F;tbs;98.98
+BF55;Plateau-Central;2025;2024-2025;T;tbs;100.94
+BF56;Sahel;2016;2015-2016;G;tbs;54.8
+BF56;Sahel;2016;2015-2016;F;tbs;51.9
+BF56;Sahel;2016;2015-2016;T;tbs;53.4
+BF56;Sahel;2017;2016-2017;G;tbs;53.5
+BF56;Sahel;2017;2016-2017;F;tbs;51.2
+BF56;Sahel;2017;2016-2017;T;tbs;52.4
+BF56;Sahel;2018;2017-2018;G;tbs;54.53
+BF56;Sahel;2018;2017-2018;F;tbs;52.22
+BF56;Sahel;2018;2017-2018;T;tbs;53.41
+BF56;Sahel;2019;2018-2019;G;tbs;27.5
+BF56;Sahel;2019;2018-2019;F;tbs;27.0
+BF56;Sahel;2019;2018-2019;T;tbs;27.3
+BF56;Sahel;2020;2019-2020;G;tbs;24.7
+BF56;Sahel;2020;2019-2020;F;tbs;24.2
+BF56;Sahel;2020;2019-2020;T;tbs;24.5
+BF56;Sahel;2021;2020-2021;G;tbs;20.4
+BF56;Sahel;2021;2020-2021;F;tbs;20.1
+BF56;Sahel;2021;2020-2021;T;tbs;20.3
+BF56;Sahel;2022;2021-2022;G;tbs;23.6
+BF56;Sahel;2022;2021-2022;F;tbs;22.7
+BF56;Sahel;2022;2021-2022;T;tbs;23.2
+BF56;Sahel;2023;2022-2023;G;tbs;17.91
+BF56;Sahel;2023;2022-2023;F;tbs;16.98
+BF56;Sahel;2023;2022-2023;T;tbs;17.45
+BF56;Sahel;2024;2023-2024;G;tbs;27.26
+BF56;Sahel;2024;2023-2024;F;tbs;26.11
+BF56;Sahel;2024;2023-2024;T;tbs;26.7
+BF56;Sahel;2025;2024-2025;G;tbs;28.92
+BF56;Sahel;2025;2024-2025;F;tbs;26.28
+BF56;Sahel;2025;2024-2025;T;tbs;27.62
+BF57;Sud-Ouest;2016;2015-2016;G;tbs;77.0
+BF57;Sud-Ouest;2016;2015-2016;F;tbs;81.9
+BF57;Sud-Ouest;2016;2015-2016;T;tbs;79.3
+BF57;Sud-Ouest;2017;2016-2017;G;tbs;77.4
+BF57;Sud-Ouest;2017;2016-2017;F;tbs;82.3
+BF57;Sud-Ouest;2017;2016-2017;T;tbs;79.7
+BF57;Sud-Ouest;2018;2017-2018;G;tbs;80.26
+BF57;Sud-Ouest;2018;2017-2018;F;tbs;84.8
+BF57;Sud-Ouest;2018;2017-2018;T;tbs;82.4
+BF57;Sud-Ouest;2019;2018-2019;G;tbs;80.1
+BF57;Sud-Ouest;2019;2018-2019;F;tbs;84.8
+BF57;Sud-Ouest;2019;2018-2019;T;tbs;82.3
+BF57;Sud-Ouest;2020;2019-2020;G;tbs;82.9
+BF57;Sud-Ouest;2020;2019-2020;F;tbs;87.4
+BF57;Sud-Ouest;2020;2019-2020;T;tbs;85.0
+BF57;Sud-Ouest;2021;2020-2021;G;tbs;82.9
+BF57;Sud-Ouest;2021;2020-2021;F;tbs;88.4
+BF57;Sud-Ouest;2021;2020-2021;T;tbs;85.5
+BF57;Sud-Ouest;2022;2021-2022;G;tbs;86.4
+BF57;Sud-Ouest;2022;2021-2022;F;tbs;85.5
+BF57;Sud-Ouest;2022;2021-2022;T;tbs;85.9
+BF57;Sud-Ouest;2023;2022-2023;G;tbs;80.49
+BF57;Sud-Ouest;2023;2022-2023;F;tbs;80.37
+BF57;Sud-Ouest;2023;2022-2023;T;tbs;80.43
+BF57;Sud-Ouest;2024;2023-2024;G;tbs;81.33
+BF57;Sud-Ouest;2024;2023-2024;F;tbs;82.33
+BF57;Sud-Ouest;2024;2023-2024;T;tbs;81.81
+BF57;Sud-Ouest;2025;2024-2025;G;tbs;83.43
+BF57;Sud-Ouest;2025;2024-2025;F;tbs;80.85
+BF57;Sud-Ouest;2025;2024-2025;T;tbs;82.15
+BF;Burkina Faso;2016;2015-2016;G;tbs;85.9
+BF;Burkina Faso;2016;2015-2016;F;tbs;86.4
+BF;Burkina Faso;2016;2015-2016;T;tbs;86.1
+BF;Burkina Faso;2017;2016-2017;G;tbs;88.1
+BF;Burkina Faso;2017;2016-2017;F;tbs;89.0
+BF;Burkina Faso;2017;2016-2017;T;tbs;88.5
+BF;Burkina Faso;2018;2017-2018;G;tbs;90.58
+BF;Burkina Faso;2018;2017-2018;F;tbs;90.9
+BF;Burkina Faso;2018;2017-2018;T;tbs;90.73
+BF;Burkina Faso;2019;2018-2019;G;tbs;88.4
+BF;Burkina Faso;2019;2018-2019;F;tbs;89.2
+BF;Burkina Faso;2019;2018-2019;T;tbs;88.8
+BF;Burkina Faso;2020;2019-2020;G;tbs;85.8
+BF;Burkina Faso;2020;2019-2020;F;tbs;87.5
+BF;Burkina Faso;2020;2019-2020;T;tbs;86.6
+BF;Burkina Faso;2021;2020-2021;G;tbs;84.9
+BF;Burkina Faso;2021;2020-2021;F;tbs;87.3
+BF;Burkina Faso;2021;2020-2021;T;tbs;86.1
+BF;Burkina Faso;2022;2021-2022;G;tbs;85.2
+BF;Burkina Faso;2022;2021-2022;F;tbs;86.4
+BF;Burkina Faso;2022;2021-2022;T;tbs;85.8
+BF;Burkina Faso;2023;2022-2023;G;tbs;73.0
+BF;Burkina Faso;2023;2022-2023;F;tbs;75.76
+BF;Burkina Faso;2023;2022-2023;T;tbs;74.35
+BF;Burkina Faso;2024;2023-2024;G;tbs;76.56
+BF;Burkina Faso;2024;2023-2024;F;tbs;80.02
+BF;Burkina Faso;2024;2023-2024;T;tbs;78.25
+BF;Burkina Faso;2025;2024-2025;G;tbs;78.84
+BF;Burkina Faso;2025;2024-2025;F;tbs;78.54
+BF;Burkina Faso;2025;2024-2025;T;tbs;78.69
+BF46;Boucle du Mouhoun;2016;2015-2016;G;tap;51.9
+BF46;Boucle du Mouhoun;2016;2015-2016;F;tap;58.7
+BF46;Boucle du Mouhoun;2016;2015-2016;T;tap;55.1
+BF46;Boucle du Mouhoun;2017;2016-2017;G;tap;54.85
+BF46;Boucle du Mouhoun;2017;2016-2017;F;tap;64.5
+BF46;Boucle du Mouhoun;2017;2016-2017;T;tap;59.37
+BF46;Boucle du Mouhoun;2018;2017-2018;G;tap;55.86
+BF46;Boucle du Mouhoun;2018;2017-2018;F;tap;66.07
+BF46;Boucle du Mouhoun;2018;2017-2018;T;tap;60.62
+BF46;Boucle du Mouhoun;2019;2018-2019;G;tap;56.52
+BF46;Boucle du Mouhoun;2019;2018-2019;F;tap;66.68
+BF46;Boucle du Mouhoun;2019;2018-2019;T;tap;61.31
+BF46;Boucle du Mouhoun;2020;2019-2020;G;tap;50.08
+BF46;Boucle du Mouhoun;2020;2019-2020;F;tap;60.18
+BF46;Boucle du Mouhoun;2020;2019-2020;T;tap;54.89
+BF46;Boucle du Mouhoun;2021;2020-2021;G;tap;53.95
+BF46;Boucle du Mouhoun;2021;2020-2021;F;tap;63.73
+BF46;Boucle du Mouhoun;2021;2020-2021;T;tap;58.6
+BF46;Boucle du Mouhoun;2022;2021-2022;G;tap;50.55
+BF46;Boucle du Mouhoun;2022;2021-2022;F;tap;56.31
+BF46;Boucle du Mouhoun;2022;2021-2022;T;tap;53.4
+BF46;Boucle du Mouhoun;2023;2022-2023;G;tap;28.7
+BF46;Boucle du Mouhoun;2023;2022-2023;F;tap;35.19
+BF46;Boucle du Mouhoun;2023;2022-2023;T;tap;31.89
+BF46;Boucle du Mouhoun;2024;2023-2024;G;tap;31.29
+BF46;Boucle du Mouhoun;2024;2023-2024;F;tap;38.19
+BF46;Boucle du Mouhoun;2024;2023-2024;T;tap;34.66
+BF46;Boucle du Mouhoun;2025;2024-2025;G;tap;35.03
+BF46;Boucle du Mouhoun;2025;2024-2025;F;tap;39.41
+BF46;Boucle du Mouhoun;2025;2024-2025;T;tap;37.19
+BF47;Cascades;2016;2015-2016;G;tap;55.9
+BF47;Cascades;2016;2015-2016;F;tap;58.2
+BF47;Cascades;2016;2015-2016;T;tap;57.0
+BF47;Cascades;2017;2016-2017;G;tap;50.8
+BF47;Cascades;2017;2016-2017;F;tap;53.57
+BF47;Cascades;2017;2016-2017;T;tap;52.14
+BF47;Cascades;2018;2017-2018;G;tap;56.59
+BF47;Cascades;2018;2017-2018;F;tap;60.97
+BF47;Cascades;2018;2017-2018;T;tap;58.7
+BF47;Cascades;2019;2018-2019;G;tap;56.74
+BF47;Cascades;2019;2018-2019;F;tap;59.72
+BF47;Cascades;2019;2018-2019;T;tap;58.19
+BF47;Cascades;2020;2019-2020;G;tap;53.04
+BF47;Cascades;2020;2019-2020;F;tap;60.44
+BF47;Cascades;2020;2019-2020;T;tap;56.68
+BF47;Cascades;2021;2020-2021;G;tap;59.95
+BF47;Cascades;2021;2020-2021;F;tap;64.18
+BF47;Cascades;2021;2020-2021;T;tap;62.03
+BF47;Cascades;2022;2021-2022;G;tap;60.82
+BF47;Cascades;2022;2021-2022;F;tap;64.42
+BF47;Cascades;2022;2021-2022;T;tap;62.64
+BF47;Cascades;2023;2022-2023;G;tap;57.23
+BF47;Cascades;2023;2022-2023;F;tap;61.19
+BF47;Cascades;2023;2022-2023;T;tap;59.21
+BF47;Cascades;2024;2023-2024;G;tap;50.97
+BF47;Cascades;2024;2023-2024;F;tap;55.52
+BF47;Cascades;2024;2023-2024;T;tap;53.24
+BF47;Cascades;2025;2024-2025;G;tap;48.54
+BF47;Cascades;2025;2024-2025;F;tap;50.33
+BF47;Cascades;2025;2024-2025;T;tap;49.44
+BF13;Centre;2016;2015-2016;G;tap;68.8
+BF13;Centre;2016;2015-2016;F;tap;81.6
+BF13;Centre;2016;2015-2016;T;tap;75.0
+BF13;Centre;2017;2016-2017;G;tap;71.17
+BF13;Centre;2017;2016-2017;F;tap;85.79
+BF13;Centre;2017;2016-2017;T;tap;78.24
+BF13;Centre;2018;2017-2018;G;tap;70.8
+BF13;Centre;2018;2017-2018;F;tap;86.72
+BF13;Centre;2018;2017-2018;T;tap;78.47
+BF13;Centre;2019;2018-2019;G;tap;73.09
+BF13;Centre;2019;2018-2019;F;tap;89.88
+BF13;Centre;2019;2018-2019;T;tap;81.27
+BF13;Centre;2020;2019-2020;G;tap;74.07
+BF13;Centre;2020;2019-2020;F;tap;88.48
+BF13;Centre;2020;2019-2020;T;tap;81.17
+BF13;Centre;2021;2020-2021;G;tap;79.5
+BF13;Centre;2021;2020-2021;F;tap;96.05
+BF13;Centre;2021;2020-2021;T;tap;87.66
+BF13;Centre;2022;2021-2022;G;tap;85.49
+BF13;Centre;2022;2021-2022;F;tap;96.95
+BF13;Centre;2022;2021-2022;T;tap;91.38
+BF13;Centre;2023;2022-2023;G;tap;86.84
+BF13;Centre;2023;2022-2023;F;tap;101.22
+BF13;Centre;2023;2022-2023;T;tap;94.18
+BF13;Centre;2024;2023-2024;G;tap;89.27
+BF13;Centre;2024;2023-2024;F;tap;102.59
+BF13;Centre;2024;2023-2024;T;tap;96.03
+BF13;Centre;2025;2024-2025;G;tap;82.95
+BF13;Centre;2025;2024-2025;F;tap;91.87
+BF13;Centre;2025;2024-2025;T;tap;87.52
+BF48;Centre-Est;2016;2015-2016;G;tap;60.2
+BF48;Centre-Est;2016;2015-2016;F;tap;62.8
+BF48;Centre-Est;2016;2015-2016;T;tap;61.4
+BF48;Centre-Est;2017;2016-2017;G;tap;61.8
+BF48;Centre-Est;2017;2016-2017;F;tap;66.99
+BF48;Centre-Est;2017;2016-2017;T;tap;64.31
+BF48;Centre-Est;2018;2017-2018;G;tap;63.57
+BF48;Centre-Est;2018;2017-2018;F;tap;67.8
+BF48;Centre-Est;2018;2017-2018;T;tap;65.6
+BF48;Centre-Est;2019;2018-2019;G;tap;65.17
+BF48;Centre-Est;2019;2018-2019;F;tap;67.96
+BF48;Centre-Est;2019;2018-2019;T;tap;66.53
+BF48;Centre-Est;2020;2019-2020;G;tap;58.89
+BF48;Centre-Est;2020;2019-2020;F;tap;65.22
+BF48;Centre-Est;2020;2019-2020;T;tap;62.0
+BF48;Centre-Est;2021;2020-2021;G;tap;58.86
+BF48;Centre-Est;2021;2020-2021;F;tap;65.78
+BF48;Centre-Est;2021;2020-2021;T;tap;62.26
+BF48;Centre-Est;2022;2021-2022;G;tap;54.58
+BF48;Centre-Est;2022;2021-2022;F;tap;62.55
+BF48;Centre-Est;2022;2021-2022;T;tap;58.47
+BF48;Centre-Est;2023;2022-2023;G;tap;47.72
+BF48;Centre-Est;2023;2022-2023;F;tap;58.24
+BF48;Centre-Est;2023;2022-2023;T;tap;52.81
+BF48;Centre-Est;2024;2023-2024;G;tap;46.5
+BF48;Centre-Est;2024;2023-2024;F;tap;56.91
+BF48;Centre-Est;2024;2023-2024;T;tap;51.51
+BF48;Centre-Est;2025;2024-2025;G;tap;44.88
+BF48;Centre-Est;2025;2024-2025;F;tap;52.68
+BF48;Centre-Est;2025;2024-2025;T;tap;48.67
+BF49;Centre-Nord;2016;2015-2016;G;tap;45.2
+BF49;Centre-Nord;2016;2015-2016;F;tap;46.7
+BF49;Centre-Nord;2016;2015-2016;T;tap;45.9
+BF49;Centre-Nord;2017;2016-2017;G;tap;47.02
+BF49;Centre-Nord;2017;2016-2017;F;tap;54.0
+BF49;Centre-Nord;2017;2016-2017;T;tap;50.44
+BF49;Centre-Nord;2018;2017-2018;G;tap;48.38
+BF49;Centre-Nord;2018;2017-2018;F;tap;52.58
+BF49;Centre-Nord;2018;2017-2018;T;tap;50.43
+BF49;Centre-Nord;2019;2018-2019;G;tap;49.6
+BF49;Centre-Nord;2019;2018-2019;F;tap;57.17
+BF49;Centre-Nord;2019;2018-2019;T;tap;53.33
+BF49;Centre-Nord;2020;2019-2020;G;tap;40.46
+BF49;Centre-Nord;2020;2019-2020;F;tap;49.5
+BF49;Centre-Nord;2020;2019-2020;T;tap;44.95
+BF49;Centre-Nord;2021;2020-2021;G;tap;44.37
+BF49;Centre-Nord;2021;2020-2021;F;tap;55.82
+BF49;Centre-Nord;2021;2020-2021;T;tap;50.06
+BF49;Centre-Nord;2022;2021-2022;G;tap;41.08
+BF49;Centre-Nord;2022;2021-2022;F;tap;51.53
+BF49;Centre-Nord;2022;2021-2022;T;tap;46.44
+BF49;Centre-Nord;2023;2022-2023;G;tap;29.07
+BF49;Centre-Nord;2023;2022-2023;F;tap;38.85
+BF49;Centre-Nord;2023;2022-2023;T;tap;34.05
+BF49;Centre-Nord;2024;2023-2024;G;tap;25.77
+BF49;Centre-Nord;2024;2023-2024;F;tap;34.83
+BF49;Centre-Nord;2024;2023-2024;T;tap;30.35
+BF49;Centre-Nord;2025;2024-2025;G;tap;23.96
+BF49;Centre-Nord;2025;2024-2025;F;tap;31.22
+BF49;Centre-Nord;2025;2024-2025;T;tap;27.66
+BF50;Centre-Ouest;2016;2015-2016;G;tap;68.6
+BF50;Centre-Ouest;2016;2015-2016;F;tap;77.3
+BF50;Centre-Ouest;2016;2015-2016;T;tap;72.8
+BF50;Centre-Ouest;2017;2016-2017;G;tap;65.38
+BF50;Centre-Ouest;2017;2016-2017;F;tap;75.14
+BF50;Centre-Ouest;2017;2016-2017;T;tap;70.09
+BF50;Centre-Ouest;2018;2017-2018;G;tap;73.03
+BF50;Centre-Ouest;2018;2017-2018;F;tap;86.6
+BF50;Centre-Ouest;2018;2017-2018;T;tap;79.55
+BF50;Centre-Ouest;2019;2018-2019;G;tap;67.81
+BF50;Centre-Ouest;2019;2018-2019;F;tap;79.72
+BF50;Centre-Ouest;2019;2018-2019;T;tap;73.59
+BF50;Centre-Ouest;2020;2019-2020;G;tap;73.33
+BF50;Centre-Ouest;2020;2019-2020;F;tap;88.46
+BF50;Centre-Ouest;2020;2019-2020;T;tap;80.74
+BF50;Centre-Ouest;2021;2020-2021;G;tap;74.04
+BF50;Centre-Ouest;2021;2020-2021;F;tap;88.83
+BF50;Centre-Ouest;2021;2020-2021;T;tap;81.28
+BF50;Centre-Ouest;2022;2021-2022;G;tap;80.83
+BF50;Centre-Ouest;2022;2021-2022;F;tap;95.68
+BF50;Centre-Ouest;2022;2021-2022;T;tap;88.4
+BF50;Centre-Ouest;2023;2022-2023;G;tap;72.92
+BF50;Centre-Ouest;2023;2022-2023;F;tap;90.12
+BF50;Centre-Ouest;2023;2022-2023;T;tap;81.63
+BF50;Centre-Ouest;2024;2023-2024;G;tap;76.42
+BF50;Centre-Ouest;2024;2023-2024;F;tap;94.41
+BF50;Centre-Ouest;2024;2023-2024;T;tap;85.46
+BF50;Centre-Ouest;2025;2024-2025;G;tap;69.0
+BF50;Centre-Ouest;2025;2024-2025;F;tap;82.55
+BF50;Centre-Ouest;2025;2024-2025;T;tap;75.86
+BF51;Centre-Sud;2016;2015-2016;G;tap;68.7
+BF51;Centre-Sud;2016;2015-2016;F;tap;76.6
+BF51;Centre-Sud;2016;2015-2016;T;tap;72.5
+BF51;Centre-Sud;2017;2016-2017;G;tap;69.35
+BF51;Centre-Sud;2017;2016-2017;F;tap;76.78
+BF51;Centre-Sud;2017;2016-2017;T;tap;72.9
+BF51;Centre-Sud;2018;2017-2018;G;tap;73.44
+BF51;Centre-Sud;2018;2017-2018;F;tap;88.45
+BF51;Centre-Sud;2018;2017-2018;T;tap;80.59
+BF51;Centre-Sud;2019;2018-2019;G;tap;67.13
+BF51;Centre-Sud;2019;2018-2019;F;tap;82.28
+BF51;Centre-Sud;2019;2018-2019;T;tap;74.42
+BF51;Centre-Sud;2020;2019-2020;G;tap;73.21
+BF51;Centre-Sud;2020;2019-2020;F;tap;83.7
+BF51;Centre-Sud;2020;2019-2020;T;tap;78.3
+BF51;Centre-Sud;2021;2020-2021;G;tap;66.55
+BF51;Centre-Sud;2021;2020-2021;F;tap;79.46
+BF51;Centre-Sud;2021;2020-2021;T;tap;72.81
+BF51;Centre-Sud;2022;2021-2022;G;tap;81.45
+BF51;Centre-Sud;2022;2021-2022;F;tap;93.16
+BF51;Centre-Sud;2022;2021-2022;T;tap;87.31
+BF51;Centre-Sud;2023;2022-2023;G;tap;73.95
+BF51;Centre-Sud;2023;2022-2023;F;tap;91.27
+BF51;Centre-Sud;2023;2022-2023;T;tap;82.56
+BF51;Centre-Sud;2024;2023-2024;G;tap;72.43
+BF51;Centre-Sud;2024;2023-2024;F;tap;88.29
+BF51;Centre-Sud;2024;2023-2024;T;tap;80.26
+BF51;Centre-Sud;2025;2024-2025;G;tap;70.74
+BF51;Centre-Sud;2025;2024-2025;F;tap;80.38
+BF51;Centre-Sud;2025;2024-2025;T;tap;75.54
+BF52;Est;2016;2015-2016;G;tap;38.6
+BF52;Est;2016;2015-2016;F;tap;41.9
+BF52;Est;2016;2015-2016;T;tap;40.2
+BF52;Est;2017;2016-2017;G;tap;37.98
+BF52;Est;2017;2016-2017;F;tap;41.15
+BF52;Est;2017;2016-2017;T;tap;39.5
+BF52;Est;2018;2017-2018;G;tap;41.3
+BF52;Est;2018;2017-2018;F;tap;44.78
+BF52;Est;2018;2017-2018;T;tap;42.96
+BF52;Est;2019;2018-2019;G;tap;35.99
+BF52;Est;2019;2018-2019;F;tap;38.86
+BF52;Est;2019;2018-2019;T;tap;37.38
+BF52;Est;2020;2019-2020;G;tap;37.24
+BF52;Est;2020;2019-2020;F;tap;39.12
+BF52;Est;2020;2019-2020;T;tap;38.16
+BF52;Est;2021;2020-2021;G;tap;34.19
+BF52;Est;2021;2020-2021;F;tap;37.72
+BF52;Est;2021;2020-2021;T;tap;35.91
+BF52;Est;2022;2021-2022;G;tap;24.6
+BF52;Est;2022;2021-2022;F;tap;28.89
+BF52;Est;2022;2021-2022;T;tap;26.69
+BF52;Est;2023;2022-2023;G;tap;15.96
+BF52;Est;2023;2022-2023;F;tap;20.03
+BF52;Est;2023;2022-2023;T;tap;17.92
+BF52;Est;2024;2023-2024;G;tap;16.21
+BF52;Est;2024;2023-2024;F;tap;20.32
+BF52;Est;2024;2023-2024;T;tap;18.18
+BF52;Est;2025;2024-2025;G;tap;15.15
+BF52;Est;2025;2024-2025;F;tap;17.9
+BF52;Est;2025;2024-2025;T;tap;16.48
+BF53;Hauts-Bassins;2016;2015-2016;G;tap;58.5
+BF53;Hauts-Bassins;2016;2015-2016;F;tap;66.0
+BF53;Hauts-Bassins;2016;2015-2016;T;tap;62.1
+BF53;Hauts-Bassins;2017;2016-2017;G;tap;63.13
+BF53;Hauts-Bassins;2017;2016-2017;F;tap;73.42
+BF53;Hauts-Bassins;2017;2016-2017;T;tap;68.06
+BF53;Hauts-Bassins;2018;2017-2018;G;tap;64.88
+BF53;Hauts-Bassins;2018;2017-2018;F;tap;76.26
+BF53;Hauts-Bassins;2018;2017-2018;T;tap;70.31
+BF53;Hauts-Bassins;2019;2018-2019;G;tap;66.4
+BF53;Hauts-Bassins;2019;2018-2019;F;tap;76.45
+BF53;Hauts-Bassins;2019;2018-2019;T;tap;71.25
+BF53;Hauts-Bassins;2020;2019-2020;G;tap;65.46
+BF53;Hauts-Bassins;2020;2019-2020;F;tap;74.58
+BF53;Hauts-Bassins;2020;2019-2020;T;tap;69.9
+BF53;Hauts-Bassins;2021;2020-2021;G;tap;71.58
+BF53;Hauts-Bassins;2021;2020-2021;F;tap;81.84
+BF53;Hauts-Bassins;2021;2020-2021;T;tap;76.58
+BF53;Hauts-Bassins;2022;2021-2022;G;tap;73.73
+BF53;Hauts-Bassins;2022;2021-2022;F;tap;83.7
+BF53;Hauts-Bassins;2022;2021-2022;T;tap;78.66
+BF53;Hauts-Bassins;2023;2022-2023;G;tap;64.19
+BF53;Hauts-Bassins;2023;2022-2023;F;tap;76.04
+BF53;Hauts-Bassins;2023;2022-2023;T;tap;70.0
+BF53;Hauts-Bassins;2024;2023-2024;G;tap;64.43
+BF53;Hauts-Bassins;2024;2023-2024;F;tap;77.27
+BF53;Hauts-Bassins;2024;2023-2024;T;tap;70.69
+BF53;Hauts-Bassins;2025;2024-2025;G;tap;63.2
+BF53;Hauts-Bassins;2025;2024-2025;F;tap;74.52
+BF53;Hauts-Bassins;2025;2024-2025;T;tap;68.77
+BF54;Nord;2016;2015-2016;G;tap;62.6
+BF54;Nord;2016;2015-2016;F;tap;71.3
+BF54;Nord;2016;2015-2016;T;tap;66.9
+BF54;Nord;2017;2016-2017;G;tap;63.12
+BF54;Nord;2017;2016-2017;F;tap;72.35
+BF54;Nord;2017;2016-2017;T;tap;67.62
+BF54;Nord;2018;2017-2018;G;tap;66.03
+BF54;Nord;2018;2017-2018;F;tap;76.18
+BF54;Nord;2018;2017-2018;T;tap;70.96
+BF54;Nord;2019;2018-2019;G;tap;62.86
+BF54;Nord;2019;2018-2019;F;tap;74.3
+BF54;Nord;2019;2018-2019;T;tap;68.47
+BF54;Nord;2020;2019-2020;G;tap;59.05
+BF54;Nord;2020;2019-2020;F;tap;68.93
+BF54;Nord;2020;2019-2020;T;tap;63.95
+BF54;Nord;2021;2020-2021;G;tap;58.61
+BF54;Nord;2021;2020-2021;F;tap;73.77
+BF54;Nord;2021;2020-2021;T;tap;66.11
+BF54;Nord;2022;2021-2022;G;tap;53.36
+BF54;Nord;2022;2021-2022;F;tap;65.61
+BF54;Nord;2022;2021-2022;T;tap;59.51
+BF54;Nord;2023;2022-2023;G;tap;41.36
+BF54;Nord;2023;2022-2023;F;tap;53.4
+BF54;Nord;2023;2022-2023;T;tap;47.36
+BF54;Nord;2024;2023-2024;G;tap;40.56
+BF54;Nord;2024;2023-2024;F;tap;54.97
+BF54;Nord;2024;2023-2024;T;tap;47.69
+BF54;Nord;2025;2024-2025;G;tap;41.36
+BF54;Nord;2025;2024-2025;F;tap;51.54
+BF54;Nord;2025;2024-2025;T;tap;46.44
+BF55;Plateau-Central;2016;2015-2016;G;tap;61.9
+BF55;Plateau-Central;2016;2015-2016;F;tap;69.6
+BF55;Plateau-Central;2016;2015-2016;T;tap;65.7
+BF55;Plateau-Central;2017;2016-2017;G;tap;64.3
+BF55;Plateau-Central;2017;2016-2017;F;tap;72.55
+BF55;Plateau-Central;2017;2016-2017;T;tap;68.3
+BF55;Plateau-Central;2018;2017-2018;G;tap;67.85
+BF55;Plateau-Central;2018;2017-2018;F;tap;77.0
+BF55;Plateau-Central;2018;2017-2018;T;tap;72.27
+BF55;Plateau-Central;2019;2018-2019;G;tap;66.81
+BF55;Plateau-Central;2019;2018-2019;F;tap;77.5
+BF55;Plateau-Central;2019;2018-2019;T;tap;72.02
+BF55;Plateau-Central;2020;2019-2020;G;tap;68.82
+BF55;Plateau-Central;2020;2019-2020;F;tap;79.25
+BF55;Plateau-Central;2020;2019-2020;T;tap;73.95
+BF55;Plateau-Central;2021;2020-2021;G;tap;66.97
+BF55;Plateau-Central;2021;2020-2021;F;tap;79.72
+BF55;Plateau-Central;2021;2020-2021;T;tap;73.24
+BF55;Plateau-Central;2022;2021-2022;G;tap;68.81
+BF55;Plateau-Central;2022;2021-2022;F;tap;78.87
+BF55;Plateau-Central;2022;2021-2022;T;tap;73.94
+BF55;Plateau-Central;2023;2022-2023;G;tap;64.33
+BF55;Plateau-Central;2023;2022-2023;F;tap;77.78
+BF55;Plateau-Central;2023;2022-2023;T;tap;71.14
+BF55;Plateau-Central;2024;2023-2024;G;tap;63.11
+BF55;Plateau-Central;2024;2023-2024;F;tap;75.77
+BF55;Plateau-Central;2024;2023-2024;T;tap;69.48
+BF55;Plateau-Central;2025;2024-2025;G;tap;60.97
+BF55;Plateau-Central;2025;2024-2025;F;tap;73.31
+BF55;Plateau-Central;2025;2024-2025;T;tap;67.22
+BF56;Sahel;2016;2015-2016;G;tap;25.6
+BF56;Sahel;2016;2015-2016;F;tap;23.3
+BF56;Sahel;2016;2015-2016;T;tap;24.5
+BF56;Sahel;2017;2016-2017;G;tap;29.45
+BF56;Sahel;2017;2016-2017;F;tap;27.06
+BF56;Sahel;2017;2016-2017;T;tap;28.31
+BF56;Sahel;2018;2017-2018;G;tap;28.65
+BF56;Sahel;2018;2017-2018;F;tap;26.9
+BF56;Sahel;2018;2017-2018;T;tap;27.81
+BF56;Sahel;2019;2018-2019;G;tap;19.55
+BF56;Sahel;2019;2018-2019;F;tap;17.95
+BF56;Sahel;2019;2018-2019;T;tap;18.78
+BF56;Sahel;2020;2019-2020;G;tap;17.5
+BF56;Sahel;2020;2019-2020;F;tap;16.3
+BF56;Sahel;2020;2019-2020;T;tap;16.91
+BF56;Sahel;2021;2020-2021;G;tap;11.2
+BF56;Sahel;2021;2020-2021;F;tap;11.48
+BF56;Sahel;2021;2020-2021;T;tap;11.34
+BF56;Sahel;2022;2021-2022;G;tap;12.32
+BF56;Sahel;2022;2021-2022;F;tap;11.48
+BF56;Sahel;2022;2021-2022;T;tap;11.89
+BF56;Sahel;2023;2022-2023;G;tap;8.45
+BF56;Sahel;2023;2022-2023;F;tap;7.96
+BF56;Sahel;2023;2022-2023;T;tap;8.2
+BF56;Sahel;2024;2023-2024;G;tap;9.87
+BF56;Sahel;2024;2023-2024;F;tap;9.26
+BF56;Sahel;2024;2023-2024;T;tap;9.57
+BF56;Sahel;2025;2024-2025;G;tap;11.5
+BF56;Sahel;2025;2024-2025;F;tap;10.8
+BF56;Sahel;2025;2024-2025;T;tap;11.14
+BF57;Sud-Ouest;2016;2015-2016;G;tap;50.6
+BF57;Sud-Ouest;2016;2015-2016;F;tap;53.6
+BF57;Sud-Ouest;2016;2015-2016;T;tap;52.0
+BF57;Sud-Ouest;2017;2016-2017;G;tap;50.53
+BF57;Sud-Ouest;2017;2016-2017;F;tap;56.55
+BF57;Sud-Ouest;2017;2016-2017;T;tap;53.31
+BF57;Sud-Ouest;2018;2017-2018;G;tap;50.64
+BF57;Sud-Ouest;2018;2017-2018;F;tap;58.18
+BF57;Sud-Ouest;2018;2017-2018;T;tap;54.12
+BF57;Sud-Ouest;2019;2018-2019;G;tap;51.01
+BF57;Sud-Ouest;2019;2018-2019;F;tap;58.2
+BF57;Sud-Ouest;2019;2018-2019;T;tap;54.36
+BF57;Sud-Ouest;2020;2019-2020;G;tap;53.81
+BF57;Sud-Ouest;2020;2019-2020;F;tap;62.0
+BF57;Sud-Ouest;2020;2019-2020;T;tap;57.66
+BF57;Sud-Ouest;2021;2020-2021;G;tap;55.77
+BF57;Sud-Ouest;2021;2020-2021;F;tap;66.01
+BF57;Sud-Ouest;2021;2020-2021;T;tap;60.58
+BF57;Sud-Ouest;2022;2021-2022;G;tap;57.92
+BF57;Sud-Ouest;2022;2021-2022;F;tap;61.96
+BF57;Sud-Ouest;2022;2021-2022;T;tap;59.94
+BF57;Sud-Ouest;2023;2022-2023;G;tap;58.6
+BF57;Sud-Ouest;2023;2022-2023;F;tap;59.8
+BF57;Sud-Ouest;2023;2022-2023;T;tap;59.2
+BF57;Sud-Ouest;2024;2023-2024;G;tap;52.08
+BF57;Sud-Ouest;2024;2023-2024;F;tap;55.46
+BF57;Sud-Ouest;2024;2023-2024;T;tap;53.75
+BF57;Sud-Ouest;2025;2024-2025;G;tap;52.55
+BF57;Sud-Ouest;2025;2024-2025;F;tap;54.55
+BF57;Sud-Ouest;2025;2024-2025;T;tap;53.55
+BF;Burkina Faso;2016;2015-2016;G;tap;55.3
+BF;Burkina Faso;2016;2015-2016;F;tap;61.3
+BF;Burkina Faso;2016;2015-2016;T;tap;58.2
+BF;Burkina Faso;2017;2016-2017;G;tap;56.58
+BF;Burkina Faso;2017;2016-2017;F;tap;64.34
+BF;Burkina Faso;2017;2016-2017;T;tap;60.31
+BF;Burkina Faso;2018;2017-2018;G;tap;58.8
+BF;Burkina Faso;2018;2017-2018;F;tap;67.55
+BF;Burkina Faso;2018;2017-2018;T;tap;62.99
+BF;Burkina Faso;2019;2018-2019;G;tap;57.44
+BF;Burkina Faso;2019;2018-2019;F;tap;66.27
+BF;Burkina Faso;2019;2018-2019;T;tap;61.71
+BF;Burkina Faso;2020;2019-2020;G;tap;55.97
+BF;Burkina Faso;2020;2019-2020;F;tap;64.89
+BF;Burkina Faso;2020;2019-2020;T;tap;60.33
+BF;Burkina Faso;2021;2020-2021;G;tap;57.34
+BF;Burkina Faso;2021;2020-2021;F;tap;67.73
+BF;Burkina Faso;2021;2020-2021;T;tap;62.41
+BF;Burkina Faso;2022;2021-2022;G;tap;57.51
+BF;Burkina Faso;2022;2021-2022;F;tap;66.49
+BF;Burkina Faso;2022;2021-2022;T;tap;62.01
+BF;Burkina Faso;2023;2022-2023;G;tap;49.46
+BF;Burkina Faso;2023;2022-2023;F;tap;59.75
+BF;Burkina Faso;2023;2022-2023;T;tap;54.59
+BF;Burkina Faso;2024;2023-2024;G;tap;49.32
+BF;Burkina Faso;2024;2023-2024;F;tap;59.85
+BF;Burkina Faso;2024;2023-2024;T;tap;54.54
+BF;Burkina Faso;2025;2024-2025;G;tap;47.69
+BF;Burkina Faso;2025;2024-2025;F;tap;55.52
+BF;Burkina Faso;2025;2024-2025;T;tap;51.6
+BF46;Boucle du Mouhoun;2016;2015-2016;G;taux_reussite_cep;57.5
+BF46;Boucle du Mouhoun;2017;2016-2017;G;taux_reussite_cep;74.85
+BF46;Boucle du Mouhoun;2018;2017-2018;G;taux_reussite_cep;60.77
+BF46;Boucle du Mouhoun;2019;2018-2019;G;taux_reussite_cep;56.87
+BF46;Boucle du Mouhoun;2020;2019-2020;G;taux_reussite_cep;63.61
+BF46;Boucle du Mouhoun;2021;2020-2021;G;taux_reussite_cep;59.9
+BF46;Boucle du Mouhoun;2022;2021-2022;G;taux_reussite_cep;59.44
+BF46;Boucle du Mouhoun;2023;2022-2023;G;taux_reussite_cep;57.09
+BF46;Boucle du Mouhoun;2024;2023-2024;G;taux_reussite_cep;78.18
+BF46;Boucle du Mouhoun;2025;2024-2025;G;taux_reussite_cep;84.64
+BF46;Boucle du Mouhoun;2016;2015-2016;F;taux_reussite_cep;63.6
+BF46;Boucle du Mouhoun;2017;2016-2017;F;taux_reussite_cep;69.36
+BF46;Boucle du Mouhoun;2018;2017-2018;F;taux_reussite_cep;56.44
+BF46;Boucle du Mouhoun;2019;2018-2019;F;taux_reussite_cep;52.66
+BF46;Boucle du Mouhoun;2020;2019-2020;F;taux_reussite_cep;60.5
+BF46;Boucle du Mouhoun;2021;2020-2021;F;taux_reussite_cep;56.54
+BF46;Boucle du Mouhoun;2022;2021-2022;F;taux_reussite_cep;56.94
+BF46;Boucle du Mouhoun;2023;2022-2023;F;taux_reussite_cep;61.58
+BF46;Boucle du Mouhoun;2024;2023-2024;F;taux_reussite_cep;74.42
+BF46;Boucle du Mouhoun;2025;2024-2025;F;taux_reussite_cep;82.21
+BF46;Boucle du Mouhoun;2016;2015-2016;T;taux_reussite_cep;60.4
+BF46;Boucle du Mouhoun;2017;2016-2017;T;taux_reussite_cep;71.96
+BF46;Boucle du Mouhoun;2018;2017-2018;T;taux_reussite_cep;58.48
+BF46;Boucle du Mouhoun;2019;2018-2019;T;taux_reussite_cep;54.63
+BF46;Boucle du Mouhoun;2020;2019-2020;T;taux_reussite_cep;61.91
+BF46;Boucle du Mouhoun;2021;2020-2021;T;taux_reussite_cep;58.08
+BF46;Boucle du Mouhoun;2022;2021-2022;T;taux_reussite_cep;58.07
+BF46;Boucle du Mouhoun;2023;2022-2023;T;taux_reussite_cep;59.05
+BF46;Boucle du Mouhoun;2024;2023-2024;T;taux_reussite_cep;76.07
+BF46;Boucle du Mouhoun;2025;2024-2025;T;taux_reussite_cep;83.3
+BF47;Cascades;2016;2015-2016;G;taux_reussite_cep;63.9
+BF47;Cascades;2017;2016-2017;G;taux_reussite_cep;75.85
+BF47;Cascades;2018;2017-2018;G;taux_reussite_cep;63.99
+BF47;Cascades;2019;2018-2019;G;taux_reussite_cep;38.86
+BF47;Cascades;2020;2019-2020;G;taux_reussite_cep;61.09
+BF47;Cascades;2021;2020-2021;G;taux_reussite_cep;58.99
+BF47;Cascades;2022;2021-2022;G;taux_reussite_cep;63.28
+BF47;Cascades;2023;2022-2023;G;taux_reussite_cep;72.65
+BF47;Cascades;2024;2023-2024;G;taux_reussite_cep;79.95
+BF47;Cascades;2025;2024-2025;G;taux_reussite_cep;89.73
+BF47;Cascades;2016;2015-2016;F;taux_reussite_cep;70.1
+BF47;Cascades;2017;2016-2017;F;taux_reussite_cep;73.36
+BF47;Cascades;2018;2017-2018;F;taux_reussite_cep;56.84
+BF47;Cascades;2019;2018-2019;F;taux_reussite_cep;32.49
+BF47;Cascades;2020;2019-2020;F;taux_reussite_cep;54.91
+BF47;Cascades;2021;2020-2021;F;taux_reussite_cep;53.63
+BF47;Cascades;2022;2021-2022;F;taux_reussite_cep;59.21
+BF47;Cascades;2023;2022-2023;F;taux_reussite_cep;73.95
+BF47;Cascades;2024;2023-2024;F;taux_reussite_cep;77.98
+BF47;Cascades;2025;2024-2025;F;taux_reussite_cep;88.72
+BF47;Cascades;2016;2015-2016;T;taux_reussite_cep;66.9
+BF47;Cascades;2017;2016-2017;T;taux_reussite_cep;74.58
+BF47;Cascades;2018;2017-2018;T;taux_reussite_cep;60.3
+BF47;Cascades;2019;2018-2019;T;taux_reussite_cep;35.51
+BF47;Cascades;2020;2019-2020;T;taux_reussite_cep;57.72
+BF47;Cascades;2021;2020-2021;T;taux_reussite_cep;56.09
+BF47;Cascades;2022;2021-2022;T;taux_reussite_cep;61.07
+BF47;Cascades;2023;2022-2023;T;taux_reussite_cep;73.24
+BF47;Cascades;2024;2023-2024;T;taux_reussite_cep;78.9
+BF47;Cascades;2025;2024-2025;T;taux_reussite_cep;89.2
+BF13;Centre;2016;2015-2016;G;taux_reussite_cep;72.1
+BF13;Centre;2017;2016-2017;G;taux_reussite_cep;86.32
+BF13;Centre;2018;2017-2018;G;taux_reussite_cep;79.65
+BF13;Centre;2019;2018-2019;G;taux_reussite_cep;67.74
+BF13;Centre;2020;2019-2020;G;taux_reussite_cep;76.21
+BF13;Centre;2021;2020-2021;G;taux_reussite_cep;65.26
+BF13;Centre;2022;2021-2022;G;taux_reussite_cep;66.26
+BF13;Centre;2023;2022-2023;G;taux_reussite_cep;73.06
+BF13;Centre;2024;2023-2024;G;taux_reussite_cep;85.92
+BF13;Centre;2025;2024-2025;G;taux_reussite_cep;92.11
+BF13;Centre;2016;2015-2016;F;taux_reussite_cep;77.2
+BF13;Centre;2017;2016-2017;F;taux_reussite_cep;84.58
+BF13;Centre;2018;2017-2018;F;taux_reussite_cep;75.8
+BF13;Centre;2019;2018-2019;F;taux_reussite_cep;62.22
+BF13;Centre;2020;2019-2020;F;taux_reussite_cep;72.56
+BF13;Centre;2021;2020-2021;F;taux_reussite_cep;61.4
+BF13;Centre;2022;2021-2022;F;taux_reussite_cep;62.84
+BF13;Centre;2023;2022-2023;F;taux_reussite_cep;75.9
+BF13;Centre;2024;2023-2024;F;taux_reussite_cep;83.59
+BF13;Centre;2025;2024-2025;F;taux_reussite_cep;91.1
+BF13;Centre;2016;2015-2016;T;taux_reussite_cep;74.5
+BF13;Centre;2017;2016-2017;T;taux_reussite_cep;85.37
+BF13;Centre;2018;2017-2018;T;taux_reussite_cep;77.56
+BF13;Centre;2019;2018-2019;T;taux_reussite_cep;64.7
+BF13;Centre;2020;2019-2020;T;taux_reussite_cep;74.21
+BF13;Centre;2021;2020-2021;T;taux_reussite_cep;63.15
+BF13;Centre;2022;2021-2022;T;taux_reussite_cep;64.36
+BF13;Centre;2023;2022-2023;T;taux_reussite_cep;74.33
+BF13;Centre;2024;2023-2024;T;taux_reussite_cep;84.65
+BF13;Centre;2025;2024-2025;T;taux_reussite_cep;91.56
+BF48;Centre-Est;2016;2015-2016;G;taux_reussite_cep;58.2
+BF48;Centre-Est;2017;2016-2017;G;taux_reussite_cep;75.29
+BF48;Centre-Est;2018;2017-2018;G;taux_reussite_cep;68.57
+BF48;Centre-Est;2019;2018-2019;G;taux_reussite_cep;58.21
+BF48;Centre-Est;2020;2019-2020;G;taux_reussite_cep;72.65
+BF48;Centre-Est;2021;2020-2021;G;taux_reussite_cep;68.23
+BF48;Centre-Est;2022;2021-2022;G;taux_reussite_cep;67.15
+BF48;Centre-Est;2023;2022-2023;G;taux_reussite_cep;77.06
+BF48;Centre-Est;2024;2023-2024;G;taux_reussite_cep;88.76
+BF48;Centre-Est;2025;2024-2025;G;taux_reussite_cep;92.37
+BF48;Centre-Est;2016;2015-2016;F;taux_reussite_cep;65.0
+BF48;Centre-Est;2017;2016-2017;F;taux_reussite_cep;71.86
+BF48;Centre-Est;2018;2017-2018;F;taux_reussite_cep;63.33
+BF48;Centre-Est;2019;2018-2019;F;taux_reussite_cep;53.22
+BF48;Centre-Est;2020;2019-2020;F;taux_reussite_cep;68.66
+BF48;Centre-Est;2021;2020-2021;F;taux_reussite_cep;65.53
+BF48;Centre-Est;2022;2021-2022;F;taux_reussite_cep;64.5
+BF48;Centre-Est;2023;2022-2023;F;taux_reussite_cep;79.51
+BF48;Centre-Est;2024;2023-2024;F;taux_reussite_cep;88.07
+BF48;Centre-Est;2025;2024-2025;F;taux_reussite_cep;91.89
+BF48;Centre-Est;2016;2015-2016;T;taux_reussite_cep;61.5
+BF48;Centre-Est;2017;2016-2017;T;taux_reussite_cep;73.51
+BF48;Centre-Est;2018;2017-2018;T;taux_reussite_cep;65.87
+BF48;Centre-Est;2019;2018-2019;T;taux_reussite_cep;55.65
+BF48;Centre-Est;2020;2019-2020;T;taux_reussite_cep;70.52
+BF48;Centre-Est;2021;2020-2021;T;taux_reussite_cep;66.78
+BF48;Centre-Est;2022;2021-2022;T;taux_reussite_cep;65.72
+BF48;Centre-Est;2023;2022-2023;T;taux_reussite_cep;78.16
+BF48;Centre-Est;2024;2023-2024;T;taux_reussite_cep;88.38
+BF48;Centre-Est;2025;2024-2025;T;taux_reussite_cep;92.11
+BF49;Centre-Nord;2016;2015-2016;G;taux_reussite_cep;55.8
+BF49;Centre-Nord;2017;2016-2017;G;taux_reussite_cep;71.82
+BF49;Centre-Nord;2018;2017-2018;G;taux_reussite_cep;68.36
+BF49;Centre-Nord;2019;2018-2019;G;taux_reussite_cep;54.89
+BF49;Centre-Nord;2020;2019-2020;G;taux_reussite_cep;64.6
+BF49;Centre-Nord;2021;2020-2021;G;taux_reussite_cep;69.57
+BF49;Centre-Nord;2022;2021-2022;G;taux_reussite_cep;66.65
+BF49;Centre-Nord;2023;2022-2023;G;taux_reussite_cep;76.25
+BF49;Centre-Nord;2024;2023-2024;G;taux_reussite_cep;83.66
+BF49;Centre-Nord;2025;2024-2025;G;taux_reussite_cep;92.91
+BF49;Centre-Nord;2016;2015-2016;F;taux_reussite_cep;64.2
+BF49;Centre-Nord;2017;2016-2017;F;taux_reussite_cep;66.91
+BF49;Centre-Nord;2018;2017-2018;F;taux_reussite_cep;62.72
+BF49;Centre-Nord;2019;2018-2019;F;taux_reussite_cep;47.96
+BF49;Centre-Nord;2020;2019-2020;F;taux_reussite_cep;59.76
+BF49;Centre-Nord;2021;2020-2021;F;taux_reussite_cep;67.21
+BF49;Centre-Nord;2022;2021-2022;F;taux_reussite_cep;62.41
+BF49;Centre-Nord;2023;2022-2023;F;taux_reussite_cep;79.99
+BF49;Centre-Nord;2024;2023-2024;F;taux_reussite_cep;79.7
+BF49;Centre-Nord;2025;2024-2025;F;taux_reussite_cep;91.68
+BF49;Centre-Nord;2016;2015-2016;T;taux_reussite_cep;59.8
+BF49;Centre-Nord;2017;2016-2017;T;taux_reussite_cep;69.15
+BF49;Centre-Nord;2018;2017-2018;T;taux_reussite_cep;65.32
+BF49;Centre-Nord;2019;2018-2019;T;taux_reussite_cep;51.07
+BF49;Centre-Nord;2020;2019-2020;T;taux_reussite_cep;61.81
+BF49;Centre-Nord;2021;2020-2021;T;taux_reussite_cep;68.2
+BF49;Centre-Nord;2022;2021-2022;T;taux_reussite_cep;64.1
+BF49;Centre-Nord;2023;2022-2023;T;taux_reussite_cep;77.72
+BF49;Centre-Nord;2024;2023-2024;T;taux_reussite_cep;81.29
+BF49;Centre-Nord;2025;2024-2025;T;taux_reussite_cep;92.17
+BF50;Centre-Ouest;2016;2015-2016;G;taux_reussite_cep;55.6
+BF50;Centre-Ouest;2017;2016-2017;G;taux_reussite_cep;75.1
+BF50;Centre-Ouest;2018;2017-2018;G;taux_reussite_cep;66.38
+BF50;Centre-Ouest;2019;2018-2019;G;taux_reussite_cep;57.85
+BF50;Centre-Ouest;2020;2019-2020;G;taux_reussite_cep;61.46
+BF50;Centre-Ouest;2021;2020-2021;G;taux_reussite_cep;60.78
+BF50;Centre-Ouest;2022;2021-2022;G;taux_reussite_cep;61.3
+BF50;Centre-Ouest;2023;2022-2023;G;taux_reussite_cep;61.75
+BF50;Centre-Ouest;2024;2023-2024;G;taux_reussite_cep;80.05
+BF50;Centre-Ouest;2025;2024-2025;G;taux_reussite_cep;83.79
+BF50;Centre-Ouest;2016;2015-2016;F;taux_reussite_cep;64.2
+BF50;Centre-Ouest;2017;2016-2017;F;taux_reussite_cep;71.66
+BF50;Centre-Ouest;2018;2017-2018;F;taux_reussite_cep;58.22
+BF50;Centre-Ouest;2019;2018-2019;F;taux_reussite_cep;49.27
+BF50;Centre-Ouest;2020;2019-2020;F;taux_reussite_cep;66.19
+BF50;Centre-Ouest;2021;2020-2021;F;taux_reussite_cep;55.63
+BF50;Centre-Ouest;2022;2021-2022;F;taux_reussite_cep;57.29
+BF50;Centre-Ouest;2023;2022-2023;F;taux_reussite_cep;65.14
+BF50;Centre-Ouest;2024;2023-2024;F;taux_reussite_cep;76.49
+BF50;Centre-Ouest;2025;2024-2025;F;taux_reussite_cep;81.74
+BF50;Centre-Ouest;2016;2015-2016;T;taux_reussite_cep;59.6
+BF50;Centre-Ouest;2017;2016-2017;T;taux_reussite_cep;73.26
+BF50;Centre-Ouest;2018;2017-2018;T;taux_reussite_cep;61.98
+BF50;Centre-Ouest;2019;2018-2019;T;taux_reussite_cep;53.18
+BF50;Centre-Ouest;2020;2019-2020;T;taux_reussite_cep;63.58
+BF50;Centre-Ouest;2021;2020-2021;T;taux_reussite_cep;57.93
+BF50;Centre-Ouest;2022;2021-2022;T;taux_reussite_cep;59.03
+BF50;Centre-Ouest;2023;2022-2023;T;taux_reussite_cep;63.2
+BF50;Centre-Ouest;2024;2023-2024;T;taux_reussite_cep;78.03
+BF50;Centre-Ouest;2025;2024-2025;T;taux_reussite_cep;82.63
+BF51;Centre-Sud;2016;2015-2016;G;taux_reussite_cep;54.1
+BF51;Centre-Sud;2017;2016-2017;G;taux_reussite_cep;70.39
+BF51;Centre-Sud;2018;2017-2018;G;taux_reussite_cep;66.12
+BF51;Centre-Sud;2019;2018-2019;G;taux_reussite_cep;56.85
+BF51;Centre-Sud;2020;2019-2020;G;taux_reussite_cep;65.75
+BF51;Centre-Sud;2021;2020-2021;G;taux_reussite_cep;59.95
+BF51;Centre-Sud;2022;2021-2022;G;taux_reussite_cep;66.88
+BF51;Centre-Sud;2023;2022-2023;G;taux_reussite_cep;76.11
+BF51;Centre-Sud;2024;2023-2024;G;taux_reussite_cep;88.6
+BF51;Centre-Sud;2025;2024-2025;G;taux_reussite_cep;91.0
+BF51;Centre-Sud;2016;2015-2016;F;taux_reussite_cep;61.3
+BF51;Centre-Sud;2017;2016-2017;F;taux_reussite_cep;66.9
+BF51;Centre-Sud;2018;2017-2018;F;taux_reussite_cep;61.23
+BF51;Centre-Sud;2019;2018-2019;F;taux_reussite_cep;52.31
+BF51;Centre-Sud;2020;2019-2020;F;taux_reussite_cep;62.86
+BF51;Centre-Sud;2021;2020-2021;F;taux_reussite_cep;56.99
+BF51;Centre-Sud;2022;2021-2022;F;taux_reussite_cep;66.13
+BF51;Centre-Sud;2023;2022-2023;F;taux_reussite_cep;77.81
+BF51;Centre-Sud;2024;2023-2024;F;taux_reussite_cep;87.97
+BF51;Centre-Sud;2025;2024-2025;F;taux_reussite_cep;91.72
+BF51;Centre-Sud;2016;2015-2016;T;taux_reussite_cep;57.6
+BF51;Centre-Sud;2017;2016-2017;T;taux_reussite_cep;68.57
+BF51;Centre-Sud;2018;2017-2018;T;taux_reussite_cep;63.51
+BF51;Centre-Sud;2019;2018-2019;T;taux_reussite_cep;54.38
+BF51;Centre-Sud;2020;2019-2020;T;taux_reussite_cep;64.19
+BF51;Centre-Sud;2021;2020-2021;T;taux_reussite_cep;58.35
+BF51;Centre-Sud;2022;2021-2022;T;taux_reussite_cep;66.47
+BF51;Centre-Sud;2023;2022-2023;T;taux_reussite_cep;76.86
+BF51;Centre-Sud;2024;2023-2024;T;taux_reussite_cep;88.25
+BF51;Centre-Sud;2025;2024-2025;T;taux_reussite_cep;91.39
+BF52;Est;2016;2015-2016;G;taux_reussite_cep;55.2
+BF52;Est;2017;2016-2017;G;taux_reussite_cep;74.6
+BF52;Est;2018;2017-2018;G;taux_reussite_cep;74.56
+BF52;Est;2019;2018-2019;G;taux_reussite_cep;63.78
+BF52;Est;2020;2019-2020;G;taux_reussite_cep;74.56
+BF52;Est;2021;2020-2021;G;taux_reussite_cep;74.43
+BF52;Est;2022;2021-2022;G;taux_reussite_cep;73.53
+BF52;Est;2023;2022-2023;G;taux_reussite_cep;80.78
+BF52;Est;2024;2023-2024;G;taux_reussite_cep;85.17
+BF52;Est;2025;2024-2025;G;taux_reussite_cep;93.18
+BF52;Est;2016;2015-2016;F;taux_reussite_cep;61.4
+BF52;Est;2017;2016-2017;F;taux_reussite_cep;70.44
+BF52;Est;2018;2017-2018;F;taux_reussite_cep;67.38
+BF52;Est;2019;2018-2019;F;taux_reussite_cep;60.12
+BF52;Est;2020;2019-2020;F;taux_reussite_cep;70.37
+BF52;Est;2021;2020-2021;F;taux_reussite_cep;69.79
+BF52;Est;2022;2021-2022;F;taux_reussite_cep;70.15
+BF52;Est;2023;2022-2023;F;taux_reussite_cep;82.1
+BF52;Est;2024;2023-2024;F;taux_reussite_cep;83.56
+BF52;Est;2025;2024-2025;F;taux_reussite_cep;91.44
+BF52;Est;2016;2015-2016;T;taux_reussite_cep;58.2
+BF52;Est;2017;2016-2017;T;taux_reussite_cep;72.48
+BF52;Est;2018;2017-2018;T;taux_reussite_cep;70.9
+BF52;Est;2019;2018-2019;T;taux_reussite_cep;61.88
+BF52;Est;2020;2019-2020;T;taux_reussite_cep;72.4
+BF52;Est;2021;2020-2021;T;taux_reussite_cep;71.99
+BF52;Est;2022;2021-2022;T;taux_reussite_cep;71.72
+BF52;Est;2023;2022-2023;T;taux_reussite_cep;81.38
+BF52;Est;2024;2023-2024;T;taux_reussite_cep;84.3
+BF52;Est;2025;2024-2025;T;taux_reussite_cep;92.25
+BF53;Hauts-Bassins;2016;2015-2016;G;taux_reussite_cep;55.4
+BF53;Hauts-Bassins;2017;2016-2017;G;taux_reussite_cep;74.18
+BF53;Hauts-Bassins;2018;2017-2018;G;taux_reussite_cep;68.88
+BF53;Hauts-Bassins;2019;2018-2019;G;taux_reussite_cep;60.93
+BF53;Hauts-Bassins;2020;2019-2020;G;taux_reussite_cep;71.09
+BF53;Hauts-Bassins;2021;2020-2021;G;taux_reussite_cep;55.59
+BF53;Hauts-Bassins;2022;2021-2022;G;taux_reussite_cep;66.32
+BF53;Hauts-Bassins;2023;2022-2023;G;taux_reussite_cep;68.58
+BF53;Hauts-Bassins;2024;2023-2024;G;taux_reussite_cep;79.8
+BF53;Hauts-Bassins;2025;2024-2025;G;taux_reussite_cep;90.96
+BF53;Hauts-Bassins;2016;2015-2016;F;taux_reussite_cep;61.3
+BF53;Hauts-Bassins;2017;2016-2017;F;taux_reussite_cep;70.3
+BF53;Hauts-Bassins;2018;2017-2018;F;taux_reussite_cep;63.93
+BF53;Hauts-Bassins;2019;2018-2019;F;taux_reussite_cep;55.52
+BF53;Hauts-Bassins;2020;2019-2020;F;taux_reussite_cep;67.61
+BF53;Hauts-Bassins;2021;2020-2021;F;taux_reussite_cep;51.92
+BF53;Hauts-Bassins;2022;2021-2022;F;taux_reussite_cep;64.83
+BF53;Hauts-Bassins;2023;2022-2023;F;taux_reussite_cep;69.13
+BF53;Hauts-Bassins;2024;2023-2024;F;taux_reussite_cep;77.6
+BF53;Hauts-Bassins;2025;2024-2025;F;taux_reussite_cep;89.66
+BF53;Hauts-Bassins;2016;2015-2016;T;taux_reussite_cep;58.2
+BF53;Hauts-Bassins;2017;2016-2017;T;taux_reussite_cep;72.12
+BF53;Hauts-Bassins;2018;2017-2018;T;taux_reussite_cep;66.25
+BF53;Hauts-Bassins;2019;2018-2019;T;taux_reussite_cep;58.05
+BF53;Hauts-Bassins;2020;2019-2020;T;taux_reussite_cep;69.22
+BF53;Hauts-Bassins;2021;2020-2021;T;taux_reussite_cep;53.62
+BF53;Hauts-Bassins;2022;2021-2022;T;taux_reussite_cep;65.51
+BF53;Hauts-Bassins;2023;2022-2023;T;taux_reussite_cep;68.83
+BF53;Hauts-Bassins;2024;2023-2024;T;taux_reussite_cep;78.61
+BF53;Hauts-Bassins;2025;2024-2025;T;taux_reussite_cep;90.26
+BF54;Nord;2016;2015-2016;G;taux_reussite_cep;53.9
+BF54;Nord;2017;2016-2017;G;taux_reussite_cep;72.26
+BF54;Nord;2018;2017-2018;G;taux_reussite_cep;63.52
+BF54;Nord;2019;2018-2019;G;taux_reussite_cep;48.55
+BF54;Nord;2020;2019-2020;G;taux_reussite_cep;48.86
+BF54;Nord;2021;2020-2021;G;taux_reussite_cep;51.41
+BF54;Nord;2022;2021-2022;G;taux_reussite_cep;60.05
+BF54;Nord;2023;2022-2023;G;taux_reussite_cep;65.18
+BF54;Nord;2024;2023-2024;G;taux_reussite_cep;84.95
+BF54;Nord;2025;2024-2025;G;taux_reussite_cep;89.64
+BF54;Nord;2016;2015-2016;F;taux_reussite_cep;61.3
+BF54;Nord;2017;2016-2017;F;taux_reussite_cep;67.63
+BF54;Nord;2018;2017-2018;F;taux_reussite_cep;55.63
+BF54;Nord;2019;2018-2019;F;taux_reussite_cep;41.28
+BF54;Nord;2020;2019-2020;F;taux_reussite_cep;41.52
+BF54;Nord;2021;2020-2021;F;taux_reussite_cep;45.94
+BF54;Nord;2022;2021-2022;F;taux_reussite_cep;56.31
+BF54;Nord;2023;2022-2023;F;taux_reussite_cep;69.47
+BF54;Nord;2024;2023-2024;F;taux_reussite_cep;82.09
+BF54;Nord;2025;2024-2025;F;taux_reussite_cep;87.94
+BF54;Nord;2016;2015-2016;T;taux_reussite_cep;57.3
+BF54;Nord;2017;2016-2017;T;taux_reussite_cep;69.74
+BF54;Nord;2018;2017-2018;T;taux_reussite_cep;59.24
+BF54;Nord;2019;2018-2019;T;taux_reussite_cep;44.5
+BF54;Nord;2020;2019-2020;T;taux_reussite_cep;44.77
+BF54;Nord;2021;2020-2021;T;taux_reussite_cep;48.25
+BF54;Nord;2022;2021-2022;T;taux_reussite_cep;57.88
+BF54;Nord;2023;2022-2023;T;taux_reussite_cep;66.96
+BF54;Nord;2024;2023-2024;T;taux_reussite_cep;83.26
+BF54;Nord;2025;2024-2025;T;taux_reussite_cep;88.66
+BF55;Plateau-Central;2016;2015-2016;G;taux_reussite_cep;53.6
+BF55;Plateau-Central;2017;2016-2017;G;taux_reussite_cep;73.05
+BF55;Plateau-Central;2018;2017-2018;G;taux_reussite_cep;67.1
+BF55;Plateau-Central;2019;2018-2019;G;taux_reussite_cep;55.05
+BF55;Plateau-Central;2020;2019-2020;G;taux_reussite_cep;71.33
+BF55;Plateau-Central;2021;2020-2021;G;taux_reussite_cep;66.54
+BF55;Plateau-Central;2022;2021-2022;G;taux_reussite_cep;68.6
+BF55;Plateau-Central;2023;2022-2023;G;taux_reussite_cep;76.46
+BF55;Plateau-Central;2024;2023-2024;G;taux_reussite_cep;85.82
+BF55;Plateau-Central;2025;2024-2025;G;taux_reussite_cep;91.41
+BF55;Plateau-Central;2016;2015-2016;F;taux_reussite_cep;58.9
+BF55;Plateau-Central;2017;2016-2017;F;taux_reussite_cep;68.81
+BF55;Plateau-Central;2018;2017-2018;F;taux_reussite_cep;63.46
+BF55;Plateau-Central;2019;2018-2019;F;taux_reussite_cep;50.41
+BF55;Plateau-Central;2020;2019-2020;F;taux_reussite_cep;68.07
+BF55;Plateau-Central;2021;2020-2021;F;taux_reussite_cep;64.02
+BF55;Plateau-Central;2022;2021-2022;F;taux_reussite_cep;66.0
+BF55;Plateau-Central;2023;2022-2023;F;taux_reussite_cep;77.51
+BF55;Plateau-Central;2024;2023-2024;F;taux_reussite_cep;82.52
+BF55;Plateau-Central;2025;2024-2025;F;taux_reussite_cep;89.35
+BF55;Plateau-Central;2016;2015-2016;T;taux_reussite_cep;56.0
+BF55;Plateau-Central;2017;2016-2017;T;taux_reussite_cep;70.76
+BF55;Plateau-Central;2018;2017-2018;T;taux_reussite_cep;65.14
+BF55;Plateau-Central;2019;2018-2019;T;taux_reussite_cep;52.53
+BF55;Plateau-Central;2020;2019-2020;T;taux_reussite_cep;69.52
+BF55;Plateau-Central;2021;2020-2021;T;taux_reussite_cep;65.13
+BF55;Plateau-Central;2022;2021-2022;T;taux_reussite_cep;67.11
+BF55;Plateau-Central;2023;2022-2023;T;taux_reussite_cep;76.91
+BF55;Plateau-Central;2024;2023-2024;T;taux_reussite_cep;83.95
+BF55;Plateau-Central;2025;2024-2025;T;taux_reussite_cep;90.22
+BF56;Sahel;2016;2015-2016;G;taux_reussite_cep;66.6
+BF56;Sahel;2017;2016-2017;G;taux_reussite_cep;66.81
+BF56;Sahel;2018;2017-2018;G;taux_reussite_cep;63.81
+BF56;Sahel;2019;2018-2019;G;taux_reussite_cep;57.9
+BF56;Sahel;2020;2019-2020;G;taux_reussite_cep;52.61
+BF56;Sahel;2021;2020-2021;G;taux_reussite_cep;60.36
+BF56;Sahel;2022;2021-2022;G;taux_reussite_cep;54.99
+BF56;Sahel;2023;2022-2023;G;taux_reussite_cep;67.98
+BF56;Sahel;2024;2023-2024;G;taux_reussite_cep;81.03
+BF56;Sahel;2025;2024-2025;G;taux_reussite_cep;88.08
+BF56;Sahel;2016;2015-2016;F;taux_reussite_cep;74.2
+BF56;Sahel;2017;2016-2017;F;taux_reussite_cep;62.41
+BF56;Sahel;2018;2017-2018;F;taux_reussite_cep;59.56
+BF56;Sahel;2019;2018-2019;F;taux_reussite_cep;52.81
+BF56;Sahel;2020;2019-2020;F;taux_reussite_cep;47.44
+BF56;Sahel;2021;2020-2021;F;taux_reussite_cep;54.16
+BF56;Sahel;2022;2021-2022;F;taux_reussite_cep;50.96
+BF56;Sahel;2023;2022-2023;F;taux_reussite_cep;74.87
+BF56;Sahel;2024;2023-2024;F;taux_reussite_cep;82.37
+BF56;Sahel;2025;2024-2025;F;taux_reussite_cep;84.24
+BF56;Sahel;2016;2015-2016;T;taux_reussite_cep;70.7
+BF56;Sahel;2017;2016-2017;T;taux_reussite_cep;64.74
+BF56;Sahel;2018;2017-2018;T;taux_reussite_cep;61.84
+BF56;Sahel;2019;2018-2019;T;taux_reussite_cep;55.57
+BF56;Sahel;2020;2019-2020;T;taux_reussite_cep;50.09
+BF56;Sahel;2021;2020-2021;T;taux_reussite_cep;57.23
+BF56;Sahel;2022;2021-2022;T;taux_reussite_cep;52.93
+BF56;Sahel;2023;2022-2023;T;taux_reussite_cep;71.45
+BF56;Sahel;2024;2023-2024;T;taux_reussite_cep;81.66
+BF56;Sahel;2025;2024-2025;T;taux_reussite_cep;86.24
+BF57;Sud-Ouest;2016;2015-2016;G;taux_reussite_cep;59.8
+BF57;Sud-Ouest;2017;2016-2017;G;taux_reussite_cep;76.51
+BF57;Sud-Ouest;2018;2017-2018;G;taux_reussite_cep;71.44
+BF57;Sud-Ouest;2019;2018-2019;G;taux_reussite_cep;59.97
+BF57;Sud-Ouest;2020;2019-2020;G;taux_reussite_cep;73.33
+BF57;Sud-Ouest;2021;2020-2021;G;taux_reussite_cep;65.25
+BF57;Sud-Ouest;2022;2021-2022;G;taux_reussite_cep;69.79
+BF57;Sud-Ouest;2023;2022-2023;G;taux_reussite_cep;69.07
+BF57;Sud-Ouest;2024;2023-2024;G;taux_reussite_cep;82.54
+BF57;Sud-Ouest;2025;2024-2025;G;taux_reussite_cep;90.12
+BF57;Sud-Ouest;2016;2015-2016;F;taux_reussite_cep;70.9
+BF57;Sud-Ouest;2017;2016-2017;F;taux_reussite_cep;70.21
+BF57;Sud-Ouest;2018;2017-2018;F;taux_reussite_cep;61.08
+BF57;Sud-Ouest;2019;2018-2019;F;taux_reussite_cep;58.12
+BF57;Sud-Ouest;2020;2019-2020;F;taux_reussite_cep;67.22
+BF57;Sud-Ouest;2021;2020-2021;F;taux_reussite_cep;57.69
+BF57;Sud-Ouest;2022;2021-2022;F;taux_reussite_cep;62.46
+BF57;Sud-Ouest;2023;2022-2023;F;taux_reussite_cep;74.56
+BF57;Sud-Ouest;2024;2023-2024;F;taux_reussite_cep;78.04
+BF57;Sud-Ouest;2025;2024-2025;F;taux_reussite_cep;86.97
+BF57;Sud-Ouest;2016;2015-2016;T;taux_reussite_cep;65.3
+BF57;Sud-Ouest;2017;2016-2017;T;taux_reussite_cep;73.34
+BF57;Sud-Ouest;2018;2017-2018;T;taux_reussite_cep;66.15
+BF57;Sud-Ouest;2019;2018-2019;T;taux_reussite_cep;59.03
+BF57;Sud-Ouest;2020;2019-2020;T;taux_reussite_cep;70.19
+BF57;Sud-Ouest;2021;2020-2021;T;taux_reussite_cep;61.31
+BF57;Sud-Ouest;2022;2021-2022;T;taux_reussite_cep;65.96
+BF57;Sud-Ouest;2023;2022-2023;T;taux_reussite_cep;71.74
+BF57;Sud-Ouest;2024;2023-2024;T;taux_reussite_cep;80.22
+BF57;Sud-Ouest;2025;2024-2025;T;taux_reussite_cep;88.49
+BF;Burkina Faso;2016;2015-2016;G;taux_reussite_cep;58.8
+BF;Burkina Faso;2017;2016-2017;G;taux_reussite_cep;75.69
+BF;Burkina Faso;2018;2017-2018;G;taux_reussite_cep;68.8
+BF;Burkina Faso;2019;2018-2019;G;taux_reussite_cep;58.17
+BF;Burkina Faso;2020;2019-2020;G;taux_reussite_cep;67.19
+BF;Burkina Faso;2021;2020-2021;G;taux_reussite_cep;62.27
+BF;Burkina Faso;2022;2021-2022;G;taux_reussite_cep;65.05
+BF;Burkina Faso;2023;2022-2023;G;taux_reussite_cep;70.28
+BF;Burkina Faso;2024;2023-2024;G;taux_reussite_cep;83.45
+BF;Burkina Faso;2025;2024-2025;G;taux_reussite_cep;90.02
+BF;Burkina Faso;2016;2015-2016;F;taux_reussite_cep;65.7
+BF;Burkina Faso;2017;2016-2017;F;taux_reussite_cep;71.97
+BF;Burkina Faso;2018;2017-2018;F;taux_reussite_cep;63.1
+BF;Burkina Faso;2019;2018-2019;F;taux_reussite_cep;52.56
+BF;Burkina Faso;2020;2019-2020;F;taux_reussite_cep;63.93
+BF;Burkina Faso;2021;2020-2021;F;taux_reussite_cep;58.16
+BF;Burkina Faso;2022;2021-2022;F;taux_reussite_cep;61.82
+BF;Burkina Faso;2023;2022-2023;F;taux_reussite_cep;72.99
+BF;Burkina Faso;2024;2023-2024;F;taux_reussite_cep;80.89
+BF;Burkina Faso;2025;2024-2025;F;taux_reussite_cep;88.55
+BF;Burkina Faso;2016;2015-2016;T;taux_reussite_cep;62.1
+BF;Burkina Faso;2017;2016-2017;T;taux_reussite_cep;73.72
+BF;Burkina Faso;2018;2017-2018;T;taux_reussite_cep;65.78
+BF;Burkina Faso;2019;2018-2019;T;taux_reussite_cep;55.16
+BF;Burkina Faso;2020;2019-2020;T;taux_reussite_cep;65.97
+BF;Burkina Faso;2021;2020-2021;T;taux_reussite_cep;60.02
+BF;Burkina Faso;2022;2021-2022;T;taux_reussite_cep;63.26
+BF;Burkina Faso;2023;2022-2023;T;taux_reussite_cep;71.48
+BF;Burkina Faso;2024;2023-2024;T;taux_reussite_cep;82.03
+BF;Burkina Faso;2025;2024-2025;T;taux_reussite_cep;89.21
+BF46;Boucle du Mouhoun;2016;2015-2016;IPS;ips_tba;0.9707
+BF46;Boucle du Mouhoun;2017;2016-2017;IPS;ips_tba;0.9869
+BF46;Boucle du Mouhoun;2018;2017-2018;IPS;ips_tba;0.9816
+BF46;Boucle du Mouhoun;2019;2018-2019;IPS;ips_tba;0.9626
+BF46;Boucle du Mouhoun;2020;2019-2020;IPS;ips_tba;0.9788
+BF46;Boucle du Mouhoun;2021;2020-2021;IPS;ips_tba;0.9809
+BF46;Boucle du Mouhoun;2022;2021-2022;IPS;ips_tba;0.9865
+BF46;Boucle du Mouhoun;2023;2022-2023;IPS;ips_tba;1.0131
+BF46;Boucle du Mouhoun;2024;2023-2024;IPS;ips_tba;1.0137
+BF46;Boucle du Mouhoun;2025;2024-2025;IPS;ips_tba;0.9605
+BF47;Cascades;2016;2015-2016;IPS;ips_tba;0.9261
+BF47;Cascades;2017;2016-2017;IPS;ips_tba;0.948
+BF47;Cascades;2018;2017-2018;IPS;ips_tba;0.9337
+BF47;Cascades;2019;2018-2019;IPS;ips_tba;0.9161
+BF47;Cascades;2020;2019-2020;IPS;ips_tba;0.9356
+BF47;Cascades;2021;2020-2021;IPS;ips_tba;0.9184
+BF47;Cascades;2022;2021-2022;IPS;ips_tba;0.917
+BF47;Cascades;2023;2022-2023;IPS;ips_tba;0.9487
+BF47;Cascades;2024;2023-2024;IPS;ips_tba;0.973
+BF47;Cascades;2025;2024-2025;IPS;ips_tba;0.8965
+BF13;Centre;2016;2015-2016;IPS;ips_tba;0.9817
+BF13;Centre;2017;2016-2017;IPS;ips_tba;0.9752
+BF13;Centre;2018;2017-2018;IPS;ips_tba;0.9788
+BF13;Centre;2019;2018-2019;IPS;ips_tba;0.9675
+BF13;Centre;2020;2019-2020;IPS;ips_tba;0.9703
+BF13;Centre;2021;2020-2021;IPS;ips_tba;0.9773
+BF13;Centre;2022;2021-2022;IPS;ips_tba;1.0427
+BF13;Centre;2023;2022-2023;IPS;ips_tba;1.0291
+BF13;Centre;2024;2023-2024;IPS;ips_tba;1.0273
+BF13;Centre;2025;2024-2025;IPS;ips_tba;1.002
+BF48;Centre-Est;2016;2015-2016;IPS;ips_tba;0.933
+BF48;Centre-Est;2017;2016-2017;IPS;ips_tba;0.934
+BF48;Centre-Est;2018;2017-2018;IPS;ips_tba;0.9375
+BF48;Centre-Est;2019;2018-2019;IPS;ips_tba;0.9352
+BF48;Centre-Est;2020;2019-2020;IPS;ips_tba;0.9504
+BF48;Centre-Est;2021;2020-2021;IPS;ips_tba;0.9494
+BF48;Centre-Est;2022;2021-2022;IPS;ips_tba;0.9245
+BF48;Centre-Est;2023;2022-2023;IPS;ips_tba;0.9675
+BF48;Centre-Est;2024;2023-2024;IPS;ips_tba;0.9595
+BF48;Centre-Est;2025;2024-2025;IPS;ips_tba;0.8948
+BF49;Centre-Nord;2016;2015-2016;IPS;ips_tba;0.8903
+BF49;Centre-Nord;2017;2016-2017;IPS;ips_tba;0.9092
+BF49;Centre-Nord;2018;2017-2018;IPS;ips_tba;0.8971
+BF49;Centre-Nord;2019;2018-2019;IPS;ips_tba;0.8922
+BF49;Centre-Nord;2020;2019-2020;IPS;ips_tba;0.918
+BF49;Centre-Nord;2021;2020-2021;IPS;ips_tba;0.9265
+BF49;Centre-Nord;2022;2021-2022;IPS;ips_tba;0.9197
+BF49;Centre-Nord;2023;2022-2023;IPS;ips_tba;0.9425
+BF49;Centre-Nord;2024;2023-2024;IPS;ips_tba;0.9404
+BF49;Centre-Nord;2025;2024-2025;IPS;ips_tba;0.9513
+BF50;Centre-Ouest;2016;2015-2016;IPS;ips_tba;1.0
+BF50;Centre-Ouest;2017;2016-2017;IPS;ips_tba;1.0342
+BF50;Centre-Ouest;2018;2017-2018;IPS;ips_tba;1.0328
+BF50;Centre-Ouest;2019;2018-2019;IPS;ips_tba;1.0175
+BF50;Centre-Ouest;2020;2019-2020;IPS;ips_tba;1.0199
+BF50;Centre-Ouest;2021;2020-2021;IPS;ips_tba;1.0376
+BF50;Centre-Ouest;2022;2021-2022;IPS;ips_tba;0.9766
+BF50;Centre-Ouest;2023;2022-2023;IPS;ips_tba;0.9941
+BF50;Centre-Ouest;2024;2023-2024;IPS;ips_tba;1.0282
+BF50;Centre-Ouest;2025;2024-2025;IPS;ips_tba;0.9947
+BF51;Centre-Sud;2016;2015-2016;IPS;ips_tba;0.9588
+BF51;Centre-Sud;2017;2016-2017;IPS;ips_tba;0.9532
+BF51;Centre-Sud;2018;2017-2018;IPS;ips_tba;0.9843
+BF51;Centre-Sud;2019;2018-2019;IPS;ips_tba;0.9471
+BF51;Centre-Sud;2020;2019-2020;IPS;ips_tba;0.9458
+BF51;Centre-Sud;2021;2020-2021;IPS;ips_tba;0.9728
+BF51;Centre-Sud;2022;2021-2022;IPS;ips_tba;0.9296
+BF51;Centre-Sud;2023;2022-2023;IPS;ips_tba;0.958
+BF51;Centre-Sud;2024;2023-2024;IPS;ips_tba;0.9755
+BF51;Centre-Sud;2025;2024-2025;IPS;ips_tba;0.9777
+BF52;Est;2016;2015-2016;IPS;ips_tba;0.9331
+BF52;Est;2017;2016-2017;IPS;ips_tba;0.9412
+BF52;Est;2018;2017-2018;IPS;ips_tba;0.929
+BF52;Est;2019;2018-2019;IPS;ips_tba;0.9544
+BF52;Est;2020;2019-2020;IPS;ips_tba;0.9592
+BF52;Est;2021;2020-2021;IPS;ips_tba;0.9603
+BF52;Est;2022;2021-2022;IPS;ips_tba;0.9638
+BF52;Est;2023;2022-2023;IPS;ips_tba;0.9891
+BF52;Est;2024;2023-2024;IPS;ips_tba;0.9677
+BF52;Est;2025;2024-2025;IPS;ips_tba;0.91
+BF53;Hauts-Bassins;2016;2015-2016;IPS;ips_tba;0.9698
+BF53;Hauts-Bassins;2017;2016-2017;IPS;ips_tba;0.9633
+BF53;Hauts-Bassins;2018;2017-2018;IPS;ips_tba;0.9493
+BF53;Hauts-Bassins;2019;2018-2019;IPS;ips_tba;0.9533
+BF53;Hauts-Bassins;2020;2019-2020;IPS;ips_tba;0.9883
+BF53;Hauts-Bassins;2021;2020-2021;IPS;ips_tba;0.983
+BF53;Hauts-Bassins;2022;2021-2022;IPS;ips_tba;0.987
+BF53;Hauts-Bassins;2023;2022-2023;IPS;ips_tba;1.0015
+BF53;Hauts-Bassins;2024;2023-2024;IPS;ips_tba;0.992
+BF53;Hauts-Bassins;2025;2024-2025;IPS;ips_tba;0.9483
+BF54;Nord;2016;2015-2016;IPS;ips_tba;0.9265
+BF54;Nord;2017;2016-2017;IPS;ips_tba;0.9372
+BF54;Nord;2018;2017-2018;IPS;ips_tba;0.9429
+BF54;Nord;2019;2018-2019;IPS;ips_tba;0.9412
+BF54;Nord;2020;2019-2020;IPS;ips_tba;0.9486
+BF54;Nord;2021;2020-2021;IPS;ips_tba;0.9692
+BF54;Nord;2022;2021-2022;IPS;ips_tba;0.9327
+BF54;Nord;2023;2022-2023;IPS;ips_tba;0.9458
+BF54;Nord;2024;2023-2024;IPS;ips_tba;0.9678
+BF54;Nord;2025;2024-2025;IPS;ips_tba;0.9433
+BF55;Plateau-Central;2016;2015-2016;IPS;ips_tba;0.9213
+BF55;Plateau-Central;2017;2016-2017;IPS;ips_tba;0.9249
+BF55;Plateau-Central;2018;2017-2018;IPS;ips_tba;0.9457
+BF55;Plateau-Central;2019;2018-2019;IPS;ips_tba;0.9134
+BF55;Plateau-Central;2020;2019-2020;IPS;ips_tba;0.9564
+BF55;Plateau-Central;2021;2020-2021;IPS;ips_tba;0.9394
+BF55;Plateau-Central;2022;2021-2022;IPS;ips_tba;0.9248
+BF55;Plateau-Central;2023;2022-2023;IPS;ips_tba;0.9391
+BF55;Plateau-Central;2024;2023-2024;IPS;ips_tba;0.9676
+BF55;Plateau-Central;2025;2024-2025;IPS;ips_tba;0.9184
+BF56;Sahel;2016;2015-2016;IPS;ips_tba;0.9558
+BF56;Sahel;2017;2016-2017;IPS;ips_tba;0.9731
+BF56;Sahel;2018;2017-2018;IPS;ips_tba;0.9693
+BF56;Sahel;2019;2018-2019;IPS;ips_tba;1.0
+BF56;Sahel;2020;2019-2020;IPS;ips_tba;0.9917
+BF56;Sahel;2021;2020-2021;IPS;ips_tba;0.9549
+BF56;Sahel;2022;2021-2022;IPS;ips_tba;1.0129
+BF56;Sahel;2023;2022-2023;IPS;ips_tba;0.9993
+BF56;Sahel;2024;2023-2024;IPS;ips_tba;0.9867
+BF56;Sahel;2025;2024-2025;IPS;ips_tba;0.9278
+BF57;Sud-Ouest;2016;2015-2016;IPS;ips_tba;1.0317
+BF57;Sud-Ouest;2017;2016-2017;IPS;ips_tba;0.9917
+BF57;Sud-Ouest;2018;2017-2018;IPS;ips_tba;0.9932
+BF57;Sud-Ouest;2019;2018-2019;IPS;ips_tba;0.9989
+BF57;Sud-Ouest;2020;2019-2020;IPS;ips_tba;0.9942
+BF57;Sud-Ouest;2021;2020-2021;IPS;ips_tba;1.0283
+BF57;Sud-Ouest;2022;2021-2022;IPS;ips_tba;0.9768
+BF57;Sud-Ouest;2023;2022-2023;IPS;ips_tba;0.9899
+BF57;Sud-Ouest;2024;2023-2024;IPS;ips_tba;0.9926
+BF57;Sud-Ouest;2025;2024-2025;IPS;ips_tba;0.9641
+BF;Burkina Faso;2016;2015-2016;IPS;ips_tba;0.956
+BF;Burkina Faso;2017;2016-2017;IPS;ips_tba;0.9627
+BF;Burkina Faso;2018;2017-2018;IPS;ips_tba;0.9607
+BF;Burkina Faso;2019;2018-2019;IPS;ips_tba;0.9551
+BF;Burkina Faso;2020;2019-2020;IPS;ips_tba;0.9709
+BF;Burkina Faso;2021;2020-2021;IPS;ips_tba;0.9746
+BF;Burkina Faso;2022;2021-2022;IPS;ips_tba;0.969
+BF;Burkina Faso;2023;2022-2023;IPS;ips_tba;0.9844
+BF;Burkina Faso;2024;2023-2024;IPS;ips_tba;0.9902
+BF;Burkina Faso;2025;2024-2025;IPS;ips_tba;0.9536
+BF46;Boucle du Mouhoun;2016;2015-2016;IPS;ips_tbs;1.0369
+BF46;Boucle du Mouhoun;2017;2016-2017;IPS;ips_tbs;1.0409
+BF46;Boucle du Mouhoun;2018;2017-2018;IPS;ips_tbs;1.0351
+BF46;Boucle du Mouhoun;2019;2018-2019;IPS;ips_tbs;1.0303
+BF46;Boucle du Mouhoun;2020;2019-2020;IPS;ips_tbs;1.0416
+BF46;Boucle du Mouhoun;2021;2020-2021;IPS;ips_tbs;1.0443
+BF46;Boucle du Mouhoun;2022;2021-2022;IPS;ips_tbs;1.0296
+BF46;Boucle du Mouhoun;2023;2022-2023;IPS;ips_tbs;1.0781
+BF46;Boucle du Mouhoun;2024;2023-2024;IPS;ips_tbs;1.069
+BF46;Boucle du Mouhoun;2025;2024-2025;IPS;ips_tbs;1.0028
+BF47;Cascades;2016;2015-2016;IPS;ips_tbs;0.9874
+BF47;Cascades;2017;2016-2017;IPS;ips_tbs;0.989
+BF47;Cascades;2018;2017-2018;IPS;ips_tbs;0.9774
+BF47;Cascades;2019;2018-2019;IPS;ips_tbs;0.978
+BF47;Cascades;2020;2019-2020;IPS;ips_tbs;0.9841
+BF47;Cascades;2021;2020-2021;IPS;ips_tbs;0.9909
+BF47;Cascades;2022;2021-2022;IPS;ips_tbs;0.9767
+BF47;Cascades;2023;2022-2023;IPS;ips_tbs;0.985
+BF47;Cascades;2024;2023-2024;IPS;ips_tbs;1.0057
+BF47;Cascades;2025;2024-2025;IPS;ips_tbs;0.9443
+BF13;Centre;2016;2015-2016;IPS;ips_tbs;1.05
+BF13;Centre;2017;2016-2017;IPS;ips_tbs;1.0521
+BF13;Centre;2018;2017-2018;IPS;ips_tbs;1.0458
+BF13;Centre;2019;2018-2019;IPS;ips_tbs;1.0418
+BF13;Centre;2020;2019-2020;IPS;ips_tbs;1.041
+BF13;Centre;2021;2020-2021;IPS;ips_tbs;1.0418
+BF13;Centre;2022;2021-2022;IPS;ips_tbs;1.0495
+BF13;Centre;2023;2022-2023;IPS;ips_tbs;1.0585
+BF13;Centre;2024;2023-2024;IPS;ips_tbs;1.0617
+BF13;Centre;2025;2024-2025;IPS;ips_tbs;1.0131
+BF48;Centre-Est;2016;2015-2016;IPS;ips_tbs;0.9621
+BF48;Centre-Est;2017;2016-2017;IPS;ips_tbs;0.9626
+BF48;Centre-Est;2018;2017-2018;IPS;ips_tbs;0.9538
+BF48;Centre-Est;2019;2018-2019;IPS;ips_tbs;0.962
+BF48;Centre-Est;2020;2019-2020;IPS;ips_tbs;0.9804
+BF48;Centre-Est;2021;2020-2021;IPS;ips_tbs;0.9857
+BF48;Centre-Est;2022;2021-2022;IPS;ips_tbs;0.9873
+BF48;Centre-Est;2023;2022-2023;IPS;ips_tbs;1.0239
+BF48;Centre-Est;2024;2023-2024;IPS;ips_tbs;1.0342
+BF48;Centre-Est;2025;2024-2025;IPS;ips_tbs;0.9772
+BF49;Centre-Nord;2016;2015-2016;IPS;ips_tbs;0.9483
+BF49;Centre-Nord;2017;2016-2017;IPS;ips_tbs;0.954
+BF49;Centre-Nord;2018;2017-2018;IPS;ips_tbs;0.945
+BF49;Centre-Nord;2019;2018-2019;IPS;ips_tbs;0.9571
+BF49;Centre-Nord;2020;2019-2020;IPS;ips_tbs;0.9929
+BF49;Centre-Nord;2021;2020-2021;IPS;ips_tbs;0.9987
+BF49;Centre-Nord;2022;2021-2022;IPS;ips_tbs;0.9737
+BF49;Centre-Nord;2023;2022-2023;IPS;ips_tbs;1.0167
+BF49;Centre-Nord;2024;2023-2024;IPS;ips_tbs;1.0177
+BF49;Centre-Nord;2025;2024-2025;IPS;ips_tbs;0.9846
+BF50;Centre-Ouest;2016;2015-2016;IPS;ips_tbs;1.0446
+BF50;Centre-Ouest;2017;2016-2017;IPS;ips_tbs;1.0613
+BF50;Centre-Ouest;2018;2017-2018;IPS;ips_tbs;1.0667
+BF50;Centre-Ouest;2019;2018-2019;IPS;ips_tbs;1.0723
+BF50;Centre-Ouest;2020;2019-2020;IPS;ips_tbs;1.0805
+BF50;Centre-Ouest;2021;2020-2021;IPS;ips_tbs;1.0865
+BF50;Centre-Ouest;2022;2021-2022;IPS;ips_tbs;1.0422
+BF50;Centre-Ouest;2023;2022-2023;IPS;ips_tbs;1.0571
+BF50;Centre-Ouest;2024;2023-2024;IPS;ips_tbs;1.0724
+BF50;Centre-Ouest;2025;2024-2025;IPS;ips_tbs;1.0276
+BF51;Centre-Sud;2016;2015-2016;IPS;ips_tbs;1.0041
+BF51;Centre-Sud;2017;2016-2017;IPS;ips_tbs;1.0122
+BF51;Centre-Sud;2018;2017-2018;IPS;ips_tbs;1.0148
+BF51;Centre-Sud;2019;2018-2019;IPS;ips_tbs;1.011
+BF51;Centre-Sud;2020;2019-2020;IPS;ips_tbs;1.005
+BF51;Centre-Sud;2021;2020-2021;IPS;ips_tbs;1.0156
+BF51;Centre-Sud;2022;2021-2022;IPS;ips_tbs;0.992
+BF51;Centre-Sud;2023;2022-2023;IPS;ips_tbs;1.0175
+BF51;Centre-Sud;2024;2023-2024;IPS;ips_tbs;1.0213
+BF51;Centre-Sud;2025;2024-2025;IPS;ips_tbs;0.986
+BF52;Est;2016;2015-2016;IPS;ips_tbs;0.9776
+BF52;Est;2017;2016-2017;IPS;ips_tbs;0.9723
+BF52;Est;2018;2017-2018;IPS;ips_tbs;0.9571
+BF52;Est;2019;2018-2019;IPS;ips_tbs;0.9659
+BF52;Est;2020;2019-2020;IPS;ips_tbs;0.9786
+BF52;Est;2021;2020-2021;IPS;ips_tbs;1.0081
+BF52;Est;2022;2021-2022;IPS;ips_tbs;1.018
+BF52;Est;2023;2022-2023;IPS;ips_tbs;1.0379
+BF52;Est;2024;2023-2024;IPS;ips_tbs;1.0328
+BF52;Est;2025;2024-2025;IPS;ips_tbs;0.9702
+BF53;Hauts-Bassins;2016;2015-2016;IPS;ips_tbs;1.0181
+BF53;Hauts-Bassins;2017;2016-2017;IPS;ips_tbs;1.0187
+BF53;Hauts-Bassins;2018;2017-2018;IPS;ips_tbs;1.013
+BF53;Hauts-Bassins;2019;2018-2019;IPS;ips_tbs;1.0098
+BF53;Hauts-Bassins;2020;2019-2020;IPS;ips_tbs;1.0201
+BF53;Hauts-Bassins;2021;2020-2021;IPS;ips_tbs;1.024
+BF53;Hauts-Bassins;2022;2021-2022;IPS;ips_tbs;1.031
+BF53;Hauts-Bassins;2023;2022-2023;IPS;ips_tbs;1.0599
+BF53;Hauts-Bassins;2024;2023-2024;IPS;ips_tbs;1.0648
+BF53;Hauts-Bassins;2025;2024-2025;IPS;ips_tbs;1.0126
+BF54;Nord;2016;2015-2016;IPS;ips_tbs;0.9741
+BF54;Nord;2017;2016-2017;IPS;ips_tbs;0.9808
+BF54;Nord;2018;2017-2018;IPS;ips_tbs;0.977
+BF54;Nord;2019;2018-2019;IPS;ips_tbs;0.99
+BF54;Nord;2020;2019-2020;IPS;ips_tbs;1.0046
+BF54;Nord;2021;2020-2021;IPS;ips_tbs;1.019
+BF54;Nord;2022;2021-2022;IPS;ips_tbs;0.9918
+BF54;Nord;2023;2022-2023;IPS;ips_tbs;1.0092
+BF54;Nord;2024;2023-2024;IPS;ips_tbs;1.0269
+BF54;Nord;2025;2024-2025;IPS;ips_tbs;0.9872
+BF55;Plateau-Central;2016;2015-2016;IPS;ips_tbs;0.9799
+BF55;Plateau-Central;2017;2016-2017;IPS;ips_tbs;0.9765
+BF55;Plateau-Central;2018;2017-2018;IPS;ips_tbs;0.9716
+BF55;Plateau-Central;2019;2018-2019;IPS;ips_tbs;0.9734
+BF55;Plateau-Central;2020;2019-2020;IPS;ips_tbs;0.9879
+BF55;Plateau-Central;2021;2020-2021;IPS;ips_tbs;1.0029
+BF55;Plateau-Central;2022;2021-2022;IPS;ips_tbs;0.9696
+BF55;Plateau-Central;2023;2022-2023;IPS;ips_tbs;0.9916
+BF55;Plateau-Central;2024;2023-2024;IPS;ips_tbs;1.0055
+BF55;Plateau-Central;2025;2024-2025;IPS;ips_tbs;0.9619
+BF56;Sahel;2016;2015-2016;IPS;ips_tbs;0.9471
+BF56;Sahel;2017;2016-2017;IPS;ips_tbs;0.957
+BF56;Sahel;2018;2017-2018;IPS;ips_tbs;0.9575
+BF56;Sahel;2019;2018-2019;IPS;ips_tbs;0.9818
+BF56;Sahel;2020;2019-2020;IPS;ips_tbs;0.9798
+BF56;Sahel;2021;2020-2021;IPS;ips_tbs;0.9853
+BF56;Sahel;2022;2021-2022;IPS;ips_tbs;0.9619
+BF56;Sahel;2023;2022-2023;IPS;ips_tbs;0.9483
+BF56;Sahel;2024;2023-2024;IPS;ips_tbs;0.9579
+BF56;Sahel;2025;2024-2025;IPS;ips_tbs;0.9087
+BF57;Sud-Ouest;2016;2015-2016;IPS;ips_tbs;1.0636
+BF57;Sud-Ouest;2017;2016-2017;IPS;ips_tbs;1.0633
+BF57;Sud-Ouest;2018;2017-2018;IPS;ips_tbs;1.0566
+BF57;Sud-Ouest;2019;2018-2019;IPS;ips_tbs;1.0587
+BF57;Sud-Ouest;2020;2019-2020;IPS;ips_tbs;1.0543
+BF57;Sud-Ouest;2021;2020-2021;IPS;ips_tbs;1.0663
+BF57;Sud-Ouest;2022;2021-2022;IPS;ips_tbs;0.9896
+BF57;Sud-Ouest;2023;2022-2023;IPS;ips_tbs;0.9985
+BF57;Sud-Ouest;2024;2023-2024;IPS;ips_tbs;1.0123
+BF57;Sud-Ouest;2025;2024-2025;IPS;ips_tbs;0.9691
+BF;Burkina Faso;2016;2015-2016;IPS;ips_tbs;1.0058
+BF;Burkina Faso;2017;2016-2017;IPS;ips_tbs;1.0102
+BF;Burkina Faso;2018;2017-2018;IPS;ips_tbs;1.0036
+BF;Burkina Faso;2019;2018-2019;IPS;ips_tbs;1.009
+BF;Burkina Faso;2020;2019-2020;IPS;ips_tbs;1.0198
+BF;Burkina Faso;2021;2020-2021;IPS;ips_tbs;1.0283
+BF;Burkina Faso;2022;2021-2022;IPS;ips_tbs;1.0141
+BF;Burkina Faso;2023;2022-2023;IPS;ips_tbs;1.0378
+BF;Burkina Faso;2024;2023-2024;IPS;ips_tbs;1.0451
+BF;Burkina Faso;2025;2024-2025;IPS;ips_tbs;0.9961
+BF46;Boucle du Mouhoun;2016;2015-2016;IPS;ips_tap;1.131
+BF46;Boucle du Mouhoun;2017;2016-2017;IPS;ips_tap;1.176
+BF46;Boucle du Mouhoun;2018;2017-2018;IPS;ips_tap;1.1829
+BF46;Boucle du Mouhoun;2019;2018-2019;IPS;ips_tap;1.1797
+BF46;Boucle du Mouhoun;2020;2019-2020;IPS;ips_tap;1.2016
+BF46;Boucle du Mouhoun;2021;2020-2021;IPS;ips_tap;1.1813
+BF46;Boucle du Mouhoun;2022;2021-2022;IPS;ips_tap;1.1141
+BF46;Boucle du Mouhoun;2023;2022-2023;IPS;ips_tap;1.2263
+BF46;Boucle du Mouhoun;2024;2023-2024;IPS;ips_tap;1.2204
+BF46;Boucle du Mouhoun;2025;2024-2025;IPS;ips_tap;1.125
+BF47;Cascades;2016;2015-2016;IPS;ips_tap;1.0411
+BF47;Cascades;2017;2016-2017;IPS;ips_tap;1.0545
+BF47;Cascades;2018;2017-2018;IPS;ips_tap;1.0774
+BF47;Cascades;2019;2018-2019;IPS;ips_tap;1.0526
+BF47;Cascades;2020;2019-2020;IPS;ips_tap;1.1395
+BF47;Cascades;2021;2020-2021;IPS;ips_tap;1.0705
+BF47;Cascades;2022;2021-2022;IPS;ips_tap;1.0591
+BF47;Cascades;2023;2022-2023;IPS;ips_tap;1.0692
+BF47;Cascades;2024;2023-2024;IPS;ips_tap;1.0893
+BF47;Cascades;2025;2024-2025;IPS;ips_tap;1.037
+BF13;Centre;2016;2015-2016;IPS;ips_tap;1.186
+BF13;Centre;2017;2016-2017;IPS;ips_tap;1.2055
+BF13;Centre;2018;2017-2018;IPS;ips_tap;1.2248
+BF13;Centre;2019;2018-2019;IPS;ips_tap;1.2297
+BF13;Centre;2020;2019-2020;IPS;ips_tap;1.1945
+BF13;Centre;2021;2020-2021;IPS;ips_tap;1.2082
+BF13;Centre;2022;2021-2022;IPS;ips_tap;1.134
+BF13;Centre;2023;2022-2023;IPS;ips_tap;1.1655
+BF13;Centre;2024;2023-2024;IPS;ips_tap;1.1492
+BF13;Centre;2025;2024-2025;IPS;ips_tap;1.1075
+BF48;Centre-Est;2016;2015-2016;IPS;ips_tap;1.0432
+BF48;Centre-Est;2017;2016-2017;IPS;ips_tap;1.0839
+BF48;Centre-Est;2018;2017-2018;IPS;ips_tap;1.0665
+BF48;Centre-Est;2019;2018-2019;IPS;ips_tap;1.0427
+BF48;Centre-Est;2020;2019-2020;IPS;ips_tap;1.1077
+BF48;Centre-Est;2021;2020-2021;IPS;ips_tap;1.1176
+BF48;Centre-Est;2022;2021-2022;IPS;ips_tap;1.1461
+BF48;Centre-Est;2023;2022-2023;IPS;ips_tap;1.2205
+BF48;Centre-Est;2024;2023-2024;IPS;ips_tap;1.2238
+BF48;Centre-Est;2025;2024-2025;IPS;ips_tap;1.1739
+BF49;Centre-Nord;2016;2015-2016;IPS;ips_tap;1.0332
+BF49;Centre-Nord;2017;2016-2017;IPS;ips_tap;1.1484
+BF49;Centre-Nord;2018;2017-2018;IPS;ips_tap;1.0868
+BF49;Centre-Nord;2019;2018-2019;IPS;ips_tap;1.1526
+BF49;Centre-Nord;2020;2019-2020;IPS;ips_tap;1.2235
+BF49;Centre-Nord;2021;2020-2021;IPS;ips_tap;1.2581
+BF49;Centre-Nord;2022;2021-2022;IPS;ips_tap;1.2544
+BF49;Centre-Nord;2023;2022-2023;IPS;ips_tap;1.3364
+BF49;Centre-Nord;2024;2023-2024;IPS;ips_tap;1.3517
+BF49;Centre-Nord;2025;2024-2025;IPS;ips_tap;1.3031
+BF50;Centre-Ouest;2016;2015-2016;IPS;ips_tap;1.1268
+BF50;Centre-Ouest;2017;2016-2017;IPS;ips_tap;1.1493
+BF50;Centre-Ouest;2018;2017-2018;IPS;ips_tap;1.1858
+BF50;Centre-Ouest;2019;2018-2019;IPS;ips_tap;1.1757
+BF50;Centre-Ouest;2020;2019-2020;IPS;ips_tap;1.2062
+BF50;Centre-Ouest;2021;2020-2021;IPS;ips_tap;1.1998
+BF50;Centre-Ouest;2022;2021-2022;IPS;ips_tap;1.1836
+BF50;Centre-Ouest;2023;2022-2023;IPS;ips_tap;1.236
+BF50;Centre-Ouest;2024;2023-2024;IPS;ips_tap;1.2354
+BF50;Centre-Ouest;2025;2024-2025;IPS;ips_tap;1.1964
+BF51;Centre-Sud;2016;2015-2016;IPS;ips_tap;1.115
+BF51;Centre-Sud;2017;2016-2017;IPS;ips_tap;1.1072
+BF51;Centre-Sud;2018;2017-2018;IPS;ips_tap;1.2044
+BF51;Centre-Sud;2019;2018-2019;IPS;ips_tap;1.2257
+BF51;Centre-Sud;2020;2019-2020;IPS;ips_tap;1.1432
+BF51;Centre-Sud;2021;2020-2021;IPS;ips_tap;1.1939
+BF51;Centre-Sud;2022;2021-2022;IPS;ips_tap;1.1438
+BF51;Centre-Sud;2023;2022-2023;IPS;ips_tap;1.2343
+BF51;Centre-Sud;2024;2023-2024;IPS;ips_tap;1.219
+BF51;Centre-Sud;2025;2024-2025;IPS;ips_tap;1.1362
+BF52;Est;2016;2015-2016;IPS;ips_tap;1.0855
+BF52;Est;2017;2016-2017;IPS;ips_tap;1.0834
+BF52;Est;2018;2017-2018;IPS;ips_tap;1.0844
+BF52;Est;2019;2018-2019;IPS;ips_tap;1.0796
+BF52;Est;2020;2019-2020;IPS;ips_tap;1.0505
+BF52;Est;2021;2020-2021;IPS;ips_tap;1.1032
+BF52;Est;2022;2021-2022;IPS;ips_tap;1.1746
+BF52;Est;2023;2022-2023;IPS;ips_tap;1.2546
+BF52;Est;2024;2023-2024;IPS;ips_tap;1.2541
+BF52;Est;2025;2024-2025;IPS;ips_tap;1.182
+BF53;Hauts-Bassins;2016;2015-2016;IPS;ips_tap;1.1282
+BF53;Hauts-Bassins;2017;2016-2017;IPS;ips_tap;1.163
+BF53;Hauts-Bassins;2018;2017-2018;IPS;ips_tap;1.1754
+BF53;Hauts-Bassins;2019;2018-2019;IPS;ips_tap;1.1513
+BF53;Hauts-Bassins;2020;2019-2020;IPS;ips_tap;1.1393
+BF53;Hauts-Bassins;2021;2020-2021;IPS;ips_tap;1.1433
+BF53;Hauts-Bassins;2022;2021-2022;IPS;ips_tap;1.1351
+BF53;Hauts-Bassins;2023;2022-2023;IPS;ips_tap;1.1846
+BF53;Hauts-Bassins;2024;2023-2024;IPS;ips_tap;1.1993
+BF53;Hauts-Bassins;2025;2024-2025;IPS;ips_tap;1.179
+BF54;Nord;2016;2015-2016;IPS;ips_tap;1.139
+BF54;Nord;2017;2016-2017;IPS;ips_tap;1.1462
+BF54;Nord;2018;2017-2018;IPS;ips_tap;1.1536
+BF54;Nord;2019;2018-2019;IPS;ips_tap;1.182
+BF54;Nord;2020;2019-2020;IPS;ips_tap;1.1673
+BF54;Nord;2021;2020-2021;IPS;ips_tap;1.2588
+BF54;Nord;2022;2021-2022;IPS;ips_tap;1.2296
+BF54;Nord;2023;2022-2023;IPS;ips_tap;1.291
+BF54;Nord;2024;2023-2024;IPS;ips_tap;1.3554
+BF54;Nord;2025;2024-2025;IPS;ips_tap;1.2462
+BF55;Plateau-Central;2016;2015-2016;IPS;ips_tap;1.1244
+BF55;Plateau-Central;2017;2016-2017;IPS;ips_tap;1.1282
+BF55;Plateau-Central;2018;2017-2018;IPS;ips_tap;1.1349
+BF55;Plateau-Central;2019;2018-2019;IPS;ips_tap;1.16
+BF55;Plateau-Central;2020;2019-2020;IPS;ips_tap;1.1515
+BF55;Plateau-Central;2021;2020-2021;IPS;ips_tap;1.1904
+BF55;Plateau-Central;2022;2021-2022;IPS;ips_tap;1.1462
+BF55;Plateau-Central;2023;2022-2023;IPS;ips_tap;1.2091
+BF55;Plateau-Central;2024;2023-2024;IPS;ips_tap;1.2007
+BF55;Plateau-Central;2025;2024-2025;IPS;ips_tap;1.2024
+BF56;Sahel;2016;2015-2016;IPS;ips_tap;0.9102
+BF56;Sahel;2017;2016-2017;IPS;ips_tap;0.9189
+BF56;Sahel;2018;2017-2018;IPS;ips_tap;0.9389
+BF56;Sahel;2019;2018-2019;IPS;ips_tap;0.9181
+BF56;Sahel;2020;2019-2020;IPS;ips_tap;0.9316
+BF56;Sahel;2021;2020-2021;IPS;ips_tap;1.0252
+BF56;Sahel;2022;2021-2022;IPS;ips_tap;0.9317
+BF56;Sahel;2023;2022-2023;IPS;ips_tap;0.9416
+BF56;Sahel;2024;2023-2024;IPS;ips_tap;0.9379
+BF56;Sahel;2025;2024-2025;IPS;ips_tap;0.9388
+BF57;Sud-Ouest;2016;2015-2016;IPS;ips_tap;1.0593
+BF57;Sud-Ouest;2017;2016-2017;IPS;ips_tap;1.1191
+BF57;Sud-Ouest;2018;2017-2018;IPS;ips_tap;1.1489
+BF57;Sud-Ouest;2019;2018-2019;IPS;ips_tap;1.1408
+BF57;Sud-Ouest;2020;2019-2020;IPS;ips_tap;1.1523
+BF57;Sud-Ouest;2021;2020-2021;IPS;ips_tap;1.1835
+BF57;Sud-Ouest;2022;2021-2022;IPS;ips_tap;1.0697
+BF57;Sud-Ouest;2023;2022-2023;IPS;ips_tap;1.0205
+BF57;Sud-Ouest;2024;2023-2024;IPS;ips_tap;1.0648
+BF57;Sud-Ouest;2025;2024-2025;IPS;ips_tap;1.038
+BF;Burkina Faso;2016;2015-2016;IPS;ips_tap;1.1085
+BF;Burkina Faso;2017;2016-2017;IPS;ips_tap;1.1371
+BF;Burkina Faso;2018;2017-2018;IPS;ips_tap;1.1489
+BF;Burkina Faso;2019;2018-2019;IPS;ips_tap;1.1538
+BF;Burkina Faso;2020;2019-2020;IPS;ips_tap;1.1593
+BF;Burkina Faso;2021;2020-2021;IPS;ips_tap;1.181
+BF;Burkina Faso;2022;2021-2022;IPS;ips_tap;1.1561
+BF;Burkina Faso;2023;2022-2023;IPS;ips_tap;1.2081
+BF;Burkina Faso;2024;2023-2024;IPS;ips_tap;1.2135
+BF;Burkina Faso;2025;2024-2025;IPS;ips_tap;1.1642

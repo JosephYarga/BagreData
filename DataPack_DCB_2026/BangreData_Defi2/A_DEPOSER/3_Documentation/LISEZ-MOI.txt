@@ -1,0 +1,69 @@
+BANGRE DATA · DATA CHALLENGE BURKINA 2026 · DEFI 2 (DISPARITES D'ACCES A L'EDUCATION)
+================================================================================
+
+Question traitee
+  En 2024-2025, quels enfants l'ecole primaire burkinabe laisse-t-elle de cote, ou sont-ils,
+  et l'ecart se reduit-il ou se creuse-t-il depuis 2015-2016 ? Trois axes : entre regions,
+  entre filles et garcons, entre ville et campagne.
+
+Ce qu'il faut ouvrir en premier
+  05_interpretation/BangreData_05-interpretation_D2_analyst_tableau-de-bord-ecarts-acces_v1.html
+      La solution : tableau de bord a ouvrir dans un navigateur (fonctionne sans internet).
+  05_interpretation/BangreData_05-interpretation_D2_analyst_fiches-decideur-13-regions_v1.pdf
+      Une fiche d'une page par region, de la plus a la moins prioritaire.
+  documentation/BangreData_documentation_D2_disparites-acces_v1.pdf
+      La documentation (12 pages, plan conseille en 7 parties). Version Word modifiable a cote.
+
+Nommage des depots : EQUIPE_ETAPE_DEFI_ROLE_description_vN
+  roles : engineer (collecte, nettoyage, tables), architect (sources, dictionnaire, cartes),
+          analyst (indicateurs, typologie, figures, tableau de bord), scientist (indice IDA, projection)
+
+01_collecte : donnees brutes
+  ..._engineer_DGESS-prescolaire-primaire-2016-2025-brut       fichier principal DGESS, tel que recu
+  ..._engineer_annuaires-CNS529-CNS530-tableau-I2-...-brut     lignes brutes du tableau I.2 (eleves par province, sexe, milieu)
+  ..._engineer_ESU-etablissements-fermes-par-region-dec2022    fermetures d'ecoles par region (ST-ESU, 31/12/2022)
+  ..._engineer_PDI-CONASUR-par-region-dec2022                  personnes deplacees par region d'accueil (31/12/2022)
+  ..._engineer_COD-AB-limites-administratives-geojson          contours OCHA/COD-AB (P-codes ancien et nouveau decoupage)
+  ..._architect_registre-des-sources                           producteur, publication, annee, emplacement, limites
+
+02_nettoyage : donnees propres (format long) et tracabilite
+  ..._primaire-indicateurs-region-annee-sexe       effectifs, CP1, TBA, TBS, TAP, CEP, IPS ; 13 regions + national ; 2016-2025
+  ..._prescolaire-indicateurs-region-annee-sexe    effectifs, TBS, IPS du prescolaire
+  ..._primaire-ecoles-region-statut                ecoles publiques / privees
+  ..._primaire-effectifs-milieu-national           urbain / rural, national
+  ..._primaire-effectifs-niveau-sexe-national      CP1 a CM2 par sexe
+  ..._primaire-urbain-rural-provinces-2024-2025    45 provinces, 2023-2024 et 2024-2025
+  ..._journal-de-nettoyage                         chaque operation, avec le nombre de lignes concernees
+  ..._controle-des-totaux                          21 controles (sommes, G + F = T, IPS, recoupement annuaires) : tous OK
+
+03_transformation : modele d'analyse
+  ..._engineer_table-indicateurs-region-annee              table region x annee, 58 variables
+  ..._engineer_table-urbain-rural-provinces-2024-2025      table province x annee
+  ..._architect_dictionnaire-des-variables                 definition, unite, regle de calcul
+  ..._architect_fond-de-carte-13-regions / 45-provinces    GeoJSON de l'ancien decoupage (reconstitue)
+  ..._architect_table-de-correspondance-ancien-nouveau     45 provinces anciennes <-> 47 provinces / 17 regions 2025
+
+04_analyse : resultats
+  ..._analyst_tendances-par-region-2016-2025               valeurs cles 2016, 2019, 2023, 2025 et variations
+  ..._analyst_convergence-entre-regions-2016-2025          ecart max-min, coefficient de variation, Theil
+  ..._analyst_poids-des-ecarts-en-nombre-d-enfants         ecart territorial vs ecart filles-garcons, en enfants
+  ..._analyst_lien-fermetures-ESU-et-chute-du-TBS          association crise / recul (Spearman -0,94)
+  ..._scientist_indice-disparites-acces-IDA-2024-2025      indice, rang, intervalle de rang (2 000 ponderations)
+  ..._scientist_IDA-parametres-et-robustesse               dimensions, graine, correlations des variantes
+  ..._analyst_typologie-des-regions-2024-2025              profil et levier prioritaire par region
+  ..._analyst_alertes-provinces-urbain-rural-2024-2025     signaux ville-campagne par province
+  ..._scientist_projection-test-retrospectif-2022-2025     test du modele de tendance contre la prevision naive
+  ..._scientist_projection-2030-scenarios                  scenarios 2030 par region
+  figures/                                                 7 graphiques utilises dans la documentation
+
+05_interpretation : solution et messages
+  tableau de bord HTML, 13 fiches PDF, messages cles (CSV)
+
+code/ : relancer tout le travail
+  Placer BangreData_Defi2 a cote du dossier DataPack_DCB_2026, puis :
+      cd BangreData_Defi2/code
+      pip install -r requirements.txt
+      python lancer_tout.py
+  Environ 15 secondes. Le chemin du Data Pack se regle dans code/config.py.
+
+Sources : DGESS/MENAPLN ; ST-ESU ; CONASUR ; OCHA/COD-AB. Donnees utilisees uniquement pour le concours.

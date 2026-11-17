@@ -1,0 +1,14 @@
+﻿region_code;region;profil;levier_prioritaire;tbs_T;ips_tbs;ips_tap;perte_depuis_pic_pct;part_filles_rural;part_filles_urbain;ida
+BF56;Sahel;A. Acces effondre par la crise;Rouvrir ou relocaliser les ecoles, scolarisation d'urgence des eleves deplaces, suivi mensuel ESU;27.6200;0.9087;0.9388;-52.8484;45.9000;48.2000;79.1667
+BF52;Est;A. Acces effondre par la crise;Rouvrir ou relocaliser les ecoles, scolarisation d'urgence des eleves deplaces, suivi mensuel ESU;29.6400;0.9702;1.1820;-37.5497;48.0000;49.3000;71.1492
+BF49;Centre-Nord;A. Acces effondre par la crise;Rouvrir ou relocaliser les ecoles, scolarisation d'urgence des eleves deplaces, suivi mensuel ESU;58.0400;0.9846;1.3031;-11.9029;50.0000;50.1000;44.7732
+BF46;Boucle du Mouhoun;A. Acces effondre par la crise;Rouvrir ou relocaliser les ecoles, scolarisation d'urgence des eleves deplaces, suivi mensuel ESU;62.7300;1.0028;1.1250;-23.4715;49.0000;49.3000;34.7609
+BF47;Cascades;B. Acces moyen, filles en retard;Cibler l'inscription des filles au CP1 (sensibilisation, cantines, kits), surtout en zone rurale;77.5100;0.9443;1.0370;-1.9587;47.9000;50.3000;48.8711
+BF48;Centre-Est;B. Acces moyen, filles en retard;Cibler l'inscription des filles au CP1 (sensibilisation, cantines, kits), surtout en zone rurale;78.8200;0.9772;1.1739;0.0000;48.0000;49.5000;45.4847
+BF57;Sud-Ouest;B. Acces moyen, filles en retard;Cibler l'inscription des filles au CP1 (sensibilisation, cantines, kits), surtout en zone rurale;82.1500;0.9691;1.0380;0.0000;48.3000;50.2000;31.4443
+BF55;Plateau-Central;D. Acces eleve, garcons decrochent avant la fin;Lutter contre l'abandon des garcons en CM (soutien scolaire, suivi des absences, travail des enfants);100.9400;0.9619;1.2024;0.0000;48.9000;50.3000;39.6642
+BF53;Hauts-Bassins;D. Acces eleve, garcons decrochent avant la fin;Lutter contre l'abandon des garcons en CM (soutien scolaire, suivi des absences, travail des enfants);93.1100;1.0126;1.1790;-1.8922;49.0000;50.5000;33.2554
+BF54;Nord;D. Acces eleve, garcons decrochent avant la fin;Lutter contre l'abandon des garcons en CM (soutien scolaire, suivi des absences, travail des enfants);95.8900;0.9872;1.2462;0.0000;50.3000;49.9000;25.8827
+BF50;Centre-Ouest;D. Acces eleve, garcons decrochent avant la fin;Lutter contre l'abandon des garcons en CM (soutien scolaire, suivi des absences, travail des enfants);100.9300;1.0276;1.1964;0.0000;50.7000;50.7000;13.6077
+BF51;Centre-Sud;E. Acces eleve et parite proche;"Maintenir ; surveiller l'accueil des eleves deplaces";100.8800;0.9860;1.1362;-3.1941;48.8000;49.8000;22.9696
+BF13;Centre;E. Acces eleve et parite proche;"Maintenir ; surveiller l'accueil des eleves deplaces";115.4300;1.0131;1.1075;0.0000;50.2000;50.9000;12.9267

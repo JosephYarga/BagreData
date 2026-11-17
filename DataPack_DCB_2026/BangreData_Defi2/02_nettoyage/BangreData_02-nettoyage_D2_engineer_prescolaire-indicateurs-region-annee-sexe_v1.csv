@@ -1,0 +1,981 @@
+﻿region_code;region;annee_fin;annee_scolaire;sexe;indicateur;valeur
+BF46;Boucle du Mouhoun;2016;2015-2016;G;effectif_prescolaire;1177.0
+BF46;Boucle du Mouhoun;2016;2015-2016;F;effectif_prescolaire;1155.0
+BF46;Boucle du Mouhoun;2016;2015-2016;T;effectif_prescolaire;2332.0
+BF46;Boucle du Mouhoun;2017;2016-2017;G;effectif_prescolaire;1271.0
+BF46;Boucle du Mouhoun;2017;2016-2017;F;effectif_prescolaire;1146.0
+BF46;Boucle du Mouhoun;2017;2016-2017;T;effectif_prescolaire;2417.0
+BF46;Boucle du Mouhoun;2018;2017-2018;G;effectif_prescolaire;1437.0
+BF46;Boucle du Mouhoun;2018;2017-2018;F;effectif_prescolaire;1441.0
+BF46;Boucle du Mouhoun;2018;2017-2018;T;effectif_prescolaire;2878.0
+BF46;Boucle du Mouhoun;2019;2018-2019;G;effectif_prescolaire;1621.0
+BF46;Boucle du Mouhoun;2019;2018-2019;F;effectif_prescolaire;1608.0
+BF46;Boucle du Mouhoun;2019;2018-2019;T;effectif_prescolaire;3229.0
+BF46;Boucle du Mouhoun;2020;2019-2020;G;effectif_prescolaire;1674.0
+BF46;Boucle du Mouhoun;2020;2019-2020;F;effectif_prescolaire;1677.0
+BF46;Boucle du Mouhoun;2020;2019-2020;T;effectif_prescolaire;3351.0
+BF46;Boucle du Mouhoun;2021;2020-2021;G;effectif_prescolaire;2064.0
+BF46;Boucle du Mouhoun;2021;2020-2021;F;effectif_prescolaire;2104.0
+BF46;Boucle du Mouhoun;2021;2020-2021;T;effectif_prescolaire;4168.0
+BF46;Boucle du Mouhoun;2022;2021-2022;G;effectif_prescolaire;1969.0
+BF46;Boucle du Mouhoun;2022;2021-2022;F;effectif_prescolaire;1889.0
+BF46;Boucle du Mouhoun;2022;2021-2022;T;effectif_prescolaire;3858.0
+BF46;Boucle du Mouhoun;2023;2022-2023;G;effectif_prescolaire;1861.0
+BF46;Boucle du Mouhoun;2023;2022-2023;F;effectif_prescolaire;1862.0
+BF46;Boucle du Mouhoun;2023;2022-2023;T;effectif_prescolaire;3723.0
+BF46;Boucle du Mouhoun;2024;2023-2024;G;effectif_prescolaire;2076.0
+BF46;Boucle du Mouhoun;2024;2023-2024;F;effectif_prescolaire;1985.0
+BF46;Boucle du Mouhoun;2024;2023-2024;T;effectif_prescolaire;4061.0
+BF46;Boucle du Mouhoun;2025;2024-2025;G;effectif_prescolaire;5870.0
+BF46;Boucle du Mouhoun;2025;2024-2025;F;effectif_prescolaire;5609.0
+BF46;Boucle du Mouhoun;2025;2024-2025;T;effectif_prescolaire;11479.0
+BF47;Cascades;2016;2015-2016;G;effectif_prescolaire;788.0
+BF47;Cascades;2016;2015-2016;F;effectif_prescolaire;705.0
+BF47;Cascades;2016;2015-2016;T;effectif_prescolaire;1493.0
+BF47;Cascades;2017;2016-2017;G;effectif_prescolaire;822.0
+BF47;Cascades;2017;2016-2017;F;effectif_prescolaire;791.0
+BF47;Cascades;2017;2016-2017;T;effectif_prescolaire;1613.0
+BF47;Cascades;2018;2017-2018;G;effectif_prescolaire;869.0
+BF47;Cascades;2018;2017-2018;F;effectif_prescolaire;863.0
+BF47;Cascades;2018;2017-2018;T;effectif_prescolaire;1732.0
+BF47;Cascades;2019;2018-2019;G;effectif_prescolaire;971.0
+BF47;Cascades;2019;2018-2019;F;effectif_prescolaire;964.0
+BF47;Cascades;2019;2018-2019;T;effectif_prescolaire;1935.0
+BF47;Cascades;2020;2019-2020;G;effectif_prescolaire;1190.0
+BF47;Cascades;2020;2019-2020;F;effectif_prescolaire;1165.0
+BF47;Cascades;2020;2019-2020;T;effectif_prescolaire;2355.0
+BF47;Cascades;2021;2020-2021;G;effectif_prescolaire;1311.0
+BF47;Cascades;2021;2020-2021;F;effectif_prescolaire;1281.0
+BF47;Cascades;2021;2020-2021;T;effectif_prescolaire;2592.0
+BF47;Cascades;2022;2021-2022;G;effectif_prescolaire;1538.0
+BF47;Cascades;2022;2021-2022;F;effectif_prescolaire;1627.0
+BF47;Cascades;2022;2021-2022;T;effectif_prescolaire;3165.0
+BF47;Cascades;2023;2022-2023;G;effectif_prescolaire;1627.0
+BF47;Cascades;2023;2022-2023;F;effectif_prescolaire;1662.0
+BF47;Cascades;2023;2022-2023;T;effectif_prescolaire;3289.0
+BF47;Cascades;2024;2023-2024;G;effectif_prescolaire;1759.0
+BF47;Cascades;2024;2023-2024;F;effectif_prescolaire;1684.0
+BF47;Cascades;2024;2023-2024;T;effectif_prescolaire;3443.0
+BF47;Cascades;2025;2024-2025;G;effectif_prescolaire;1714.0
+BF47;Cascades;2025;2024-2025;F;effectif_prescolaire;1550.0
+BF47;Cascades;2025;2024-2025;T;effectif_prescolaire;3264.0
+BF13;Centre;2016;2015-2016;G;effectif_prescolaire;9655.0
+BF13;Centre;2016;2015-2016;F;effectif_prescolaire;9202.0
+BF13;Centre;2016;2015-2016;T;effectif_prescolaire;18857.0
+BF13;Centre;2017;2016-2017;G;effectif_prescolaire;14648.0
+BF13;Centre;2017;2016-2017;F;effectif_prescolaire;13967.0
+BF13;Centre;2017;2016-2017;T;effectif_prescolaire;28615.0
+BF13;Centre;2018;2017-2018;G;effectif_prescolaire;21467.0
+BF13;Centre;2018;2017-2018;F;effectif_prescolaire;20271.0
+BF13;Centre;2018;2017-2018;T;effectif_prescolaire;41738.0
+BF13;Centre;2019;2018-2019;G;effectif_prescolaire;25561.0
+BF13;Centre;2019;2018-2019;F;effectif_prescolaire;24386.0
+BF13;Centre;2019;2018-2019;T;effectif_prescolaire;49947.0
+BF13;Centre;2020;2019-2020;G;effectif_prescolaire;30373.0
+BF13;Centre;2020;2019-2020;F;effectif_prescolaire;29005.0
+BF13;Centre;2020;2019-2020;T;effectif_prescolaire;59378.0
+BF13;Centre;2021;2020-2021;G;effectif_prescolaire;30706.0
+BF13;Centre;2021;2020-2021;F;effectif_prescolaire;29741.0
+BF13;Centre;2021;2020-2021;T;effectif_prescolaire;60447.0
+BF13;Centre;2022;2021-2022;G;effectif_prescolaire;34485.0
+BF13;Centre;2022;2021-2022;F;effectif_prescolaire;32846.0
+BF13;Centre;2022;2021-2022;T;effectif_prescolaire;67331.0
+BF13;Centre;2023;2022-2023;G;effectif_prescolaire;36939.0
+BF13;Centre;2023;2022-2023;F;effectif_prescolaire;35400.0
+BF13;Centre;2023;2022-2023;T;effectif_prescolaire;72339.0
+BF13;Centre;2024;2023-2024;G;effectif_prescolaire;37295.0
+BF13;Centre;2024;2023-2024;F;effectif_prescolaire;36137.0
+BF13;Centre;2024;2023-2024;T;effectif_prescolaire;73432.0
+BF13;Centre;2025;2024-2025;G;effectif_prescolaire;36561.0
+BF13;Centre;2025;2024-2025;F;effectif_prescolaire;35290.0
+BF13;Centre;2025;2024-2025;T;effectif_prescolaire;71851.0
+BF48;Centre-Est;2016;2015-2016;G;effectif_prescolaire;2148.0
+BF48;Centre-Est;2016;2015-2016;F;effectif_prescolaire;1961.0
+BF48;Centre-Est;2016;2015-2016;T;effectif_prescolaire;4109.0
+BF48;Centre-Est;2017;2016-2017;G;effectif_prescolaire;2495.0
+BF48;Centre-Est;2017;2016-2017;F;effectif_prescolaire;2363.0
+BF48;Centre-Est;2017;2016-2017;T;effectif_prescolaire;4858.0
+BF48;Centre-Est;2018;2017-2018;G;effectif_prescolaire;2881.0
+BF48;Centre-Est;2018;2017-2018;F;effectif_prescolaire;2666.0
+BF48;Centre-Est;2018;2017-2018;T;effectif_prescolaire;5547.0
+BF48;Centre-Est;2019;2018-2019;G;effectif_prescolaire;3386.0
+BF48;Centre-Est;2019;2018-2019;F;effectif_prescolaire;3046.0
+BF48;Centre-Est;2019;2018-2019;T;effectif_prescolaire;6432.0
+BF48;Centre-Est;2020;2019-2020;G;effectif_prescolaire;4664.0
+BF48;Centre-Est;2020;2019-2020;F;effectif_prescolaire;4398.0
+BF48;Centre-Est;2020;2019-2020;T;effectif_prescolaire;9062.0
+BF48;Centre-Est;2021;2020-2021;G;effectif_prescolaire;4900.0
+BF48;Centre-Est;2021;2020-2021;F;effectif_prescolaire;4553.0
+BF48;Centre-Est;2021;2020-2021;T;effectif_prescolaire;9453.0
+BF48;Centre-Est;2022;2021-2022;G;effectif_prescolaire;5396.0
+BF48;Centre-Est;2022;2021-2022;F;effectif_prescolaire;5089.0
+BF48;Centre-Est;2022;2021-2022;T;effectif_prescolaire;10485.0
+BF48;Centre-Est;2023;2022-2023;G;effectif_prescolaire;5025.0
+BF48;Centre-Est;2023;2022-2023;F;effectif_prescolaire;4882.0
+BF48;Centre-Est;2023;2022-2023;T;effectif_prescolaire;9907.0
+BF48;Centre-Est;2024;2023-2024;G;effectif_prescolaire;6024.0
+BF48;Centre-Est;2024;2023-2024;F;effectif_prescolaire;5886.0
+BF48;Centre-Est;2024;2023-2024;T;effectif_prescolaire;11910.0
+BF48;Centre-Est;2025;2024-2025;G;effectif_prescolaire;6899.0
+BF48;Centre-Est;2025;2024-2025;F;effectif_prescolaire;6629.0
+BF48;Centre-Est;2025;2024-2025;T;effectif_prescolaire;13528.0
+BF49;Centre-Nord;2016;2015-2016;G;effectif_prescolaire;2528.0
+BF49;Centre-Nord;2016;2015-2016;F;effectif_prescolaire;2628.0
+BF49;Centre-Nord;2016;2015-2016;T;effectif_prescolaire;5156.0
+BF49;Centre-Nord;2017;2016-2017;G;effectif_prescolaire;2804.0
+BF49;Centre-Nord;2017;2016-2017;F;effectif_prescolaire;2884.0
+BF49;Centre-Nord;2017;2016-2017;T;effectif_prescolaire;5688.0
+BF49;Centre-Nord;2018;2017-2018;G;effectif_prescolaire;3215.0
+BF49;Centre-Nord;2018;2017-2018;F;effectif_prescolaire;3287.0
+BF49;Centre-Nord;2018;2017-2018;T;effectif_prescolaire;6502.0
+BF49;Centre-Nord;2019;2018-2019;G;effectif_prescolaire;4648.0
+BF49;Centre-Nord;2019;2018-2019;F;effectif_prescolaire;4656.0
+BF49;Centre-Nord;2019;2018-2019;T;effectif_prescolaire;9304.0
+BF49;Centre-Nord;2020;2019-2020;G;effectif_prescolaire;3607.0
+BF49;Centre-Nord;2020;2019-2020;F;effectif_prescolaire;3722.0
+BF49;Centre-Nord;2020;2019-2020;T;effectif_prescolaire;7329.0
+BF49;Centre-Nord;2021;2020-2021;G;effectif_prescolaire;4616.0
+BF49;Centre-Nord;2021;2020-2021;F;effectif_prescolaire;4851.0
+BF49;Centre-Nord;2021;2020-2021;T;effectif_prescolaire;9467.0
+BF49;Centre-Nord;2022;2021-2022;G;effectif_prescolaire;4655.0
+BF49;Centre-Nord;2022;2021-2022;F;effectif_prescolaire;4888.0
+BF49;Centre-Nord;2022;2021-2022;T;effectif_prescolaire;9543.0
+BF49;Centre-Nord;2023;2022-2023;G;effectif_prescolaire;3159.0
+BF49;Centre-Nord;2023;2022-2023;F;effectif_prescolaire;3159.0
+BF49;Centre-Nord;2023;2022-2023;T;effectif_prescolaire;6318.0
+BF49;Centre-Nord;2024;2023-2024;G;effectif_prescolaire;3478.0
+BF49;Centre-Nord;2024;2023-2024;F;effectif_prescolaire;3564.0
+BF49;Centre-Nord;2024;2023-2024;T;effectif_prescolaire;7042.0
+BF49;Centre-Nord;2025;2024-2025;G;effectif_prescolaire;6467.0
+BF49;Centre-Nord;2025;2024-2025;F;effectif_prescolaire;6825.0
+BF49;Centre-Nord;2025;2024-2025;T;effectif_prescolaire;13292.0
+BF50;Centre-Ouest;2016;2015-2016;G;effectif_prescolaire;1837.0
+BF50;Centre-Ouest;2016;2015-2016;F;effectif_prescolaire;1790.0
+BF50;Centre-Ouest;2016;2015-2016;T;effectif_prescolaire;3627.0
+BF50;Centre-Ouest;2017;2016-2017;G;effectif_prescolaire;2529.0
+BF50;Centre-Ouest;2017;2016-2017;F;effectif_prescolaire;2396.0
+BF50;Centre-Ouest;2017;2016-2017;T;effectif_prescolaire;4925.0
+BF50;Centre-Ouest;2018;2017-2018;G;effectif_prescolaire;1783.0
+BF50;Centre-Ouest;2018;2017-2018;F;effectif_prescolaire;1801.0
+BF50;Centre-Ouest;2018;2017-2018;T;effectif_prescolaire;3584.0
+BF50;Centre-Ouest;2019;2018-2019;G;effectif_prescolaire;3988.0
+BF50;Centre-Ouest;2019;2018-2019;F;effectif_prescolaire;3814.0
+BF50;Centre-Ouest;2019;2018-2019;T;effectif_prescolaire;7802.0
+BF50;Centre-Ouest;2020;2019-2020;G;effectif_prescolaire;4998.0
+BF50;Centre-Ouest;2020;2019-2020;F;effectif_prescolaire;5017.0
+BF50;Centre-Ouest;2020;2019-2020;T;effectif_prescolaire;10015.0
+BF50;Centre-Ouest;2021;2020-2021;G;effectif_prescolaire;5444.0
+BF50;Centre-Ouest;2021;2020-2021;F;effectif_prescolaire;5549.0
+BF50;Centre-Ouest;2021;2020-2021;T;effectif_prescolaire;10993.0
+BF50;Centre-Ouest;2022;2021-2022;G;effectif_prescolaire;5299.0
+BF50;Centre-Ouest;2022;2021-2022;F;effectif_prescolaire;5135.0
+BF50;Centre-Ouest;2022;2021-2022;T;effectif_prescolaire;10434.0
+BF50;Centre-Ouest;2023;2022-2023;G;effectif_prescolaire;5507.0
+BF50;Centre-Ouest;2023;2022-2023;F;effectif_prescolaire;5503.0
+BF50;Centre-Ouest;2023;2022-2023;T;effectif_prescolaire;11010.0
+BF50;Centre-Ouest;2024;2023-2024;G;effectif_prescolaire;6276.0
+BF50;Centre-Ouest;2024;2023-2024;F;effectif_prescolaire;6115.0
+BF50;Centre-Ouest;2024;2023-2024;T;effectif_prescolaire;12391.0
+BF50;Centre-Ouest;2025;2024-2025;G;effectif_prescolaire;8337.0
+BF50;Centre-Ouest;2025;2024-2025;F;effectif_prescolaire;8214.0
+BF50;Centre-Ouest;2025;2024-2025;T;effectif_prescolaire;16551.0
+BF51;Centre-Sud;2016;2015-2016;G;effectif_prescolaire;1239.0
+BF51;Centre-Sud;2016;2015-2016;F;effectif_prescolaire;1196.0
+BF51;Centre-Sud;2016;2015-2016;T;effectif_prescolaire;2435.0
+BF51;Centre-Sud;2017;2016-2017;G;effectif_prescolaire;457.0
+BF51;Centre-Sud;2017;2016-2017;F;effectif_prescolaire;468.0
+BF51;Centre-Sud;2017;2016-2017;T;effectif_prescolaire;925.0
+BF51;Centre-Sud;2018;2017-2018;G;effectif_prescolaire;732.0
+BF51;Centre-Sud;2018;2017-2018;F;effectif_prescolaire;696.0
+BF51;Centre-Sud;2018;2017-2018;T;effectif_prescolaire;1428.0
+BF51;Centre-Sud;2019;2018-2019;G;effectif_prescolaire;1867.0
+BF51;Centre-Sud;2019;2018-2019;F;effectif_prescolaire;1908.0
+BF51;Centre-Sud;2019;2018-2019;T;effectif_prescolaire;3775.0
+BF51;Centre-Sud;2020;2019-2020;G;effectif_prescolaire;2178.0
+BF51;Centre-Sud;2020;2019-2020;F;effectif_prescolaire;2344.0
+BF51;Centre-Sud;2020;2019-2020;T;effectif_prescolaire;4522.0
+BF51;Centre-Sud;2021;2020-2021;G;effectif_prescolaire;2292.0
+BF51;Centre-Sud;2021;2020-2021;F;effectif_prescolaire;2215.0
+BF51;Centre-Sud;2021;2020-2021;T;effectif_prescolaire;4507.0
+BF51;Centre-Sud;2022;2021-2022;G;effectif_prescolaire;2289.0
+BF51;Centre-Sud;2022;2021-2022;F;effectif_prescolaire;2170.0
+BF51;Centre-Sud;2022;2021-2022;T;effectif_prescolaire;4459.0
+BF51;Centre-Sud;2023;2022-2023;G;effectif_prescolaire;2210.0
+BF51;Centre-Sud;2023;2022-2023;F;effectif_prescolaire;2242.0
+BF51;Centre-Sud;2023;2022-2023;T;effectif_prescolaire;4452.0
+BF51;Centre-Sud;2024;2023-2024;G;effectif_prescolaire;2543.0
+BF51;Centre-Sud;2024;2023-2024;F;effectif_prescolaire;2555.0
+BF51;Centre-Sud;2024;2023-2024;T;effectif_prescolaire;5098.0
+BF51;Centre-Sud;2025;2024-2025;G;effectif_prescolaire;2908.0
+BF51;Centre-Sud;2025;2024-2025;F;effectif_prescolaire;2953.0
+BF51;Centre-Sud;2025;2024-2025;T;effectif_prescolaire;5861.0
+BF52;Est;2016;2015-2016;G;effectif_prescolaire;1574.0
+BF52;Est;2016;2015-2016;F;effectif_prescolaire;1665.0
+BF52;Est;2016;2015-2016;T;effectif_prescolaire;3239.0
+BF52;Est;2017;2016-2017;G;effectif_prescolaire;1212.0
+BF52;Est;2017;2016-2017;F;effectif_prescolaire;1178.0
+BF52;Est;2017;2016-2017;T;effectif_prescolaire;2390.0
+BF52;Est;2018;2017-2018;G;effectif_prescolaire;1088.0
+BF52;Est;2018;2017-2018;F;effectif_prescolaire;992.0
+BF52;Est;2018;2017-2018;T;effectif_prescolaire;2080.0
+BF52;Est;2019;2018-2019;G;effectif_prescolaire;1382.0
+BF52;Est;2019;2018-2019;F;effectif_prescolaire;1303.0
+BF52;Est;2019;2018-2019;T;effectif_prescolaire;2685.0
+BF52;Est;2020;2019-2020;G;effectif_prescolaire;1559.0
+BF52;Est;2020;2019-2020;F;effectif_prescolaire;1655.0
+BF52;Est;2020;2019-2020;T;effectif_prescolaire;3214.0
+BF52;Est;2021;2020-2021;G;effectif_prescolaire;1294.0
+BF52;Est;2021;2020-2021;F;effectif_prescolaire;1232.0
+BF52;Est;2021;2020-2021;T;effectif_prescolaire;2526.0
+BF52;Est;2022;2021-2022;G;effectif_prescolaire;1317.0
+BF52;Est;2022;2021-2022;F;effectif_prescolaire;1267.0
+BF52;Est;2022;2021-2022;T;effectif_prescolaire;2584.0
+BF52;Est;2023;2022-2023;G;effectif_prescolaire;1416.0
+BF52;Est;2023;2022-2023;F;effectif_prescolaire;1257.0
+BF52;Est;2023;2022-2023;T;effectif_prescolaire;2673.0
+BF52;Est;2024;2023-2024;G;effectif_prescolaire;1671.0
+BF52;Est;2024;2023-2024;F;effectif_prescolaire;1558.0
+BF52;Est;2024;2023-2024;T;effectif_prescolaire;3229.0
+BF52;Est;2025;2024-2025;G;effectif_prescolaire;3096.0
+BF52;Est;2025;2024-2025;F;effectif_prescolaire;2816.0
+BF52;Est;2025;2024-2025;T;effectif_prescolaire;5912.0
+BF53;Hauts-Bassins;2016;2015-2016;G;effectif_prescolaire;3745.0
+BF53;Hauts-Bassins;2016;2015-2016;F;effectif_prescolaire;3509.0
+BF53;Hauts-Bassins;2016;2015-2016;T;effectif_prescolaire;7254.0
+BF53;Hauts-Bassins;2017;2016-2017;G;effectif_prescolaire;4300.0
+BF53;Hauts-Bassins;2017;2016-2017;F;effectif_prescolaire;4049.0
+BF53;Hauts-Bassins;2017;2016-2017;T;effectif_prescolaire;8349.0
+BF53;Hauts-Bassins;2018;2017-2018;G;effectif_prescolaire;3920.0
+BF53;Hauts-Bassins;2018;2017-2018;F;effectif_prescolaire;3767.0
+BF53;Hauts-Bassins;2018;2017-2018;T;effectif_prescolaire;7687.0
+BF53;Hauts-Bassins;2019;2018-2019;G;effectif_prescolaire;4536.0
+BF53;Hauts-Bassins;2019;2018-2019;F;effectif_prescolaire;4415.0
+BF53;Hauts-Bassins;2019;2018-2019;T;effectif_prescolaire;8951.0
+BF53;Hauts-Bassins;2020;2019-2020;G;effectif_prescolaire;5852.0
+BF53;Hauts-Bassins;2020;2019-2020;F;effectif_prescolaire;5627.0
+BF53;Hauts-Bassins;2020;2019-2020;T;effectif_prescolaire;11479.0
+BF53;Hauts-Bassins;2021;2020-2021;G;effectif_prescolaire;6953.0
+BF53;Hauts-Bassins;2021;2020-2021;F;effectif_prescolaire;6567.0
+BF53;Hauts-Bassins;2021;2020-2021;T;effectif_prescolaire;13520.0
+BF53;Hauts-Bassins;2022;2021-2022;G;effectif_prescolaire;6680.0
+BF53;Hauts-Bassins;2022;2021-2022;F;effectif_prescolaire;6250.0
+BF53;Hauts-Bassins;2022;2021-2022;T;effectif_prescolaire;12930.0
+BF53;Hauts-Bassins;2023;2022-2023;G;effectif_prescolaire;7410.0
+BF53;Hauts-Bassins;2023;2022-2023;F;effectif_prescolaire;6926.0
+BF53;Hauts-Bassins;2023;2022-2023;T;effectif_prescolaire;14336.0
+BF53;Hauts-Bassins;2024;2023-2024;G;effectif_prescolaire;8821.0
+BF53;Hauts-Bassins;2024;2023-2024;F;effectif_prescolaire;8321.0
+BF53;Hauts-Bassins;2024;2023-2024;T;effectif_prescolaire;17142.0
+BF53;Hauts-Bassins;2025;2024-2025;G;effectif_prescolaire;9632.0
+BF53;Hauts-Bassins;2025;2024-2025;F;effectif_prescolaire;9140.0
+BF53;Hauts-Bassins;2025;2024-2025;T;effectif_prescolaire;18772.0
+BF54;Nord;2016;2015-2016;G;effectif_prescolaire;1237.0
+BF54;Nord;2016;2015-2016;F;effectif_prescolaire;1120.0
+BF54;Nord;2016;2015-2016;T;effectif_prescolaire;2357.0
+BF54;Nord;2017;2016-2017;G;effectif_prescolaire;1367.0
+BF54;Nord;2017;2016-2017;F;effectif_prescolaire;1279.0
+BF54;Nord;2017;2016-2017;T;effectif_prescolaire;2646.0
+BF54;Nord;2018;2017-2018;G;effectif_prescolaire;1597.0
+BF54;Nord;2018;2017-2018;F;effectif_prescolaire;1484.0
+BF54;Nord;2018;2017-2018;T;effectif_prescolaire;3081.0
+BF54;Nord;2019;2018-2019;G;effectif_prescolaire;1899.0
+BF54;Nord;2019;2018-2019;F;effectif_prescolaire;1763.0
+BF54;Nord;2019;2018-2019;T;effectif_prescolaire;3662.0
+BF54;Nord;2020;2019-2020;G;effectif_prescolaire;1951.0
+BF54;Nord;2020;2019-2020;F;effectif_prescolaire;1841.0
+BF54;Nord;2020;2019-2020;T;effectif_prescolaire;3792.0
+BF54;Nord;2021;2020-2021;G;effectif_prescolaire;2131.0
+BF54;Nord;2021;2020-2021;F;effectif_prescolaire;2061.0
+BF54;Nord;2021;2020-2021;T;effectif_prescolaire;4192.0
+BF54;Nord;2022;2021-2022;G;effectif_prescolaire;2265.0
+BF54;Nord;2022;2021-2022;F;effectif_prescolaire;2139.0
+BF54;Nord;2022;2021-2022;T;effectif_prescolaire;4404.0
+BF54;Nord;2023;2022-2023;G;effectif_prescolaire;2260.0
+BF54;Nord;2023;2022-2023;F;effectif_prescolaire;2132.0
+BF54;Nord;2023;2022-2023;T;effectif_prescolaire;4392.0
+BF54;Nord;2024;2023-2024;G;effectif_prescolaire;2221.0
+BF54;Nord;2024;2023-2024;F;effectif_prescolaire;2065.0
+BF54;Nord;2024;2023-2024;T;effectif_prescolaire;4286.0
+BF54;Nord;2025;2024-2025;G;effectif_prescolaire;5830.0
+BF54;Nord;2025;2024-2025;F;effectif_prescolaire;5475.0
+BF54;Nord;2025;2024-2025;T;effectif_prescolaire;11305.0
+BF55;Plateau-Central;2016;2015-2016;G;effectif_prescolaire;914.0
+BF55;Plateau-Central;2016;2015-2016;F;effectif_prescolaire;973.0
+BF55;Plateau-Central;2016;2015-2016;T;effectif_prescolaire;1887.0
+BF55;Plateau-Central;2017;2016-2017;G;effectif_prescolaire;1339.0
+BF55;Plateau-Central;2017;2016-2017;F;effectif_prescolaire;1379.0
+BF55;Plateau-Central;2017;2016-2017;T;effectif_prescolaire;2718.0
+BF55;Plateau-Central;2018;2017-2018;G;effectif_prescolaire;1727.0
+BF55;Plateau-Central;2018;2017-2018;F;effectif_prescolaire;1695.0
+BF55;Plateau-Central;2018;2017-2018;T;effectif_prescolaire;3422.0
+BF55;Plateau-Central;2019;2018-2019;G;effectif_prescolaire;1691.0
+BF55;Plateau-Central;2019;2018-2019;F;effectif_prescolaire;1750.0
+BF55;Plateau-Central;2019;2018-2019;T;effectif_prescolaire;3441.0
+BF55;Plateau-Central;2020;2019-2020;G;effectif_prescolaire;2396.0
+BF55;Plateau-Central;2020;2019-2020;F;effectif_prescolaire;2333.0
+BF55;Plateau-Central;2020;2019-2020;T;effectif_prescolaire;4729.0
+BF55;Plateau-Central;2021;2020-2021;G;effectif_prescolaire;2436.0
+BF55;Plateau-Central;2021;2020-2021;F;effectif_prescolaire;2253.0
+BF55;Plateau-Central;2021;2020-2021;T;effectif_prescolaire;4689.0
+BF55;Plateau-Central;2022;2021-2022;G;effectif_prescolaire;2553.0
+BF55;Plateau-Central;2022;2021-2022;F;effectif_prescolaire;2345.0
+BF55;Plateau-Central;2022;2021-2022;T;effectif_prescolaire;4898.0
+BF55;Plateau-Central;2023;2022-2023;G;effectif_prescolaire;2714.0
+BF55;Plateau-Central;2023;2022-2023;F;effectif_prescolaire;2683.0
+BF55;Plateau-Central;2023;2022-2023;T;effectif_prescolaire;5397.0
+BF55;Plateau-Central;2024;2023-2024;G;effectif_prescolaire;3110.0
+BF55;Plateau-Central;2024;2023-2024;F;effectif_prescolaire;3109.0
+BF55;Plateau-Central;2024;2023-2024;T;effectif_prescolaire;6219.0
+BF55;Plateau-Central;2025;2024-2025;G;effectif_prescolaire;4692.0
+BF55;Plateau-Central;2025;2024-2025;F;effectif_prescolaire;4558.0
+BF55;Plateau-Central;2025;2024-2025;T;effectif_prescolaire;9250.0
+BF56;Sahel;2016;2015-2016;G;effectif_prescolaire;393.0
+BF56;Sahel;2016;2015-2016;F;effectif_prescolaire;353.0
+BF56;Sahel;2016;2015-2016;T;effectif_prescolaire;746.0
+BF56;Sahel;2017;2016-2017;G;effectif_prescolaire;388.0
+BF56;Sahel;2017;2016-2017;F;effectif_prescolaire;343.0
+BF56;Sahel;2017;2016-2017;T;effectif_prescolaire;731.0
+BF56;Sahel;2018;2017-2018;G;effectif_prescolaire;351.0
+BF56;Sahel;2018;2017-2018;F;effectif_prescolaire;313.0
+BF56;Sahel;2018;2017-2018;T;effectif_prescolaire;664.0
+BF56;Sahel;2019;2018-2019;G;effectif_prescolaire;1282.0
+BF56;Sahel;2019;2018-2019;F;effectif_prescolaire;1184.0
+BF56;Sahel;2019;2018-2019;T;effectif_prescolaire;2466.0
+BF56;Sahel;2020;2019-2020;G;effectif_prescolaire;1332.0
+BF56;Sahel;2020;2019-2020;F;effectif_prescolaire;1204.0
+BF56;Sahel;2020;2019-2020;T;effectif_prescolaire;2536.0
+BF56;Sahel;2021;2020-2021;G;effectif_prescolaire;668.0
+BF56;Sahel;2021;2020-2021;F;effectif_prescolaire;624.0
+BF56;Sahel;2021;2020-2021;T;effectif_prescolaire;1292.0
+BF56;Sahel;2022;2021-2022;G;effectif_prescolaire;802.0
+BF56;Sahel;2022;2021-2022;F;effectif_prescolaire;849.0
+BF56;Sahel;2022;2021-2022;T;effectif_prescolaire;1651.0
+BF56;Sahel;2023;2022-2023;G;effectif_prescolaire;508.0
+BF56;Sahel;2023;2022-2023;F;effectif_prescolaire;487.0
+BF56;Sahel;2023;2022-2023;T;effectif_prescolaire;995.0
+BF56;Sahel;2024;2023-2024;G;effectif_prescolaire;904.0
+BF56;Sahel;2024;2023-2024;F;effectif_prescolaire;771.0
+BF56;Sahel;2024;2023-2024;T;effectif_prescolaire;1675.0
+BF56;Sahel;2025;2024-2025;G;effectif_prescolaire;871.0
+BF56;Sahel;2025;2024-2025;F;effectif_prescolaire;896.0
+BF56;Sahel;2025;2024-2025;T;effectif_prescolaire;1767.0
+BF57;Sud-Ouest;2016;2015-2016;G;effectif_prescolaire;771.0
+BF57;Sud-Ouest;2016;2015-2016;F;effectif_prescolaire;740.0
+BF57;Sud-Ouest;2016;2015-2016;T;effectif_prescolaire;1511.0
+BF57;Sud-Ouest;2017;2016-2017;G;effectif_prescolaire;947.0
+BF57;Sud-Ouest;2017;2016-2017;F;effectif_prescolaire;911.0
+BF57;Sud-Ouest;2017;2016-2017;T;effectif_prescolaire;1858.0
+BF57;Sud-Ouest;2018;2017-2018;G;effectif_prescolaire;778.0
+BF57;Sud-Ouest;2018;2017-2018;F;effectif_prescolaire;810.0
+BF57;Sud-Ouest;2018;2017-2018;T;effectif_prescolaire;1588.0
+BF57;Sud-Ouest;2019;2018-2019;G;effectif_prescolaire;924.0
+BF57;Sud-Ouest;2019;2018-2019;F;effectif_prescolaire;932.0
+BF57;Sud-Ouest;2019;2018-2019;T;effectif_prescolaire;1856.0
+BF57;Sud-Ouest;2020;2019-2020;G;effectif_prescolaire;1136.0
+BF57;Sud-Ouest;2020;2019-2020;F;effectif_prescolaire;1108.0
+BF57;Sud-Ouest;2020;2019-2020;T;effectif_prescolaire;2244.0
+BF57;Sud-Ouest;2021;2020-2021;G;effectif_prescolaire;1314.0
+BF57;Sud-Ouest;2021;2020-2021;F;effectif_prescolaire;1251.0
+BF57;Sud-Ouest;2021;2020-2021;T;effectif_prescolaire;2565.0
+BF57;Sud-Ouest;2022;2021-2022;G;effectif_prescolaire;1467.0
+BF57;Sud-Ouest;2022;2021-2022;F;effectif_prescolaire;1459.0
+BF57;Sud-Ouest;2022;2021-2022;T;effectif_prescolaire;2926.0
+BF57;Sud-Ouest;2023;2022-2023;G;effectif_prescolaire;1760.0
+BF57;Sud-Ouest;2023;2022-2023;F;effectif_prescolaire;1713.0
+BF57;Sud-Ouest;2023;2022-2023;T;effectif_prescolaire;3473.0
+BF57;Sud-Ouest;2024;2023-2024;G;effectif_prescolaire;1894.0
+BF57;Sud-Ouest;2024;2023-2024;F;effectif_prescolaire;1848.0
+BF57;Sud-Ouest;2024;2023-2024;T;effectif_prescolaire;3742.0
+BF57;Sud-Ouest;2025;2024-2025;G;effectif_prescolaire;3946.0
+BF57;Sud-Ouest;2025;2024-2025;F;effectif_prescolaire;3712.0
+BF57;Sud-Ouest;2025;2024-2025;T;effectif_prescolaire;7658.0
+BF;Burkina Faso;2016;2015-2016;G;effectif_prescolaire;28006.0
+BF;Burkina Faso;2016;2015-2016;F;effectif_prescolaire;26997.0
+BF;Burkina Faso;2016;2015-2016;T;effectif_prescolaire;55003.0
+BF;Burkina Faso;2017;2016-2017;G;effectif_prescolaire;34579.0
+BF;Burkina Faso;2017;2016-2017;F;effectif_prescolaire;33154.0
+BF;Burkina Faso;2017;2016-2017;T;effectif_prescolaire;67733.0
+BF;Burkina Faso;2018;2017-2018;G;effectif_prescolaire;41845.0
+BF;Burkina Faso;2018;2017-2018;F;effectif_prescolaire;40086.0
+BF;Burkina Faso;2018;2017-2018;T;effectif_prescolaire;81931.0
+BF;Burkina Faso;2019;2018-2019;G;effectif_prescolaire;53756.0
+BF;Burkina Faso;2019;2018-2019;F;effectif_prescolaire;51729.0
+BF;Burkina Faso;2019;2018-2019;T;effectif_prescolaire;105485.0
+BF;Burkina Faso;2020;2019-2020;G;effectif_prescolaire;62910.0
+BF;Burkina Faso;2020;2019-2020;F;effectif_prescolaire;61096.0
+BF;Burkina Faso;2020;2019-2020;T;effectif_prescolaire;124006.0
+BF;Burkina Faso;2021;2020-2021;G;effectif_prescolaire;66129.0
+BF;Burkina Faso;2021;2020-2021;F;effectif_prescolaire;64282.0
+BF;Burkina Faso;2021;2020-2021;T;effectif_prescolaire;130411.0
+BF;Burkina Faso;2022;2021-2022;G;effectif_prescolaire;70715.0
+BF;Burkina Faso;2022;2021-2022;F;effectif_prescolaire;67953.0
+BF;Burkina Faso;2022;2021-2022;T;effectif_prescolaire;138668.0
+BF;Burkina Faso;2023;2022-2023;G;effectif_prescolaire;72396.0
+BF;Burkina Faso;2023;2022-2023;F;effectif_prescolaire;69908.0
+BF;Burkina Faso;2023;2022-2023;T;effectif_prescolaire;142304.0
+BF;Burkina Faso;2024;2023-2024;G;effectif_prescolaire;78072.0
+BF;Burkina Faso;2024;2023-2024;F;effectif_prescolaire;75598.0
+BF;Burkina Faso;2024;2023-2024;T;effectif_prescolaire;153670.0
+BF;Burkina Faso;2025;2024-2025;G;effectif_prescolaire;96823.0
+BF;Burkina Faso;2025;2024-2025;F;effectif_prescolaire;93667.0
+BF;Burkina Faso;2025;2024-2025;T;effectif_prescolaire;190490.0
+BF46;Boucle du Mouhoun;2016;2015-2016;G;tbs_prescolaire;1.1760356507663716
+BF46;Boucle du Mouhoun;2016;2015-2016;F;tbs_prescolaire;1.2131843199865553
+BF46;Boucle du Mouhoun;2016;2015-2016;T;tbs_prescolaire;1.1941460217322286
+BF46;Boucle du Mouhoun;2017;2016-2017;G;tbs_prescolaire;1.2478645904922732
+BF46;Boucle du Mouhoun;2017;2016-2017;F;tbs_prescolaire;1.1830288014865284
+BF46;Boucle du Mouhoun;2017;2016-2017;T;tbs_prescolaire;1.2162597371228439
+BF46;Boucle du Mouhoun;2018;2017-2018;G;tbs_prescolaire;1.3848733664854862
+BF46;Boucle du Mouhoun;2018;2017-2018;F;tbs_prescolaire;1.4605864644887947
+BF46;Boucle du Mouhoun;2018;2017-2018;T;tbs_prescolaire;1.4217751935303795
+BF46;Boucle du Mouhoun;2019;2018-2019;G;tbs_prescolaire;1.5340500435325737
+BF46;Boucle du Mouhoun;2019;2018-2019;F;tbs_prescolaire;1.6010354955941652
+BF46;Boucle du Mouhoun;2019;2018-2019;T;tbs_prescolaire;1.566692381964358
+BF46;Boucle du Mouhoun;2020;2019-2020;G;tbs_prescolaire;1.555010589677851
+BF46;Boucle du Mouhoun;2020;2019-2020;F;tbs_prescolaire;1.6395045313676224
+BF46;Boucle du Mouhoun;2020;2019-2020;T;tbs_prescolaire;1.596177937400864
+BF46;Boucle du Mouhoun;2021;2020-2021;G;tbs_prescolaire;1.8824216113674919
+BF46;Boucle du Mouhoun;2021;2020-2021;F;tbs_prescolaire;2.020085642414118
+BF46;Boucle du Mouhoun;2021;2020-2021;T;tbs_prescolaire;1.9494855004677267
+BF46;Boucle du Mouhoun;2022;2021-2022;G;tbs_prescolaire;1.9187479901382785
+BF46;Boucle du Mouhoun;2022;2021-2022;F;tbs_prescolaire;1.9847231999327568
+BF46;Boucle du Mouhoun;2022;2021-2022;T;tbs_prescolaire;1.9504944488260634
+BF46;Boucle du Mouhoun;2023;2022-2023;G;tbs_prescolaire;1.774476524657691
+BF46;Boucle du Mouhoun;2023;2022-2023;F;tbs_prescolaire;1.909626074292864
+BF46;Boucle du Mouhoun;2023;2022-2023;T;tbs_prescolaire;1.8395904774139993
+BF46;Boucle du Mouhoun;2024;2023-2024;G;tbs_prescolaire;1.9137501638484729
+BF46;Boucle du Mouhoun;2024;2023-2024;F;tbs_prescolaire;1.968748746339311
+BF46;Boucle du Mouhoun;2024;2023-2024;T;tbs_prescolaire;1.940304289297578
+BF46;Boucle du Mouhoun;2025;2024-2025;G;tbs_prescolaire;5.300895824302847
+BF46;Boucle du Mouhoun;2025;2024-2025;F;tbs_prescolaire;5.338345864661654
+BF46;Boucle du Mouhoun;2025;2024-2025;T;tbs_prescolaire;5.319129217908677
+BF47;Cascades;2016;2015-2016;G;tbs_prescolaire;2.075213315074265
+BF47;Cascades;2016;2015-2016;F;tbs_prescolaire;1.8907393997908117
+BF47;Cascades;2016;2015-2016;T;tbs_prescolaire;1.9838158891295394
+BF47;Cascades;2017;2016-2017;G;tbs_prescolaire;2.1096396673852786
+BF47;Cascades;2017;2016-2017;F;tbs_prescolaire;2.067055165024695
+BF47;Cascades;2017;2016-2017;T;tbs_prescolaire;2.088539576076964
+BF47;Cascades;2018;2017-2018;G;tbs_prescolaire;2.172282771722828
+BF47;Cascades;2018;2017-2018;F;tbs_prescolaire;2.196431752818712
+BF47;Cascades;2018;2017-2018;T;tbs_prescolaire;2.184248691594678
+BF47;Cascades;2019;2018-2019;G;tbs_prescolaire;2.366215030704747
+BF47;Cascades;2019;2018-2019;F;tbs_prescolaire;2.3917034684662335
+BF47;Cascades;2019;2018-2019;T;tbs_prescolaire;2.3788448771852178
+BF47;Cascades;2020;2019-2020;G;tbs_prescolaire;2.837792721896313
+BF47;Cascades;2020;2019-2020;F;tbs_prescolaire;2.829730386203546
+BF47;Cascades;2020;2019-2020;T;tbs_prescolaire;2.8337986137851368
+BF47;Cascades;2021;2020-2021;G;tbs_prescolaire;3.0385203726880823
+BF47;Cascades;2021;2020-2021;F;tbs_prescolaire;3.022366930917327
+BF47;Cascades;2021;2020-2021;T;tbs_prescolaire;3.0305156085584004
+BF47;Cascades;2022;2021-2022;G;tbs_prescolaire;3.4415628006892076
+BF47;Cascades;2022;2021-2022;F;tbs_prescolaire;3.8292263880063078
+BF47;Cascades;2022;2021-2022;T;tbs_prescolaire;3.6305031085824404
+BF47;Cascades;2023;2022-2023;G;tbs_prescolaire;3.53280931080905
+BF47;Cascades;2023;2022-2023;F;tbs_prescolaire;3.7857907564747952
+BF47;Cascades;2023;2022-2023;T;tbs_prescolaire;3.6562725807348118
+BF47;Cascades;2024;2023-2024;G;tbs_prescolaire;3.720389170896785
+BF47;Cascades;2024;2023-2024;F;tbs_prescolaire;3.7203958996111703
+BF47;Cascades;2024;2023-2024;T;tbs_prescolaire;3.7203924619640385
+BF47;Cascades;2025;2024-2025;G;tbs_prescolaire;3.4703381251265437
+BF47;Cascades;2025;2024-2025;F;tbs_prescolaire;3.2201770058586447
+BF47;Cascades;2025;2024-2025;T;tbs_prescolaire;3.346868463147533
+BF13;Centre;2016;2015-2016;G;tbs_prescolaire;9.563288067433314
+BF13;Centre;2016;2015-2016;F;tbs_prescolaire;8.732953089559746
+BF13;Centre;2016;2015-2016;T;tbs_prescolaire;9.139242960306305
+BF13;Centre;2017;2016-2017;G;tbs_prescolaire;14.087866430714781
+BF13;Centre;2017;2016-2017;F;tbs_prescolaire;12.859773501519197
+BF13;Centre;2017;2016-2017;T;tbs_prescolaire;13.460434835784106
+BF13;Centre;2018;2017-2018;G;tbs_prescolaire;20.046879085577675
+BF13;Centre;2018;2017-2018;F;tbs_prescolaire;18.10541170586186
+BF13;Centre;2018;2017-2018;T;tbs_prescolaire;19.05453217375425
+BF13;Centre;2019;2018-2019;G;tbs_prescolaire;23.209421421566848
+BF13;Centre;2019;2018-2019;F;tbs_prescolaire;21.15481374811319
+BF13;Centre;2019;2018-2019;T;tbs_prescolaire;22.15868255503403
+BF13;Centre;2020;2019-2020;G;tbs_prescolaire;26.830334896136
+BF13;Centre;2020;2019-2020;F;tbs_prescolaire;24.4538729246232
+BF13;Centre;2020;2019-2020;T;tbs_prescolaire;25.6190646815468
+BF13;Centre;2021;2020-2021;G;tbs_prescolaire;26.421945720825374
+BF13;Centre;2021;2020-2021;F;tbs_prescolaire;24.373273890987765
+BF13;Centre;2021;2020-2021;T;tbs_prescolaire;25.372633134231876
+BF13;Centre;2022;2021-2022;G;tbs_prescolaire;26.263680190094668
+BF13;Centre;2022;2021-2022;F;tbs_prescolaire;26.83409038920297
+BF13;Centre;2022;2021-2022;T;tbs_prescolaire;26.53888146562767
+BF13;Centre;2023;2022-2023;G;tbs_prescolaire;27.158633061788667
+BF13;Centre;2023;2022-2023;F;tbs_prescolaire;27.843103326228363
+BF13;Centre;2023;2022-2023;T;tbs_prescolaire;27.48933130156221
+BF13;Centre;2024;2023-2024;G;tbs_prescolaire;26.585544934168787
+BF13;Centre;2024;2023-2024;F;tbs_prescolaire;27.429295766095365
+BF13;Centre;2024;2023-2024;T;tbs_prescolaire;26.9941807674917
+BF13;Centre;2025;2024-2025;G;tbs_prescolaire;24.76160160377103
+BF13;Centre;2025;2024-2025;F;tbs_prescolaire;24.984601442862502
+BF13;Centre;2025;2024-2025;T;tbs_prescolaire;24.87062952796652
+BF48;Centre-Est;2016;2015-2016;G;tbs_prescolaire;2.5803351552645806
+BF48;Centre-Est;2016;2015-2016;F;tbs_prescolaire;2.5538509624150234
+BF48;Centre-Est;2016;2015-2016;T;tbs_prescolaire;2.56762752216758
+BF48;Centre-Est;2017;2016-2017;G;tbs_prescolaire;2.935674028403676
+BF48;Centre-Est;2017;2016-2017;F;tbs_prescolaire;3.0172248681640004
+BF48;Centre-Est;2017;2016-2017;T;tbs_prescolaire;2.9747835352038505
+BF48;Centre-Est;2018;2017-2018;G;tbs_prescolaire;3.31686986955871
+BF48;Centre-Est;2018;2017-2018;F;tbs_prescolaire;3.3343338836359995
+BF48;Centre-Est;2018;2017-2018;T;tbs_prescolaire;3.325240535923028
+BF48;Centre-Est;2019;2018-2019;G;tbs_prescolaire;3.8158992043636033
+BF48;Centre-Est;2019;2018-2019;F;tbs_prescolaire;3.7333921655145366
+BF48;Centre-Est;2019;2018-2019;T;tbs_prescolaire;3.776376510374467
+BF48;Centre-Est;2020;2019-2020;G;tbs_prescolaire;5.297531831760203
+BF48;Centre-Est;2020;2019-2020;F;tbs_prescolaire;5.182409502262444
+BF48;Centre-Est;2020;2019-2020;T;tbs_prescolaire;5.24102831034383
+BF48;Centre-Est;2021;2020-2021;G;tbs_prescolaire;5.290148448043184
+BF48;Centre-Est;2021;2020-2021;F;tbs_prescolaire;5.358550966845952
+BF48;Centre-Est;2021;2020-2021;T;tbs_prescolaire;5.3228749042749675
+BF48;Centre-Est;2022;2021-2022;G;tbs_prescolaire;6.123954467558703
+BF48;Centre-Est;2022;2021-2022;F;tbs_prescolaire;6.115043078069237
+BF48;Centre-Est;2022;2021-2022;T;tbs_prescolaire;6.119625993673177
+BF48;Centre-Est;2023;2022-2023;G;tbs_prescolaire;5.562935901693789
+BF48;Centre-Est;2023;2022-2023;F;tbs_prescolaire;5.709540850934437
+BF48;Centre-Est;2023;2022-2023;T;tbs_prescolaire;5.634227348210833
+BF48;Centre-Est;2024;2023-2024;G;tbs_prescolaire;6.527816909039682
+BF48;Centre-Est;2024;2023-2024;F;tbs_prescolaire;6.712970883087556
+BF48;Centre-Est;2024;2023-2024;T;tbs_prescolaire;6.618027038891327
+BF48;Centre-Est;2025;2024-2025;G;tbs_prescolaire;5.9445952350178795
+BF48;Centre-Est;2025;2024-2025;F;tbs_prescolaire;5.833076686171851
+BF48;Centre-Est;2025;2024-2025;T;tbs_prescolaire;5.889420983892033
+BF49;Centre-Nord;2016;2015-2016;G;tbs_prescolaire;2.873837619080099
+BF49;Centre-Nord;2016;2015-2016;F;tbs_prescolaire;3.157363577384242
+BF49;Centre-Nord;2016;2015-2016;T;tbs_prescolaire;3.0116822429906542
+BF49;Centre-Nord;2017;2016-2017;G;tbs_prescolaire;3.1251044859292283
+BF49;Centre-Nord;2017;2016-2017;F;tbs_prescolaire;3.4001414760669655
+BF49;Centre-Nord;2017;2016-2017;T;tbs_prescolaire;3.258758486350225
+BF49;Centre-Nord;2018;2017-2018;G;tbs_prescolaire;3.5092123646524622
+BF49;Centre-Nord;2018;2017-2018;F;tbs_prescolaire;3.7990776805631
+BF49;Centre-Nord;2018;2017-2018;T;tbs_prescolaire;3.649999719317155
+BF49;Centre-Nord;2019;2018-2019;G;tbs_prescolaire;4.970431918556778
+BF49;Centre-Nord;2019;2018-2019;F;tbs_prescolaire;5.277355881486183
+BF49;Centre-Nord;2019;2018-2019;T;tbs_prescolaire;5.119429511552281
+BF49;Centre-Nord;2020;2019-2020;G;tbs_prescolaire;3.7777545035609554
+BF49;Centre-Nord;2020;2019-2020;F;tbs_prescolaire;4.135693412002622
+BF49;Centre-Nord;2020;2019-2020;T;tbs_prescolaire;3.9514333313564487
+BF49;Centre-Nord;2021;2020-2021;G;tbs_prescolaire;4.736059098137793
+BF49;Centre-Nord;2021;2020-2021;F;tbs_prescolaire;5.285407655179177
+BF49;Centre-Nord;2021;2020-2021;T;tbs_prescolaire;5.0024835399427205
+BF49;Centre-Nord;2022;2021-2022;G;tbs_prescolaire;4.387949399543766
+BF49;Centre-Nord;2022;2021-2022;F;tbs_prescolaire;4.8107395232565
+BF49;Centre-Nord;2022;2021-2022;T;tbs_prescolaire;4.594784584866051
+BF49;Centre-Nord;2023;2022-2023;G;tbs_prescolaire;2.9008530840503584
+BF49;Centre-Nord;2023;2022-2023;F;tbs_prescolaire;3.021347411913233
+BF49;Centre-Nord;2023;2022-2023;T;tbs_prescolaire;2.9598744466046707
+BF49;Centre-Nord;2024;2023-2024;G;tbs_prescolaire;3.1222787787383406
+BF49;Centre-Nord;2024;2023-2024;F;tbs_prescolaire;3.319053827528404
+BF49;Centre-Nord;2024;2023-2024;T;tbs_prescolaire;3.2188615596988654
+BF49;Centre-Nord;2025;2024-2025;G;tbs_prescolaire;14.91638795986622
+BF49;Centre-Nord;2025;2024-2025;F;tbs_prescolaire;16.727941176470587
+BF49;Centre-Nord;2025;2024-2025;T;tbs_prescolaire;15.794664606975225
+BF50;Centre-Ouest;2016;2015-2016;G;tbs_prescolaire;2.1958449879270363
+BF50;Centre-Ouest;2016;2015-2016;F;tbs_prescolaire;2.309826440415511
+BF50;Centre-Ouest;2016;2015-2016;T;tbs_prescolaire;2.2506562086960837
+BF50;Centre-Ouest;2017;2016-2017;G;tbs_prescolaire;2.96670811533679
+BF50;Centre-Ouest;2017;2016-2017;F;tbs_prescolaire;3.0373328262660837
+BF50;Centre-Ouest;2017;2016-2017;T;tbs_prescolaire;3.0006519182847846
+BF50;Centre-Ouest;2018;2017-2018;G;tbs_prescolaire;2.0504623027738167
+BF50;Centre-Ouest;2018;2017-2018;F;tbs_prescolaire;2.2407186224743705
+BF50;Centre-Ouest;2018;2017-2018;T;tbs_prescolaire;2.141849735854469
+BF50;Centre-Ouest;2019;2018-2019;G;tbs_prescolaire;4.497575279124845
+BF50;Centre-Ouest;2019;2018-2019;F;tbs_prescolaire;4.659344955226798
+BF50;Centre-Ouest;2019;2018-2019;T;tbs_prescolaire;4.575228556181719
+BF50;Centre-Ouest;2020;2019-2020;G;tbs_prescolaire;5.525155042615991
+BF50;Centre-Ouest;2020;2019-2020;F;tbs_prescolaire;6.015948198333233
+BF50;Centre-Ouest;2020;2019-2020;T;tbs_prescolaire;5.7605807171534735
+BF50;Centre-Ouest;2021;2020-2021;G;tbs_prescolaire;5.90026770134501
+BF50;Centre-Ouest;2021;2020-2021;F;tbs_prescolaire;6.532231482789472
+BF50;Centre-Ouest;2021;2020-2021;T;tbs_prescolaire;6.203199503428039
+BF50;Centre-Ouest;2022;2021-2022;G;tbs_prescolaire;5.912280897497406
+BF50;Centre-Ouest;2022;2021-2022;F;tbs_prescolaire;6.0952448780951025
+BF50;Centre-Ouest;2022;2021-2022;T;tbs_prescolaire;6.00093171452727
+BF50;Centre-Ouest;2023;2022-2023;G;tbs_prescolaire;6.0005448106782895
+BF50;Centre-Ouest;2023;2022-2023;F;tbs_prescolaire;6.366633886735697
+BF50;Centre-Ouest;2023;2022-2023;T;tbs_prescolaire;6.178104483474552
+BF50;Centre-Ouest;2024;2023-2024;G;tbs_prescolaire;6.701834568481302
+BF50;Centre-Ouest;2024;2023-2024;F;tbs_prescolaire;6.909058040606958
+BF50;Centre-Ouest;2024;2023-2024;T;tbs_prescolaire;6.802523153612622
+BF50;Centre-Ouest;2025;2024-2025;G;tbs_prescolaire;8.702232706700208
+BF50;Centre-Ouest;2025;2024-2025;F;tbs_prescolaire;8.867537514844003
+BF50;Centre-Ouest;2025;2024-2025;T;tbs_prescolaire;8.78349333715432
+BF51;Centre-Sud;2016;2015-2016;G;tbs_prescolaire;2.8470977526540744
+BF51;Centre-Sud;2016;2015-2016;F;tbs_prescolaire;2.944507361268403
+BF51;Centre-Sud;2016;2015-2016;T;tbs_prescolaire;2.894123799562613
+BF51;Centre-Sud;2017;2016-2017;G;tbs_prescolaire;1.031928826265637
+BF51;Centre-Sud;2017;2016-2017;F;tbs_prescolaire;1.1332816737698566
+BF51;Centre-Sud;2017;2016-2017;T;tbs_prescolaire;1.0808347549718398
+BF51;Centre-Sud;2018;2017-2018;G;tbs_prescolaire;1.6222685164664685
+BF51;Centre-Sud;2018;2017-2018;F;tbs_prescolaire;1.655999428965714
+BF51;Centre-Sud;2018;2017-2018;T;tbs_prescolaire;1.6385354155431378
+BF51;Centre-Sud;2019;2018-2019;G;tbs_prescolaire;4.062493200165372
+BF51;Centre-Sud;2019;2018-2019;F;tbs_prescolaire;4.46232284017026
+BF51;Centre-Sud;2019;2018-2019;T;tbs_prescolaire;4.2551992335005355
+BF51;Centre-Sud;2020;2019-2020;G;tbs_prescolaire;4.651063044575125
+BF51;Centre-Sud;2020;2019-2020;F;tbs_prescolaire;5.386768489019524
+BF51;Centre-Sud;2020;2019-2020;T;tbs_prescolaire;5.005421994415252
+BF51;Centre-Sud;2021;2020-2021;G;tbs_prescolaire;4.804326409122351
+BF51;Centre-Sud;2021;2020-2021;F;tbs_prescolaire;5.003049262530211
+BF51;Centre-Sud;2021;2020-2021;T;tbs_prescolaire;4.8999782561426395
+BF51;Centre-Sud;2022;2021-2022;G;tbs_prescolaire;5.666122085251745
+BF51;Centre-Sud;2022;2021-2022;F;tbs_prescolaire;5.828632822992211
+BF51;Centre-Sud;2022;2021-2022;T;tbs_prescolaire;5.744061421136704
+BF51;Centre-Sud;2023;2022-2023;G;tbs_prescolaire;5.357835531419705
+BF51;Centre-Sud;2023;2022-2023;F;tbs_prescolaire;5.889306259686359
+BF51;Centre-Sud;2023;2022-2023;T;tbs_prescolaire;5.612920307122055
+BF51;Centre-Sud;2024;2023-2024;G;tbs_prescolaire;6.059522958515023
+BF51;Centre-Sud;2024;2023-2024;F;tbs_prescolaire;6.576407299683405
+BF51;Centre-Sud;2024;2023-2024;T;tbs_prescolaire;6.308000692914945
+BF51;Centre-Sud;2025;2024-2025;G;tbs_prescolaire;2.990631138352685
+BF51;Centre-Sud;2025;2024-2025;F;tbs_prescolaire;3.1656357535671025
+BF51;Centre-Sud;2025;2024-2025;T;tbs_prescolaire;3.076317446987193
+BF52;Est;2016;2015-2016;G;tbs_prescolaire;1.6552043241424275
+BF52;Est;2016;2015-2016;F;tbs_prescolaire;1.8469217970049916
+BF52;Est;2016;2015-2016;T;tbs_prescolaire;1.7485046749152469
+BF52;Est;2017;2016-2017;G;tbs_prescolaire;1.245862543944409
+BF52;Est;2017;2016-2017;F;tbs_prescolaire;1.2776988405262644
+BF52;Est;2017;2016-2017;T;tbs_prescolaire;1.2613535009156687
+BF52;Est;2018;2017-2018;G;tbs_prescolaire;1.0922707787448926
+BF52;Est;2018;2017-2018;F;tbs_prescolaire;1.0511035527723915
+BF52;Est;2018;2017-2018;T;tbs_prescolaire;1.0722423267658492
+BF52;Est;2019;2018-2019;G;tbs_prescolaire;1.3557526291006123
+BF52;Est;2019;2018-2019;F;tbs_prescolaire;1.3494200497100248
+BF52;Est;2019;2018-2019;T;tbs_prescolaire;1.352672094147993
+BF52;Est;2020;2019-2020;G;tbs_prescolaire;1.4942826197390995
+BF52;Est;2020;2019-2020;F;tbs_prescolaire;1.6749825417227522
+BF52;Est;2020;2019-2020;T;tbs_prescolaire;1.5821756638344378
+BF52;Est;2021;2020-2021;G;tbs_prescolaire;1.2123824157703407
+BF52;Est;2021;2020-2021;F;tbs_prescolaire;1.2190174640083116
+BF52;Est;2021;2020-2021;T;tbs_prescolaire;1.2156094650067133
+BF52;Est;2022;2021-2022;G;tbs_prescolaire;1.109903167901297
+BF52;Est;2022;2021-2022;F;tbs_prescolaire;1.1292536408848644
+BF52;Est;2022;2021-2022;T;tbs_prescolaire;1.1193076233339254
+BF52;Est;2023;2022-2023;G;tbs_prescolaire;1.1598191468448986
+BF52;Est;2023;2022-2023;F;tbs_prescolaire;1.0854641071474833
+BF52;Est;2023;2022-2023;T;tbs_prescolaire;1.1236238445338411
+BF52;Est;2024;2023-2024;G;tbs_prescolaire;1.3349524258426337
+BF52;Est;2024;2023-2024;F;tbs_prescolaire;1.3061156054826675
+BF52;Est;2024;2023-2024;T;tbs_prescolaire;1.320881296582644
+BF52;Est;2025;2024-2025;G;tbs_prescolaire;2.3659233673141875
+BF52;Est;2025;2024-2025;F;tbs_prescolaire;2.2238718746544945
+BF52;Est;2025;2024-2025;T;tbs_prescolaire;2.296064998213481
+BF53;Hauts-Bassins;2016;2015-2016;G;tbs_prescolaire;3.983788268833904
+BF53;Hauts-Bassins;2016;2015-2016;F;tbs_prescolaire;3.844299831284647
+BF53;Hauts-Bassins;2016;2015-2016;T;tbs_prescolaire;3.915070918158071
+BF53;Hauts-Bassins;2017;2016-2017;G;tbs_prescolaire;4.475437135720233
+BF53;Hauts-Bassins;2017;2016-2017;F;tbs_prescolaire;4.3392991104919085
+BF53;Hauts-Bassins;2017;2016-2017;T;tbs_prescolaire;4.4083636939648345
+BF53;Hauts-Bassins;2018;2017-2018;G;tbs_prescolaire;3.9892128428229783
+BF53;Hauts-Bassins;2018;2017-2018;F;tbs_prescolaire;3.946568884232583
+BF53;Hauts-Bassins;2018;2017-2018;T;tbs_prescolaire;3.9682007072245313
+BF53;Hauts-Bassins;2019;2018-2019;G;tbs_prescolaire;4.51680358476475
+BF53;Hauts-Bassins;2019;2018-2019;F;tbs_prescolaire;4.525188335981141
+BF53;Hauts-Bassins;2019;2018-2019;T;tbs_prescolaire;4.520935400777817
+BF53;Hauts-Bassins;2020;2019-2020;G;tbs_prescolaire;5.3756053462649005
+BF53;Hauts-Bassins;2020;2019-2020;F;tbs_prescolaire;5.318176248244399
+BF53;Hauts-Bassins;2020;2019-2020;T;tbs_prescolaire;5.347305338559838
+BF53;Hauts-Bassins;2021;2020-2021;G;tbs_prescolaire;6.6327065983649565
+BF53;Hauts-Bassins;2021;2020-2021;F;tbs_prescolaire;6.443099202339021
+BF53;Hauts-Bassins;2021;2020-2021;T;tbs_prescolaire;6.539235412474849
+BF53;Hauts-Bassins;2022;2021-2022;G;tbs_prescolaire;6.05006702170054
+BF53;Hauts-Bassins;2022;2021-2022;F;tbs_prescolaire;5.910836217821407
+BF53;Hauts-Bassins;2022;2021-2022;T;tbs_prescolaire;5.981956974323387
+BF53;Hauts-Bassins;2023;2022-2023;G;tbs_prescolaire;6.5300151573901095
+BF53;Hauts-Bassins;2023;2022-2023;F;tbs_prescolaire;6.35628607876068
+BF53;Hauts-Bassins;2023;2022-2023;T;tbs_prescolaire;6.44491298738081
+BF53;Hauts-Bassins;2024;2023-2024;G;tbs_prescolaire;7.592594186556951
+BF53;Hauts-Bassins;2024;2023-2024;F;tbs_prescolaire;7.425817678818437
+BF53;Hauts-Bassins;2024;2023-2024;T;tbs_prescolaire;7.5107126896080345
+BF53;Hauts-Bassins;2025;2024-2025;G;tbs_prescolaire;7.95008088745089
+BF53;Hauts-Bassins;2025;2024-2025;F;tbs_prescolaire;7.682609061107843
+BF53;Hauts-Bassins;2025;2024-2025;T;tbs_prescolaire;7.817562446382316
+BF54;Nord;2016;2015-2016;G;tbs_prescolaire;1.470833036075242
+BF54;Nord;2016;2015-2016;F;tbs_prescolaire;1.3791744655698945
+BF54;Nord;2016;2015-2016;T;tbs_prescolaire;1.425806061339302
+BF54;Nord;2017;2016-2017;G;tbs_prescolaire;1.5956763823553444
+BF54;Nord;2017;2016-2017;F;tbs_prescolaire;1.5473770809136662
+BF54;Nord;2017;2016-2017;T;tbs_prescolaire;1.5719590078716768
+BF54;Nord;2018;2017-2018;G;tbs_prescolaire;1.8280049906711078
+BF54;Nord;2018;2017-2018;F;tbs_prescolaire;1.7621982354268342
+BF54;Nord;2018;2017-2018;T;tbs_prescolaire;1.7957056931039308
+BF54;Nord;2019;2018-2019;G;tbs_prescolaire;2.132198556078282
+BF54;Nord;2019;2018-2019;F;tbs_prescolaire;2.055688999790117
+BF54;Nord;2019;2018-2019;T;tbs_prescolaire;2.0946660946660947
+BF54;Nord;2020;2019-2020;G;tbs_prescolaire;2.1478033908160437
+BF54;Nord;2020;2019-2020;F;tbs_prescolaire;2.10710658573472
+BF54;Nord;2020;2019-2020;T;tbs_prescolaire;2.127850747738684
+BF54;Nord;2021;2020-2021;G;tbs_prescolaire;2.300575413747315
+BF54;Nord;2021;2020-2021;F;tbs_prescolaire;2.315990560737162
+BF54;Nord;2021;2020-2021;T;tbs_prescolaire;2.3081285548318182
+BF54;Nord;2022;2021-2022;G;tbs_prescolaire;2.428850236987153
+BF54;Nord;2022;2021-2022;F;tbs_prescolaire;2.3142838595200486
+BF54;Nord;2022;2021-2022;T;tbs_prescolaire;2.3718224903059024
+BF54;Nord;2023;2022-2023;G;tbs_prescolaire;2.366170050150241
+BF54;Nord;2023;2022-2023;F;tbs_prescolaire;2.246906814493181
+BF54;Nord;2023;2022-2023;T;tbs_prescolaire;2.3067348042794342
+BF54;Nord;2024;2023-2024;G;tbs_prescolaire;2.3111247884289887
+BF54;Nord;2024;2023-2024;F;tbs_prescolaire;2.146523085151244
+BF54;Nord;2024;2023-2024;T;tbs_prescolaire;2.2289329882082254
+BF54;Nord;2025;2024-2025;G;tbs_prescolaire;5.752059592521336
+BF54;Nord;2025;2024-2025;F;tbs_prescolaire;5.336465359273266
+BF54;Nord;2025;2024-2025;T;tbs_prescolaire;5.5429980730665696
+BF55;Plateau-Central;2016;2015-2016;G;tbs_prescolaire;1.864925525402979
+BF55;Plateau-Central;2016;2015-2016;F;tbs_prescolaire;2.1295688334427663
+BF55;Plateau-Central;2016;2015-2016;T;tbs_prescolaire;1.9926082365364308
+BF55;Plateau-Central;2017;2016-2017;G;tbs_prescolaire;2.6835818502485167
+BF55;Plateau-Central;2017;2016-2017;F;tbs_prescolaire;2.968016874004563
+BF55;Plateau-Central;2017;2016-2017;T;tbs_prescolaire;2.8207310238900765
+BF55;Plateau-Central;2018;2017-2018;G;tbs_prescolaire;3.3958628283781653
+BF55;Plateau-Central;2018;2017-2018;F;tbs_prescolaire;3.583661042750222
+BF55;Plateau-Central;2018;2017-2018;T;tbs_prescolaire;3.4863581718523955
+BF55;Plateau-Central;2019;2018-2019;G;tbs_prescolaire;3.2632818078311048
+BF55;Plateau-Central;2019;2018-2019;F;tbs_prescolaire;3.6359103280629945
+BF55;Plateau-Central;2019;2018-2019;T;tbs_prescolaire;3.4427213606803404
+BF55;Plateau-Central;2020;2019-2020;G;tbs_prescolaire;4.535729559739248
+BF55;Plateau-Central;2020;2019-2020;F;tbs_prescolaire;4.761224489795919
+BF55;Plateau-Central;2020;2019-2020;T;tbs_prescolaire;4.644241708181801
+BF55;Plateau-Central;2021;2020-2021;G;tbs_prescolaire;4.524517087667162
+BF55;Plateau-Central;2021;2020-2021;F;tbs_prescolaire;4.51693097295455
+BF55;Plateau-Central;2021;2020-2021;T;tbs_prescolaire;4.520868886125011
+BF55;Plateau-Central;2022;2021-2022;G;tbs_prescolaire;4.8161632930257126
+BF55;Plateau-Central;2022;2021-2022;F;tbs_prescolaire;4.698927963129947
+BF55;Plateau-Central;2022;2021-2022;T;tbs_prescolaire;4.759313601647977
+BF55;Plateau-Central;2023;2022-2023;G;tbs_prescolaire;5.002488341658526
+BF55;Plateau-Central;2023;2022-2023;F;tbs_prescolaire;5.24299923787935
+BF55;Plateau-Central;2023;2022-2023;T;tbs_prescolaire;5.119230550338626
+BF55;Plateau-Central;2024;2023-2024;G;tbs_prescolaire;5.620414211876965
+BF55;Plateau-Central;2024;2023-2024;F;tbs_prescolaire;5.936604926484629
+BF55;Plateau-Central;2024;2023-2024;T;tbs_prescolaire;5.77415880561539
+BF55;Plateau-Central;2025;2024-2025;G;tbs_prescolaire;8.174643274038713
+BF55;Plateau-Central;2025;2024-2025;F;tbs_prescolaire;8.26098776619846
+BF55;Plateau-Central;2025;2024-2025;T;tbs_prescolaire;8.216963365668196
+BF56;Sahel;2016;2015-2016;G;tbs_prescolaire;0.561236147606535
+BF56;Sahel;2016;2015-2016;F;tbs_prescolaire;0.5348079690932505
+BF56;Sahel;2016;2015-2016;T;tbs_prescolaire;0.5484124708701821
+BF56;Sahel;2017;2016-2017;G;tbs_prescolaire;0.5423766722115828
+BF56;Sahel;2017;2016-2017;F;tbs_prescolaire;0.5088794267317478
+BF56;Sahel;2017;2016-2017;T;tbs_prescolaire;0.5261263854901397
+BF56;Sahel;2018;2017-2018;G;tbs_prescolaire;0.47987531444821174
+BF56;Sahel;2018;2017-2018;F;tbs_prescolaire;0.45436729716782553
+BF56;Sahel;2018;2017-2018;T;tbs_prescolaire;0.46750357316360514
+BF56;Sahel;2019;2018-2019;G;tbs_prescolaire;1.7152107889702044
+BF56;Sahel;2019;2018-2019;F;tbs_prescolaire;1.6825590814136908
+BF56;Sahel;2019;2018-2019;T;tbs_prescolaire;1.699377032912509
+BF56;Sahel;2020;2019-2020;G;tbs_prescolaire;1.7437065546086479
+BF56;Sahel;2020;2019-2020;F;tbs_prescolaire;1.6745712735921223
+BF56;Sahel;2020;2019-2020;T;tbs_prescolaire;1.7101855848079413
+BF56;Sahel;2021;2020-2021;G;tbs_prescolaire;0.8560700234522177
+BF56;Sahel;2021;2020-2021;F;tbs_prescolaire;0.8497773419945254
+BF56;Sahel;2021;2020-2021;T;tbs_prescolaire;0.8530192391490936
+BF56;Sahel;2022;2021-2022;G;tbs_prescolaire;1.343271082823884
+BF56;Sahel;2022;2021-2022;F;tbs_prescolaire;1.517263564229037
+BF56;Sahel;2022;2021-2022;T;tbs_prescolaire;1.4274474541980444
+BF56;Sahel;2023;2022-2023;G;tbs_prescolaire;0.8326776816155259
+BF56;Sahel;2023;2022-2023;F;tbs_prescolaire;0.8493346587837248
+BF56;Sahel;2023;2022-2023;T;tbs_prescolaire;0.840747969952766
+BF56;Sahel;2024;2023-2024;G;tbs_prescolaire;1.4552244812543262
+BF56;Sahel;2024;2023-2024;F;tbs_prescolaire;1.3145780051150895
+BF56;Sahel;2024;2023-2024;T;tbs_prescolaire;1.386922357188398
+BF56;Sahel;2025;2024-2025;G;tbs_prescolaire;1.3501782669353588
+BF56;Sahel;2025;2024-2025;F;tbs_prescolaire;1.447449193887112
+BF56;Sahel;2025;2024-2025;T;tbs_prescolaire;1.3978103344619182
+BF57;Sud-Ouest;2016;2015-2016;G;tbs_prescolaire;1.7630513823146052
+BF57;Sud-Ouest;2016;2015-2016;F;tbs_prescolaire;1.8323635012999877
+BF57;Sud-Ouest;2016;2015-2016;T;tbs_prescolaire;1.7963288791668648
+BF57;Sud-Ouest;2017;2016-2017;G;tbs_prescolaire;2.1240327464393856
+BF57;Sud-Ouest;2017;2016-2017;F;tbs_prescolaire;2.214443715209412
+BF57;Sud-Ouest;2017;2016-2017;T;tbs_prescolaire;2.167421025617097
+BF57;Sud-Ouest;2018;2017-2018;G;tbs_prescolaire;1.7098525307136108
+BF57;Sud-Ouest;2018;2017-2018;F;tbs_prescolaire;1.9311002503278103
+BF57;Sud-Ouest;2018;2017-2018;T;tbs_prescolaire;1.8159778606225556
+BF57;Sud-Ouest;2019;2018-2019;G;tbs_prescolaire;1.9906928645294726
+BF57;Sud-Ouest;2019;2018-2019;F;tbs_prescolaire;2.1806270472625173
+BF57;Sud-Ouest;2019;2018-2019;T;tbs_prescolaire;2.0817443582035984
+BF57;Sud-Ouest;2020;2019-2020;G;tbs_prescolaire;1.7437065546086479
+BF57;Sud-Ouest;2020;2019-2020;F;tbs_prescolaire;1.6745712735921223
+BF57;Sud-Ouest;2020;2019-2020;T;tbs_prescolaire;1.7101855848079413
+BF57;Sud-Ouest;2021;2020-2021;G;tbs_prescolaire;2.719427140462344
+BF57;Sud-Ouest;2021;2020-2021;F;tbs_prescolaire;2.8187737995989273
+BF57;Sud-Ouest;2021;2020-2021;T;tbs_prescolaire;2.766990291262136
+BF57;Sud-Ouest;2022;2021-2022;G;tbs_prescolaire;3.220848793553911
+BF57;Sud-Ouest;2022;2021-2022;F;tbs_prescolaire;3.426330374336574
+BF57;Sud-Ouest;2022;2021-2022;T;tbs_prescolaire;3.320132986871518
+BF57;Sud-Ouest;2023;2022-2023;G;tbs_prescolaire;3.773180405188123
+BF57;Sud-Ouest;2023;2022-2023;F;tbs_prescolaire;3.919908466819222
+BF57;Sud-Ouest;2023;2022-2023;T;tbs_prescolaire;3.8441529691737233
+BF57;Sud-Ouest;2024;2023-2024;G;tbs_prescolaire;3.9790751906552657
+BF57;Sud-Ouest;2024;2023-2024;F;tbs_prescolaire;4.1287785696731385
+BF57;Sud-Ouest;2024;2023-2024;T;tbs_prescolaire;4.051625197600641
+BF57;Sud-Ouest;2025;2024-2025;G;tbs_prescolaire;7.978002870948829
+BF57;Sud-Ouest;2025;2024-2025;F;tbs_prescolaire;7.851099830795262
+BF57;Sud-Ouest;2025;2024-2025;T;tbs_prescolaire;7.915981848440682
+BF;Burkina Faso;2016;2015-2016;G;tbs_prescolaire;2.8772292465226372
+BF;Burkina Faso;2016;2015-2016;F;tbs_prescolaire;2.900685604876272
+BF;Burkina Faso;2016;2015-2016;T;tbs_prescolaire;2.888694685826946
+BF;Burkina Faso;2017;2016-2017;G;tbs_prescolaire;3.4784611840589728
+BF;Burkina Faso;2017;2016-2017;F;tbs_prescolaire;3.489042675893887
+BF;Burkina Faso;2017;2016-2017;T;tbs_prescolaire;3.4836325894746802
+BF;Burkina Faso;2018;2017-2018;G;tbs_prescolaire;4.118022758607794
+BF;Burkina Faso;2018;2017-2018;F;tbs_prescolaire;4.128478634098313
+BF;Burkina Faso;2018;2017-2018;T;tbs_prescolaire;4.123131830913902
+BF;Burkina Faso;2019;2018-2019;G;tbs_prescolaire;5.178246663173145
+BF;Burkina Faso;2019;2018-2019;F;tbs_prescolaire;5.216873022708409
+BF;Burkina Faso;2019;2018-2019;T;tbs_prescolaire;5.197116988219343
+BF;Burkina Faso;2020;2019-2020;G;tbs_prescolaire;5.916468770979578
+BF;Burkina Faso;2020;2019-2020;F;tbs_prescolaire;5.99323913874419
+BF;Burkina Faso;2020;2019-2020;T;tbs_prescolaire;5.954045120970128
+BF;Burkina Faso;2021;2020-2021;G;tbs_prescolaire;6.103558078360792
+BF;Burkina Faso;2021;2020-2021;F;tbs_prescolaire;6.215631614418501
+BF;Burkina Faso;2021;2020-2021;T;tbs_prescolaire;6.15829157712161
+BF;Burkina Faso;2022;2021-2022;G;tbs_prescolaire;6.527010275783837
+BF;Burkina Faso;2022;2021-2022;F;tbs_prescolaire;6.62840989564739
+BF;Burkina Faso;2022;2021-2022;T;tbs_prescolaire;6.576309672915523
+BF;Burkina Faso;2023;2022-2023;G;tbs_prescolaire;6.509395536861488
+BF;Burkina Faso;2023;2022-2023;F;tbs_prescolaire;6.62648889360726
+BF;Burkina Faso;2023;2022-2023;T;tbs_prescolaire;6.566396958224032
+BF;Burkina Faso;2024;2023-2024;G;tbs_prescolaire;6.863182916237381
+BF;Burkina Faso;2024;2023-2024;F;tbs_prescolaire;6.977312980452854
+BF;Burkina Faso;2024;2023-2024;T;tbs_prescolaire;6.918858854288841
+BF;Burkina Faso;2025;2024-2025;G;tbs_prescolaire;8.170958635909077
+BF;Burkina Faso;2025;2024-2025;F;tbs_prescolaire;8.163711762152701
+BF;Burkina Faso;2025;2024-2025;T;tbs_prescolaire;8.167393624296464
+BF46;Boucle du Mouhoun;2016;2015-2016;IPS;ips_tbs_prescolaire;1.0315880468385252
+BF46;Boucle du Mouhoun;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9480426085492437
+BF46;Boucle du Mouhoun;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0546714954851448
+BF46;Boucle du Mouhoun;2019;2018-2019;IPS;ips_tbs_prescolaire;1.043665754154499
+BF46;Boucle du Mouhoun;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0543365699569132
+BF46;Boucle du Mouhoun;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0731313485859415
+BF46;Boucle du Mouhoun;2022;2021-2022;IPS;ips_tbs_prescolaire;1.034384510177245
+BF46;Boucle du Mouhoun;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0761630530227748
+BF46;Boucle du Mouhoun;2024;2023-2024;IPS;ips_tbs_prescolaire;1.028738642864562
+BF46;Boucle du Mouhoun;2025;2024-2025;IPS;ips_tbs_prescolaire;1.0070648512251665
+BF47;Cascades;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9111060468129024
+BF47;Cascades;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9798143242095161
+BF47;Cascades;2018;2017-2018;IPS;ips_tbs_prescolaire;1.011116868121516
+BF47;Cascades;2019;2018-2019;IPS;ips_tbs_prescolaire;1.010771818043052
+BF47;Cascades;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0
+BF47;Cascades;2021;2020-2021;IPS;ips_tbs_prescolaire;0.9946837803307322
+BF47;Cascades;2022;2021-2022;IPS;ips_tbs_prescolaire;1.1126417298674505
+BF47;Cascades;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0716091425856806
+BF47;Cascades;2024;2023-2024;IPS;ips_tbs_prescolaire;1.000001808604981
+BF47;Cascades;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9279144826100261
+BF13;Centre;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9131747394809554
+BF13;Centre;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9128261944251501
+BF13;Centre;2018;2017-2018;IPS;ips_tbs_prescolaire;0.9031536344670945
+BF13;Centre;2019;2018-2019;IPS;ips_tbs_prescolaire;0.9114752739357622
+BF13;Centre;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0
+BF13;Centre;2021;2020-2021;IPS;ips_tbs_prescolaire;0.9224632488657761
+BF13;Centre;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0217185936997295
+BF13;Centre;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0252026772806442
+BF13;Centre;2024;2023-2024;IPS;ips_tbs_prescolaire;1.03173720283018
+BF13;Centre;2025;2024-2025;IPS;ips_tbs_prescolaire;1.0090058729907645
+BF48;Centre-Est;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9897361423009247
+BF48;Centre-Est;2017;2016-2017;IPS;ips_tbs_prescolaire;1.027779255793147
+BF48;Centre-Est;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0052652092979497
+BF48;Centre-Est;2019;2018-2019;IPS;ips_tbs_prescolaire;0.9783780874623949
+BF48;Centre-Est;2020;2019-2020;IPS;ips_tbs_prescolaire;0.9782686856532757
+BF48;Centre-Est;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0129301700083804
+BF48;Centre-Est;2022;2021-2022;IPS;ips_tbs_prescolaire;0.9985448308708574
+BF48;Centre-Est;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0263538807261845
+BF48;Centre-Est;2024;2023-2024;IPS;ips_tbs_prescolaire;1.0283638430164108
+BF48;Centre-Est;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9812403461569419
+BF49;Centre-Nord;2016;2015-2016;IPS;ips_tbs_prescolaire;1.0986576125323664
+BF49;Centre-Nord;2017;2016-2017;IPS;ips_tbs_prescolaire;1.088008894222926
+BF49;Centre-Nord;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0826012466017698
+BF49;Centre-Nord;2019;2018-2019;IPS;ips_tbs_prescolaire;1.0617499581441856
+BF49;Centre-Nord;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0947491183199622
+BF49;Centre-Nord;2021;2020-2021;IPS;ips_tbs_prescolaire;1.1159927580416777
+BF49;Centre-Nord;2022;2021-2022;IPS;ips_tbs_prescolaire;1.096352552232415
+BF49;Centre-Nord;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0415375492559011
+BF49;Centre-Nord;2024;2023-2024;IPS;ips_tbs_prescolaire;1.0630228953705334
+BF49;Centre-Nord;2025;2024-2025;IPS;ips_tbs_prescolaire;1.1214471775257187
+BF50;Centre-Ouest;2016;2015-2016;IPS;ips_tbs_prescolaire;1.051907786348834
+BF50;Centre-Ouest;2017;2016-2017;IPS;ips_tbs_prescolaire;1.023805749734593
+BF50;Centre-Ouest;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0927870360958012
+BF50;Centre-Ouest;2019;2018-2019;IPS;ips_tbs_prescolaire;1.035968197542528
+BF50;Centre-Ouest;2020;2019-2020;IPS;ips_tbs_prescolaire;1.088828847685126
+BF50;Centre-Ouest;2021;2020-2021;IPS;ips_tbs_prescolaire;1.10710764552266
+BF50;Centre-Ouest;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0309464289281558
+BF50;Centre-Ouest;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0610093062559807
+BF50;Centre-Ouest;2024;2023-2024;IPS;ips_tbs_prescolaire;1.030920409927787
+BF50;Centre-Ouest;2025;2024-2025;IPS;ips_tbs_prescolaire;1.018995677743313
+BF51;Centre-Sud;2016;2015-2016;IPS;ips_tbs_prescolaire;1.0342136509094297
+BF51;Centre-Sud;2017;2016-2017;IPS;ips_tbs_prescolaire;1.0982168972554018
+BF51;Centre-Sud;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0207924348878545
+BF51;Centre-Sud;2019;2018-2019;IPS;ips_tbs_prescolaire;1.0984197684290553
+BF51;Centre-Sud;2020;2019-2020;IPS;ips_tbs_prescolaire;1.1581800627928505
+BF51;Centre-Sud;2021;2020-2021;IPS;ips_tbs_prescolaire;1.041363312249253
+BF51;Centre-Sud;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0286811218140643
+BF51;Centre-Sud;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0991950434368458
+BF51;Centre-Sud;2024;2023-2024;IPS;ips_tbs_prescolaire;1.08530116062058
+BF51;Centre-Sud;2025;2024-2025;IPS;ips_tbs_prescolaire;1.0585176195653518
+BF52;Est;2016;2015-2016;IPS;ips_tbs_prescolaire;1.1158270734713638
+BF52;Est;2017;2016-2017;IPS;ips_tbs_prescolaire;1.0255536188455119
+BF52;Est;2018;2017-2018;IPS;ips_tbs_prescolaire;0.9623104208465546
+BF52;Est;2019;2018-2019;IPS;ips_tbs_prescolaire;0.995329104104494
+BF52;Est;2020;2019-2020;IPS;ips_tbs_prescolaire;1.1209275404777195
+BF52;Est;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0054727354600859
+BF52;Est;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0174343794514589
+BF52;Est;2023;2022-2023;IPS;ips_tbs_prescolaire;0.9358908327219065
+BF52;Est;2024;2023-2024;IPS;ips_tbs_prescolaire;0.9783986157096466
+BF52;Est;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9399593855734428
+BF53;Hauts-Bassins;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9649859811475154
+BF53;Hauts-Bassins;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9695810663629363
+BF53;Hauts-Bassins;2018;2017-2018;IPS;ips_tbs_prescolaire;0.9893101821661091
+BF53;Hauts-Bassins;2019;2018-2019;IPS;ips_tbs_prescolaire;1.0018563462101104
+BF53;Hauts-Bassins;2020;2019-2020;IPS;ips_tbs_prescolaire;0.9893167198257207
+BF53;Hauts-Bassins;2021;2020-2021;IPS;ips_tbs_prescolaire;0.9714132694980544
+BF53;Hauts-Bassins;2022;2021-2022;IPS;ips_tbs_prescolaire;0.9769868989252951
+BF53;Hauts-Bassins;2023;2022-2023;IPS;ips_tbs_prescolaire;0.9733953023933155
+BF53;Hauts-Bassins;2024;2023-2024;IPS;ips_tbs_prescolaire;0.9780343182263317
+BF53;Hauts-Bassins;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9663560874248149
+BF54;Nord;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9376825457021768
+BF54;Nord;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9697311422442785
+BF54;Nord;2018;2017-2018;IPS;ips_tbs_prescolaire;0.9640007792210051
+BF54;Nord;2019;2018-2019;IPS;ips_tbs_prescolaire;0.9641170583902431
+BF54;Nord;2020;2019-2020;IPS;ips_tbs_prescolaire;0.9810518945750147
+BF54;Nord;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0067005614759386
+BF54;Nord;2022;2021-2022;IPS;ips_tbs_prescolaire;0.9528310244400999
+BF54;Nord;2023;2022-2023;IPS;ips_tbs_prescolaire;0.9495965069587929
+BF54;Nord;2024;2023-2024;IPS;ips_tbs_prescolaire;0.9287785306523261
+BF54;Nord;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9277486217652519
+BF55;Plateau-Central;2016;2015-2016;IPS;ips_tbs_prescolaire;1.141905563753063
+BF55;Plateau-Central;2017;2016-2017;IPS;ips_tbs_prescolaire;1.1059908136320513
+BF55;Plateau-Central;2018;2017-2018;IPS;ips_tbs_prescolaire;1.0553020613208182
+BF55;Plateau-Central;2019;2018-2019;IPS;ips_tbs_prescolaire;1.114188274925466
+BF55;Plateau-Central;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0497152502341065
+BF55;Plateau-Central;2021;2020-2021;IPS;ips_tbs_prescolaire;0.9983233316250943
+BF55;Plateau-Central;2022;2021-2022;IPS;ips_tbs_prescolaire;0.9756579412360178
+BF55;Plateau-Central;2023;2022-2023;IPS;ips_tbs_prescolaire;1.048078252220591
+BF55;Plateau-Central;2024;2023-2024;IPS;ips_tbs_prescolaire;1.0562575466305482
+BF55;Plateau-Central;2025;2024-2025;IPS;ips_tbs_prescolaire;1.0105624782960207
+BF56;Sahel;2016;2015-2016;IPS;ips_tbs_prescolaire;0.9529107691548541
+BF56;Sahel;2017;2016-2017;IPS;ips_tbs_prescolaire;0.9382398853120887
+BF56;Sahel;2018;2017-2018;IPS;ips_tbs_prescolaire;0.9468444895738869
+BF56;Sahel;2019;2018-2019;IPS;ips_tbs_prescolaire;0.9809634432301365
+BF56;Sahel;2020;2019-2020;IPS;ips_tbs_prescolaire;0.960351539177392
+BF56;Sahel;2021;2020-2021;IPS;ips_tbs_prescolaire;0.9926493379217786
+BF56;Sahel;2022;2021-2022;IPS;ips_tbs_prescolaire;1.1295289414251204
+BF56;Sahel;2023;2022-2023;IPS;ips_tbs_prescolaire;1.020004111477903
+BF56;Sahel;2024;2023-2024;IPS;ips_tbs_prescolaire;0.9033506665459565
+BF56;Sahel;2025;2024-2025;IPS;ips_tbs_prescolaire;1.0720430252314304
+BF57;Sud-Ouest;2016;2015-2016;IPS;ips_tbs_prescolaire;1.0393137260097245
+BF57;Sud-Ouest;2017;2016-2017;IPS;ips_tbs_prescolaire;1.0425657132271555
+BF57;Sud-Ouest;2018;2017-2018;IPS;ips_tbs_prescolaire;1.1293957903620269
+BF57;Sud-Ouest;2019;2018-2019;IPS;ips_tbs_prescolaire;1.0954110933521322
+BF57;Sud-Ouest;2020;2019-2020;IPS;ips_tbs_prescolaire;0.960351539177392
+BF57;Sud-Ouest;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0365322010869145
+BF57;Sud-Ouest;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0637973385133466
+BF57;Sud-Ouest;2023;2022-2023;IPS;ips_tbs_prescolaire;1.038887104743083
+BF57;Sud-Ouest;2024;2023-2024;IPS;ips_tbs_prescolaire;1.0376226564829554
+BF57;Sud-Ouest;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9840933824910402
+BF;Burkina Faso;2016;2015-2016;IPS;ips_tbs_prescolaire;1.0081524120408492
+BF;Burkina Faso;2017;2016-2017;IPS;ips_tbs_prescolaire;1.0030420037122756
+BF;Burkina Faso;2018;2017-2018;IPS;ips_tbs_prescolaire;1.002539052381064
+BF;Burkina Faso;2019;2018-2019;IPS;ips_tbs_prescolaire;1.0074593510212575
+BF;Burkina Faso;2020;2019-2020;IPS;ips_tbs_prescolaire;1.0129757074255463
+BF;Burkina Faso;2021;2020-2021;IPS;ips_tbs_prescolaire;1.0183620004297245
+BF;Burkina Faso;2022;2021-2022;IPS;ips_tbs_prescolaire;1.0155353853570233
+BF;Burkina Faso;2023;2022-2023;IPS;ips_tbs_prescolaire;1.0179883609903093
+BF;Burkina Faso;2024;2023-2024;IPS;ips_tbs_prescolaire;1.0166293198955045
+BF;Burkina Faso;2025;2024-2025;IPS;ips_tbs_prescolaire;0.9991130938144115

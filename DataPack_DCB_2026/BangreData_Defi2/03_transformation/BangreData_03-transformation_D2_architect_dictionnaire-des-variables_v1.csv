@@ -1,0 +1,27 @@
+﻿variable;definition;unite;source_ou_regle
+region_code;"P-code de la region (ancien decoupage, 13 regions) ; BF = ensemble du pays";code;COD-AB adm1_pcode_old
+annee_fin;Annee civile de fin de l'annee scolaire (2016 = 2015-2016);annee;convention equipe
+eff_G / eff_F / eff_T;Effectif d'eleves du primaire, garcons / filles / total;eleves;DGESS tableau 1
+cp1_G / cp1_F / cp1_T;Nouveaux inscrits au CP1;eleves;DGESS tableau 5
+tba_*;Taux brut d'admission au CP1 = nouveaux inscrits / population de 6 ans;%;DGESS tableau 6
+tbs_*;Taux brut de scolarisation au primaire = effectif / population de 6-11 ans;%;DGESS tableau 7
+tap_*;Taux d'achevement du primaire;%;DGESS tableau 8
+cep_*;Taux de reussite au CEP (session de fin d'annee);%;DGESS tableau 9
+ips_tba / ips_tbs / ips_tap;"Indice de parite filles/garcons du taux (1 = parite ; < 1 filles en retard ; > 1 garcons en retard)";ratio;DGESS tableaux 10 a 12
+ips_cp1;Nouvelles inscrites / nouveaux inscrits au CP1;ratio;calcul : cp1_F / cp1_G
+part_filles;Part des filles dans l'effectif;%;calcul : 100 x eff_F / eff_T
+ecart_tbs_pts / ecart_tap_pts / ecart_cep_pts;Ecart filles moins garcons;points de %;calcul : taux_F - taux_G
+pop611_*;Population de 6-11 ans implicite dans le TBS publie;enfants;calcul : eff / (tbs / 100)
+hors_ecole_*;Enfants de 6-11 ans non scolarises, estimation basse;enfants;"calcul : max(pop611 - eff ; 0) ; borne basse car le TBS inclut les eleves hors age"
+eff_presco_* / tbs_presco_* / ips_tbs_presco;Effectif, TBS et IPS du prescolaire;eleves / % / ratio;DGESS prescolaire tableaux 1, 5, 6
+ecoles_public / ecoles_prive / ecoles_total;Nombre d'ecoles primaires;ecoles;DGESS tableau 13
+eleves_par_ecole;Effectif moyen par ecole;eleves;calcul : eff_T / ecoles_total
+perte_depuis_pic_pct;Ecart de l'effectif de l'annee a son plus haut niveau atteint depuis 2016;%;calcul
+var_annuelle_eff_*;Variation de l'effectif par rapport a l'annee precedente;%;calcul
+etablissements_fermes;Etablissements scolaires fermes (tous ordres) au 31/12/2022;etablissements;ST-ESU decembre 2022
+eleves_affectes;Eleves affectes par les fermetures (tous ordres) au 31/12/2022;eleves;ST-ESU decembre 2022
+pdi_total;Personnes deplacees internes enregistrees dans la region d'accueil au 31/12/2022;personnes;CONASUR
+pdi_pour_100_enfants_611;PDI rapportees a la population 6-11 ans implicite 2022-2023 (indicateur de pression);ratio;calcul
+part_urbain_pct (provinces);Part des eleves scolarises en milieu urbain;%;annuaires CNS529, CNS530 tableau I.2
+ips_effectif_urbain / _rural;Filles / garcons inscrits selon le milieu;ratio;calcul
+ecart_filles_urbain_rural_pts;Part des filles en ville moins part des filles en milieu rural;points de %;calcul

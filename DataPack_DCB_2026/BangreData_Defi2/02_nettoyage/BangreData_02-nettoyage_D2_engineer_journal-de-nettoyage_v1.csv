@@ -1,0 +1,26 @@
+﻿n;etape;objet;action;lignes_concernees
+1;lecture;BangreData_01-collecte_D2_engineer_DGESS-prescolaire-primaire-2016-2025-brut_v1.xlsx;"14 feuilles lues ; titres, lignes vides et mises en forme ignores";
+2;lecture;Feuil1;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;2
+3;lecture;Feuil5;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+4;lecture;Feuil6;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+5;lecture;Feuil7;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+6;lecture;Feuil8;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+7;lecture;Feuil9;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+8;harmonisation;Feuil9 CEP;libelles de region harmonises : HAUT-BASSINS;30
+9;convention;Feuil9 CEP;annee de session du CEP (2016...2025) rattachee a l'annee scolaire qui se termine (2015-2016...2024-2025);
+10;lecture;Feuil10;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+11;lecture;Feuil11;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+12;lecture;Feuil12;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+13;format;taux et IPS;taux arrondis a 2 decimales, IPS a 4 decimales (precision heterogene dans la source);1680
+14;lecture;Feuil3;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+15;lecture;Feuil4;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+16;agregation;Feuil4 niveaux;public + prive additionnes par niveau (CP1 a CM2) pour obtenir l'ensemble national;180
+17;lecture;PRESCOLAIRE;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;4
+18;lecture;Feuil13;cellules de texte non statistique (hors tableau ou collees a un en-tete) ignorees;1
+19;harmonisation;Feuil13 ecoles;libelles de region harmonises : HAUT-BASSINS;30
+20;restructuration;tableau I.2 annuaires;lignes PDF regroupees par bloc de region (titre de bloc reporte sur les provinces, y compris l'Est coupe entre les pages 17 et 18);116
+21;format;tableau I.2 annuaires;separateurs de milliers (espace) et decimales a la virgule convertis en nombres;116
+22;harmonisation;provinces;noms de provinces alignes sur la graphie COD-AB (accents, 'LES BALE' -> 'Balé', 'KOMONDJARI' -> 'Komandjari');90
+23;restructuration;fichier DGESS;tableaux larges (annees en colonnes, sexe en sous-colonnes ou en lignes) convertis en format long;3920
+24;separation;lignes de total;lignes nationales conservees avec region_code = BF pour les controles, jamais additionnees aux regions;
+25;harmonisation;lignes nationales;libelles 'NATIONAL', 'Burkina Faso' et 'Total general' ramenes a un code unique BF;

@@ -1,0 +1,13 @@
+{
+  "spearman_ida_vs_sans_fragilite": 0.967,
+  "spearman_ida_vs_variante_ips_effectifs": 0.973,
+  "tirages_de_poids": 2000,
+  "graine": 2026,
+  "dimensions": {
+    "d1_deficit_acces": "Deficit d'acces : 100 - TBS (si positif)",
+    "d2_retard_filles_acces": "Retard des filles a l'entree et dans le cycle : moyenne de (1 - IPS TBA) et (1 - IPS TBS), si positifs",
+    "d3_retard_garcons_achevement": "Retard des garcons a l'achevement : IPS TAP - 1 (si positif)",
+    "d4_ecart_urbain_rural_filles": "Ecart ville-campagne pour les filles : part des filles en ville - part en milieu rural (si positif)",
+    "d5_fragilite": "Fragilite : perte d'effectif par rapport au plus haut niveau atteint depuis 2016"
+  }
+}
